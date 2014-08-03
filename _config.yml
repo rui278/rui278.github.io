@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Rui Albuquerque
+tagline:          #The Jekyll Butler
 url:              http://getpoole.com
 paginate:         1
 baseurl:          /
@@ -16,6 +16,7 @@ author:
   url:            https://twitter.com/mdo
   email:          markdotto@gmail.com
 
+  modified:       Rui Albuquerque
 # Custom vars
 version:          1.0.0
 github:
