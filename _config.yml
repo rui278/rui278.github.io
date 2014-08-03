@@ -16,8 +16,13 @@ author:
   url:            https://twitter.com/mdo
   email:          markdotto@gmail.com
 
-  modified:       Rui Albuquerque
+  modified by:    Rui Albuquerque
+  based on:       joshualande.com / github.com/joshualande/joshualande.github.io
 # Custom vars
 version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
+
+#added by me
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
