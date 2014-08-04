@@ -29,6 +29,7 @@ pages_list:       {'About':'/about','Projects':'/projects','Archive':'/archive',
 
 
 projects_list:    {'CipherChat':'https://github.com/rui278/CipherChat'}
+projects_text:    {'CipherChat':'here'}
   
   
 links_list:       {'twitter':'stuff','gitHub':'github'}
