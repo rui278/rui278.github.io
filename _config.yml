@@ -25,7 +25,7 @@ github:
 
 #added by me
 # This is the list of pages to incldue in the header of the website.
-pages_list:       {'About':'/about','Projects':'/Projects','Archive':'/archive','Feed':'/atom.xml'}
+pages_list:       {'About':'/about','Projects':'/projects','Archive':'/archive','Feed':'/atom.xml'}
 
 
 projects_list : {'CipherChat':'https://github.com/rui278/CipherChat'}
