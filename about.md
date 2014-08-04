@@ -7,6 +7,8 @@ title: About
 Hi! I'm Rui, and this is my blog/personal page!
 </p>
 
+![After my first half marathon!.](/assets/2014-03-16%2013.10.40.jpg)
+
 ## The Blog
 
 So, what i'm trying to do here is a sort of blog where I can talk about what interest me. Be it about school, projects, technology in general, engineering, food. Well, just about anything that atracts my atention.
