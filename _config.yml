@@ -26,7 +26,7 @@ github:
 #added by me
 # This is the list of pages to incldue in the header of the website.
 pages_list:       {'About':'/about','Projects':'/projects','Archive':'/archive','Feed':'/atom.xml'}
-links_list:       {'twitter':'https://twitter.com/rui278','gitHub':'https://github.com/rui278'}
+links_list:       {'Twitter':'https://twitter.com/rui278','GitHub':'https://github.com/rui278'}
 
 
 
