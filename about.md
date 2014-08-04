@@ -4,27 +4,23 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Hi! I'm Rui, and this is my blog/personal page!
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## The Blog
 
-There are currently two themes built on Poole:
+So, what i'm trying to do here is a sort of blog where I can talk about what interest me. Be it about school, projects, technology in general, engineering, food. Well, just about anything that atracts my atention.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Mostly this will be kind of an experiment for me, to see if i'm actually capable of maitaining this blog up with some regularity. I hope soo. We'll see. :P
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+## About me
 
-Some fun facts about the setup of this project include:
+So, about me.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+I'm currently a Grad student in Electrical and Computer Engineering at Instituto Superior Técnico, in Lisbon. My main interests lie in computer architectures, hardware acceleration, algorithms, computer networks, optimization and more recently Artificial Inteligence and machine learning (I'll be expanding on those this year!). I also have an interest in systems and network security, parallel programing. You know, the usual Computer Engineering stuff...
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+On my free time I love traveling, and have already met a good (but never enough!) share of European countries, and some of the Americas. I'll even be spending next semester abroad in Belgium's KUL, so that's going to be cool! I also recently began running, and have already completed my first Half-Marathon. I love reading (mostly Sci-Fy and Fantasy) and catching up on my favourite shows. And obviously, the obligatory spending time with my friends :)
 
-Thanks for reading!
+
+Thanks for reading! And I hope you enjoy this new experiment!
