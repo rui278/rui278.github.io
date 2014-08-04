@@ -28,7 +28,7 @@ github:
 pages_list:       {'About':'/about','Projects':'/projects','Archive':'/archive','Feed':'/atom.xml'}
 
 
-projects_list:    {'CipherChat':'https://github.com/rui278/CipherChat':'yakyak'}
+projects_list:    {'CipherChat':'https://github.com/rui278/CipherChat':'yakyak':'ya'}
   
   
 links_list:       {'twitter':'stuff','gitHub':'github'}
