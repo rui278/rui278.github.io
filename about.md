@@ -7,7 +7,7 @@ title: About
 Hi! I'm Rui, and this is my blog/personal page!
 </p>
 
-![After my first half marathon!.](/assets/2014-03-16%2013.10.40.jpg)
+![After my first half marathon!.](/assets/rui2.png)
 
 ## The Blog
 
@@ -27,3 +27,5 @@ On my free time I love traveling, and have already met a good (but never enough!
 If you want to contact me, feel free to hit me up on <a href = "twitter.com/rui278">twitter</a>!
 
 Thanks for reading! And I hope you enjoy this new experiment!
+
+(p.s. thanks to Ricardo for the about pic photoshop and Artur for the favicon :D )
