@@ -22,5 +22,6 @@ I'm currently a Grad student in Electrical and Computer Engineering at Instituto
 
 On my free time I love traveling, and have already met a good (but never enough!) share of European countries, and some of the Americas. I'll even be spending next semester abroad in Belgium's KUL, so that's going to be cool! I also recently began running, and have already completed my first Half-Marathon. I love reading (mostly Sci-Fy and Fantasy) and catching up on my favourite shows. And obviously, the obligatory spending time with my friends :)
 
+If you want to contact me, feel free to hit me up on <a href = "twitter.com/rui278">twitter</a>!
 
 Thanks for reading! And I hope you enjoy this new experiment!
