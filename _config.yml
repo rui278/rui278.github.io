@@ -28,8 +28,12 @@ github:
 pages_list:       {'About':'/about','Projects':'/projects','Archive':'/archive','Feed':'/atom.xml'}
 
 
-projects_list:    {'CipherChat':'https://github.com/rui278/CipherChat'}
-projects_text:    {'CipherChat':'here'}
+projects_list:    {'CipherChat':'https://github.com/rui278/CipherChat',
+                   'CipherManager':'https://github.com/rui278/CipherManager'}
+                   
+projects_text:    {'CipherChat':'An Android chat app that provides secure and confidential conversations among users. It uses the Revised Needham-Shroeder Protocol to provide confidentiality, authentication, freshness and integrity. It purposely does not assure non-repudiation so that full client privacy can be respected.',
+                   'CipherManager':'A simple desktop password manager. You can use, view or create passwords. Passwords are stored localy. uses AES and SHA256.',
+                   }
   
   
 links_list:       {'twitter':'stuff','gitHub':'github'}
