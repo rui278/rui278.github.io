@@ -24,7 +24,7 @@
       
       {% include google_analytics.html %}
 
-      {% if site.comments != false %}
+      {% if page.comments == true %}
         <!--for disqus -->
         {% include comments.html %}
       {% endif %}
