@@ -8,7 +8,7 @@ comments: False
 Hi! I'm Rui, and this is my blog/personal page!
 </p>
 
-![After my first half marathon!.](/assets/rui2.png)
+![After my first half marathon!.](/assets/rui.jpg)
 
 ## The Blog
 
