@@ -23,9 +23,12 @@
       {{ content }}
       
       {% include google_analytics.html %}
-      <!--for disqus -->
-      {% include comments.html %}
 
+      {% if site.comments != false %}
+        <!--for disqus -->
+        {% include comments.html %}
+      {% endif %}
+      
       <div class="footer">
         <p>
           &copy; {{ site.time | date: '%Y' }}. All rights reserved.
