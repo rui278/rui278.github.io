@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+comments: False
 ---
 
 {% for project in site.projects_list %}
