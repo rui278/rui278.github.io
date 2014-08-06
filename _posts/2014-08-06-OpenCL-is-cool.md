@@ -47,4 +47,4 @@ Also, great tool to learn openCL: [AMD's Programing in OpenCL videos](http://dev
 
 (P.S. I really only know CUDA in a very superficial way. I have no notion of it’s capabilities when it comes to managing jobs. And I’m absolutely not saying OpenCL is great in detriment to CUDA, nor making any assumption of it’s capabilities, or comparing them. All I’m saying is, i was expecting a level of finesse from GPGPU, and the actual level i got, is surprisingly cool! So, in reality, what I’m saying is that GPGPU programming is more awesome than i thought it’d be, and the vehicle for that realisation is OpenCL!).
 
-{% shamelessPlug.html %}
+{% include shamelessPlug.html %}
