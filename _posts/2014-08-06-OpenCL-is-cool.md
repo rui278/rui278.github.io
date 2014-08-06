@@ -11,11 +11,11 @@ OpenCL is cool, and that’s a not a useful statement…
 I used GPGPU last semester for an assignment, in which we had to accelerate one algorithm using the CUDA platform. My group’s algorithm was [Kmeans clustering](https://en.wikipedia.org/wiki/Kmeans). For some context, this algorithm is pretty simple. All it does is to pass through a number of data points and assign them to a cluster, given a set number of clusters and their initial [centroids](https://en.wikipedia.org/wiki/Kmeans). 
 The implementation of the algorithm is fairly simple. You basically break it down into three logical components and two logical for loops. The logical components are are as follows: 
 
-<b>For Loop 1 - Classification </b>: basically the gist of the algorithm, you run through all your data points and classify them to a specific cluster.
+<b>For Loop 1 - Classification </b>: Basically the gist of the algorithm, you run through all your data points and classify them to a specific cluster.
 
-<b>For Loop 1 - Accumulation: </b>in which you do the summation of the coordinates (individually) of all the data points classified to a cluster and count the number of data points attributed to each cluster. (This will make sense in the next component).
+<b>For Loop 1 - Accumulation</b>: In which you do the summation of the coordinates (individually) of all the data points classified to a cluster and count the number of data points attributed to each cluster. (This will make sense in the next component).
 
-<b>For Loop 2</b> - Recalculation: using the summation of all the coordinates data points in the cluster and the number of points you create a new centroid by dividing those two metrics, so that the new centroid corresponds to the “center of mass” of all the points that are attributed to him (implies that the selection of original centroids is important to the output, and assuming all data points have the same weight in the recalculation).
+<b>For Loop 2 - Recalculation</b>: Using the summation of all the coordinates data points in the cluster and the number of points you create a new centroid by dividing those two metrics, so that the new centroid corresponds to the “center of mass” of all the points that are attributed to him (implies that the selection of original centroids is important to the output, and assuming all data points have the same weight in the recalculation).
 
 And then this repeats itself until either you have a set number of iterations or recalculated centroids don’t change at all.
 
