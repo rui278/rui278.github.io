@@ -17,9 +17,9 @@ The implementation of the algorithm is fairly simple. You basically break it dow
 
 <b>For Loop 2 - Recalculation</b>: Using the summation of all the coordinates data points in the cluster and the number of points you create a new centroid by dividing those two metrics, so that the new centroid corresponds to the “center of mass” of all the points that are attributed to him (implies that the selection of original centroids is important to the output, and assuming all data points have the same weight in the recalculation).
 
-And then this repeats itself until either you have a set number of iterations or recalculated centroids don’t change at all.
+And then this repeats itself until either you have a set number of iterations or the recalculated centroids don’t change at all between iterations.
 
-(I don’t know why i had to explain all of the algorithm when i liked it… Too late i guess…)
+(I don’t know why I had to explain all of the algorithm when I linked it to wikipedia… Too late i guess…)
 
 ##Actual blog post content that’s not just me sidetracking into other topics...
 All of this, just to say, I learned some CUDA and used a GPU ([Nvidia K40](http://www.nvidia.com/object/tesla-servers.html)).
