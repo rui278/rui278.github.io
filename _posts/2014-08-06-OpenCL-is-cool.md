@@ -24,7 +24,7 @@ And then this repeats itself until either you have a set number of iterations or
 ##Actual blog post content that’s not just me sidetracking into other topics...
 All of this, just to say, I learned some CUDA and used a GPU ([Nvidia K40](http://www.nvidia.com/object/tesla-servers.html)).
 
-Now, my thesis is also about GPGPU, so i started to learn about OpenCL. I figured it’d be about the same as CUDA. And it it, in its core they both use the same structure. A host talks to a device (or multiple) and send jobs(kernels) to it. Easy peasy. And that’s basically what I did in that assignment. Copied data to GPU, executed kmeans kernel, copied data back to CPU, got time, calculated speedup. And that was it.
+My thesis is also about GPGPU, so i started to learn about OpenCL. I figured it’d be about the same as CUDA. And it it, in its core they both use the same structure. A host talks to a device (or multiple) and send jobs(kernels) to it. Easy peasy. And that’s basically what I did in that assignment. Copied data to GPU, executed kmeans kernel, copied data back to CPU, got time, calculated speedup. And that was it.
 
 So for me, that was GPGPU.
 
