@@ -1,7 +1,7 @@
 ---
 title:	OpenCL is cool (plus an unexpected explanation of k-means clustering)
 layout: post
-Comments:	True
+comments:	True
 ---
 
 OpenCL is cool, and that’s a not a useful statement…
