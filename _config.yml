@@ -8,13 +8,16 @@ permalink:        pretty
 # Setup
 title:            Rui Albuquerque
 tagline:          #The Jekyll Butler
-url:              http://getpoole.com
+# url:              http://getpoole.com
+url:              ruialbuquerque.pt
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  #name:           Mark Otto
+  name:           Rui Albuquerque
+  #url:            https://twitter.com/mdo
+  url:            https://twitter.com/rui278
+  #email:          markdotto@gmail.com
 
   modified by:    Rui Albuquerque
   based on:       joshualande.com / github.com/joshualande/joshualande.github.io
