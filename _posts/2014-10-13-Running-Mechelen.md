@@ -4,7 +4,7 @@ layout: post
 comments:	True
 ---
 
-So, for those who don’t know, last year, around may I started running. First I run just by myself, but then in March I ran my first Half-Marathon, but I’d never ran an official 10k race. So I thought I could accomplish that, plus add another country to the list of countries where i’ve run (So far, Brazil, Portugal and Belgium :P). Then I decided to add another goal, and have an official sub-60 race. 
+So, for those who don’t know, last year, around may I started running. First I run just by myself, but then in March I ran my first Half-Marathon, but I’d never run an official 10k race. So I thought I could accomplish that, plus add another country to the list of countries where i’ve run (So far, Brazil, Portugal and Belgium :P). Then I decided to add another goal, and have an official sub-60 race. 
 
 So with all that in mind, I joined [this](http://www.sport.be/runningtour/dwarsdoormechelen/2014/nl/) and made a race out of it.
 
