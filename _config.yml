@@ -40,13 +40,13 @@ projects_list:    {'CipherChat':'https://github.com/rui278/CipherChat',
                    'CipherManager':'https://github.com/rui278/CipherManager',
                    'Cuda Kmeans':'https://github.com/rui278/cudaKmeans',
                    'Dinamic Directories':'https://github.com/rui278/Dinamic-Directories',
-                   'x265 Hevc Doxygen':'ruialbuquerque.pt/hevc'
+                   'x265 Hevc Doxygen':'http://ruialbuquerque.pt/hevc'
                    }
                    
 projects_text:    {'CipherChat':'An Android chat app that provides secure and confidential conversations among users. It uses the Revised Needham-Shroeder Protocol to provide confidentiality, authentication, freshness and integrity. It purposely does not assure non-repudiation so that full client privacy can be respected.',
                    'CipherManager':'A simple desktop password manager. You can use, view or create passwords. Passwords are stored localy. uses AES and SHA256.',
                    'Cuda Kmeans':'A Kmeans Implementation using Cuda to enable GPU usage and acceleration.',
                    'Dinamic Directories':'A dinamic user directory based chat application',
-                   'Hevc Doxygen':'I am working on a project wich includes an implementation of the hevc standard by the guys at x265.org. They did not have all the documentation the way i wanted/needed it, so i ran doxygen on the code and I will leave it here for any one who wants to use it'
+                   'x265 Hevc Doxygen':'I am working on a project wich includes an implementation of the hevc standard by the guys at x265.org. They did not have all the documentation the way i wanted/needed it, so i ran doxygen on the code and I will leave it here for any one who wants to use it'
                    }
   
