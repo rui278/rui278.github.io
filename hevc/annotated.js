@@ -1,0 +1,25 @@
+var annotated =
+[
+    [ "ppa", "d4/d61/namespaceppa.html", "d4/d61/namespaceppa" ],
+    [ "x265", "d2/d6c/namespacex265.html", "d2/d6c/namespacex265" ],
+    [ "CLIOptions", "d3/d08/structCLIOptions.html", "d3/d08/structCLIOptions" ],
+    [ "CUData", "d7/d77/structCUData.html", "d7/d77/structCUData" ],
+    [ "DctConf", "d8/db7/structDctConf.html", "d8/db7/structDctConf" ],
+    [ "IntraPredHarness", "d9/d1f/classIntraPredHarness.html", "d9/d1f/classIntraPredHarness" ],
+    [ "IPFilterHarness", "d0/d0c/classIPFilterHarness.html", "d0/d0c/classIPFilterHarness" ],
+    [ "MBDstHarness", "d4/d3d/classMBDstHarness.html", "d4/d3d/classMBDstHarness" ],
+    [ "MD5Frame", "d2/d74/classMD5Frame.html", "d2/d74/classMD5Frame" ],
+    [ "option", "d6/d43/structoption.html", "d6/d43/structoption" ],
+    [ "PixelHarness", "d5/d2f/classPixelHarness.html", "d5/d2f/classPixelHarness" ],
+    [ "RowData", "da/d35/structRowData.html", "da/d35/structRowData" ],
+    [ "TestHarness", "d5/de3/classTestHarness.html", "d5/de3/classTestHarness" ],
+    [ "x265_analysis_data", "d2/d37/structx265__analysis__data.html", "d2/d37/structx265__analysis__data" ],
+    [ "x265_cli_csp", "d1/d62/structx265__cli__csp.html", "d1/d62/structx265__cli__csp" ],
+    [ "x265_encoder", "db/d36/structx265__encoder.html", null ],
+    [ "x265_inter_data", "d7/d21/structx265__inter__data.html", "d7/d21/structx265__inter__data" ],
+    [ "x265_intra_data", "d2/df0/structx265__intra__data.html", "d2/df0/structx265__intra__data" ],
+    [ "x265_nal", "d2/d7e/structx265__nal.html", "d2/d7e/structx265__nal" ],
+    [ "x265_param", "d6/df7/structx265__param.html", "d6/df7/structx265__param" ],
+    [ "x265_picture", "db/de6/structx265__picture.html", "db/de6/structx265__picture" ],
+    [ "x265_stats", "d0/d1a/structx265__stats.html", "d0/d1a/structx265__stats" ]
+];
