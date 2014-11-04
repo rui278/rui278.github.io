@@ -1,0 +1,24 @@
+<map id="x265::Slice::isIntra" name="x265::Slice::isIntra">
+<area shape="rect" id="node2" href="$classx265_1_1Analysis.html#ae4d61bcf4d2c22a054d68d6d77136428" title="x265::Analysis::encodeIntra\lInInter" alt="" coords="449,114,633,155"/>
+<area shape="rect" id="node9" href="$classx265_1_1Encoder.html#ab6b2602eaeb3c7986173edf5755e0454" title="x265::Encoder::finishFrame\lStats" alt="" coords="198,473,381,514"/>
+<area shape="rect" id="node13" href="$classx265_1_1Entropy.html#ad1f2a2f7d75512adb1d05131b6689ac1" title="x265::Entropy::codeSlice\lHeader" alt="" coords="205,386,373,427"/>
+<area shape="rect" id="node15" href="$classx265_1_1Entropy.html#adeb50a7c9a5df6643407d01158d93799" title="x265::Entropy::encodeCU" alt="" coords="203,324,376,351"/>
+<area shape="rect" id="node18" href="$classx265_1_1Search.html#a59b84ac1e21c86af579b6e84e43c5b7a" title="x265::Search::codeIntraLumaQT" alt="" coords="184,223,395,249"/>
+<area shape="rect" id="node20" href="$classx265_1_1Search.html#ab02df91827cf67796d1605bde60c6aed" title="x265::Search::checkIntra" alt="" coords="688,223,856,249"/>
+<area shape="rect" id="node3" href="$classx265_1_1Analysis.html#aa6122285d10bb1bd7584958b88b029d5" title="x265::Analysis::parallel\lModeAnalysis" alt="" coords="693,5,851,46"/>
+<area shape="rect" id="node5" href="$classx265_1_1Analysis.html#a87060ff27a37f56adc5f5b8a4c033ece" title="x265::Analysis::compress\lInterCU_dist" alt="" coords="1136,62,1309,103"/>
+<area shape="rect" id="node8" href="$classx265_1_1Analysis.html#a30d2ff7eca5addbb0a6b3dfe14f09650" title="x265::Analysis::compress\lInterCU_rd0_4" alt="" coords="1136,127,1309,169"/>
+<area shape="rect" id="node4" href="$classx265_1_1Analysis.html#a29a58dad4cc1c07d2f5e5717c6be7c25" title="x265::Analysis::findJob" alt="" coords="917,16,1075,43"/>
+<area shape="rect" id="node6" href="$classx265_1_1Analysis.html#aaebc9de2ff98834c650244f3b58942c2" title="x265::Analysis::compressCTU" alt="" coords="1358,200,1559,227"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="1609,255,1759,297"/>
+<area shape="rect" id="node10" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="463,492,619,519"/>
+<area shape="rect" id="node11" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="696,492,848,519"/>
+<area shape="rect" id="node12" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="971,492,1021,519"/>
+<area shape="rect" id="node14" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="925,401,1067,442"/>
+<area shape="rect" id="node16" href="$classx265_1_1Entropy.html#abb101b71f310e90eb504a8204babc180" title="x265::Entropy::encodeCTU" alt="" coords="451,324,632,351"/>
+<area shape="rect" id="node17" href="$classx265_1_1FrameEncoder.html#a6d4045d35bfe6b10c8d0dc39353be360" title="x265::FrameEncoder\l::encodeSlice" alt="" coords="701,375,843,417"/>
+<area shape="rect" id="node19" href="$classx265_1_1Search.html#a1778d2ab96ac88c7f76d36818d6adbdd" title="x265::Search::estIntraPredQT" alt="" coords="443,223,639,249"/>
+<area shape="rect" id="node21" href="$classx265_1_1Analysis.html#a10f0a8d9d143faf8dc671c6f0982693d" title="x265::Analysis::tryLossless" alt="" coords="905,172,1087,199"/>
+<area shape="rect" id="node22" href="$classx265_1_1Analysis.html#aae2a6a2252270782b591d2bed7e99dae" title="x265::Analysis::compress\lIntraCU" alt="" coords="1136,258,1309,299"/>
+<area shape="rect" id="node23" href="$classx265_1_1Analysis.html#a0b22b7765aa4a36b1ba6d07ba26901e6" title="x265::Analysis::compress\lInterCU_rd5_6" alt="" coords="1136,193,1309,234"/>
+</map>

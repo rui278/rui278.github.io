@@ -1,0 +1,9 @@
+<map id="x265::Quant" name="x265::Quant">
+<area shape="rect" id="node2" href="$structx265_1_1NoiseReduction.html" title="x265::NoiseReduction" alt="" coords="537,81,687,108"/>
+<area shape="rect" id="node4" href="$structx265_1_1QpParam.html" title="x265::QpParam" alt="" coords="717,199,830,225"/>
+<area shape="rect" id="node6" href="$classx265_1_1ScalingList.html" title="x265::ScalingList" alt="" coords="712,600,835,627"/>
+<area shape="rect" id="node9" href="$classx265_1_1Entropy.html" title="x265::Entropy" alt="" coords="722,368,825,395"/>
+<area shape="rect" id="node13" href="$structx265_1_1EstBitsSbac.html" title="x265::EstBitsSbac" alt="" coords="355,445,485,472"/>
+<area shape="rect" id="node10" href="$classx265_1_1SyntaxElementWriter.html" title="x265::SyntaxElementWriter" alt="" coords="329,661,511,688"/>
+<area shape="rect" id="node11" href="$classx265_1_1BitInterface.html" title="x265::BitInterface" alt="" coords="5,661,131,688"/>
+</map>

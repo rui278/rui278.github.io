@@ -1,0 +1,11 @@
+<map id="x265::Bitstream::resetBits" name="x265::Bitstream::resetBits">
+<area shape="rect" id="node2" href="$classx265_1_1Bitstream.html#adca7574c96df6fe1f932f44e9800796c" title="x265::Bitstream::Bitstream" alt="" coords="229,5,408,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#a5095039a4d1af32049c30052ef3e6588" title="x265::Encoder::getStream\lHeaders" alt="" coords="231,57,406,98"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="859,115,1002,157"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="243,174,394,215"/>
+<area shape="rect" id="node4" href="$x265_8h.html#a575071c7bc7374ffd708d93f016211b5" title="x265_encoder_headers" alt="" coords="457,21,613,48"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="711,21,761,48"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="1051,115,1194,157"/>
+<area shape="rect" id="node9" href="$classx265_1_1FrameEncoder.html#acad645a8ece97d884895f8f7366b7d70" title="x265::FrameEncoder\l::processRow" alt="" coords="463,174,606,215"/>
+<area shape="rect" id="node10" href="$classx265_1_1FrameEncoder.html#ac4e9ce2e876c0cdb25c992c872fe4302" title="x265::FrameEncoder\l::compressCTURows" alt="" coords="661,174,811,215"/>
+</map>

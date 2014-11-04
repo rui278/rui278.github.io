@@ -1,0 +1,7 @@
+<map id="x265::CUData::getColMVP" name="x265::CUData::getColMVP">
+<area shape="rect" id="node2" href="$classx265_1_1Slice.html#af70c482a1b6f69f50aa211dc9e74e615" title="x265::Slice::isInterB" alt="" coords="263,5,403,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1FrameData.html#a83d98df913873a07c3ce59bd5c16b2e4" title="x265::FrameData::getPicCTU" alt="" coords="235,56,431,83"/>
+<area shape="rect" id="node4" href="$classx265_1_1CUData.html#a4de1cda97a0a06196c9f6ac92d6829a2" title="x265::CUData::isIntra" alt="" coords="258,107,409,133"/>
+<area shape="rect" id="node5" href="$classx265_1_1CUData.html#ac4a238cd025b199704cb9497df53df2a" title="x265::CUData::getDistScale\lFactor" alt="" coords="239,158,428,199"/>
+<area shape="rect" id="node6" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="481,165,533,192"/>
+</map>

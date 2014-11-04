@@ -1,0 +1,5 @@
+<map id="x265::Entropy::codeCUTransquantBypassFlag" name="x265::Entropy::codeCUTransquantBypassFlag">
+<area shape="rect" id="node2" href="$classx265_1_1Entropy.html#ad5bd127b6afa68ee4408890c75fdd4bd" title="x265::Entropy::encodeBin" alt="" coords="278,12,450,39"/>
+<area shape="rect" id="node3" href="$classx265_1_1Entropy.html#a38c906d03fe47f10456a3d5bc0cd2080" title="x265::Entropy::writeOut" alt="" coords="499,12,659,39"/>
+<area shape="rect" id="node4" href="$classx265_1_1BitInterface.html#a0ab2614d14b086091eefc0ed19f3be6d" title="x265::BitInterface\l::writeByte" alt="" coords="707,5,832,46"/>
+</map>

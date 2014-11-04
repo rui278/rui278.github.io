@@ -1,0 +1,5 @@
+<map id="x265::ThreadPool::allocThreadPool" name="x265::ThreadPool::allocThreadPool">
+<area shape="rect" id="node2" href="$classx265_1_1ThreadPoolImpl.html#a6c1b17b10b4758bd56bab1e6ebb97c74" title="x265::ThreadPoolImpl\l::AddReference" alt="" coords="280,5,429,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1Lock.html#a11bb88b077423b018467350cb6858edc" title="x265::Lock::acquire" alt="" coords="287,71,423,97"/>
+<area shape="rect" id="node4" href="$classx265_1_1Lock.html#a985bcbbf08696312e240893ec0386c78" title="x265::Lock::release" alt="" coords="287,121,423,148"/>
+</map>

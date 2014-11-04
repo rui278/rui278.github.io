@@ -1,0 +1,5 @@
+<map id="x265::Analysis::destroy" name="x265::Analysis::destroy">
+<area shape="rect" id="node2" href="$structx265_1_1CUDataMemPool.html#ad4f050d939dc2afad098b28ed44e977a" title="x265::CUDataMemPool\l::destroy" alt="" coords="214,5,375,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1Yuv.html#a079d3100d278223fce5bb6c75ef34a27" title="x265::Yuv::destroy" alt="" coords="229,71,361,97"/>
+<area shape="rect" id="node4" href="$classx265_1_1ShortYuv.html#a632447e38a255906a55d1bb96a02bb4f" title="x265::ShortYuv::destroy" alt="" coords="213,121,376,148"/>
+</map>

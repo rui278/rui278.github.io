@@ -1,0 +1,7 @@
+<map id="x265::RateControl::checkAndResetABR" name="x265::RateControl::checkAndResetABR">
+<area shape="rect" id="node2" href="$classx265_1_1RateControl.html#a20bb1fccf54857b75ef70fcc61406bb7" title="x265::RateControl::\lrateEstimateQscale" alt="" coords="198,7,335,49"/>
+<area shape="rect" id="node6" href="$classx265_1_1RateControl.html#a26331c267938f5e6e49ad5b07e4ff013" title="x265::RateControl::\lrateControlEnd" alt="" coords="384,70,520,111"/>
+<area shape="rect" id="node3" href="$classx265_1_1RateControl.html#a6453a04a36d66b87ed8a23df88e75326" title="x265::RateControl::\lrateControlStart" alt="" coords="384,5,520,46"/>
+<area shape="rect" id="node4" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="569,38,711,79"/>
+<area shape="rect" id="node5" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="761,38,903,79"/>
+</map>

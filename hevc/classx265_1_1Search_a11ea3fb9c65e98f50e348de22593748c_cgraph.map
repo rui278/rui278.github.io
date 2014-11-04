@@ -1,0 +1,31 @@
+<map id="x265::Search::residualTransformQuantInter" name="x265::Search::residualTransformQuantInter">
+<area shape="rect" id="node2" href="$classx265_1_1CUData.html#a48e01d2ab6352fe9be0a73950c0d0a72" title="x265::CUData::setTrIdxSub\lParts" alt="" coords="279,5,465,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1CUData.html#a8dd1f85d1e78556e93766fcf40f8da53" title="x265::CUData::setTransform\lSkipSubParts" alt="" coords="277,70,467,111"/>
+<area shape="rect" id="node4" href="$classx265_1_1ShortYuv.html#a048ebc29e8a3839ab5a7a544f77b878f" title="x265::ShortYuv::getLumaAddr" alt="" coords="273,136,471,163"/>
+<area shape="rect" id="node6" href="$classx265_1_1Yuv.html#a6c62d5a28f8007eda953bd8026089989" title="x265::Yuv::getLumaAddr" alt="" coords="289,187,455,213"/>
+<area shape="rect" id="node8" href="$classx265_1_1Quant.html#a2d9fecd5e50c8f9ba36dd799a1f07d5c" title="x265::Quant::transformNxN" alt="" coords="281,237,463,264"/>
+<area shape="rect" id="node18" href="$classx265_1_1CUData.html#a4cac297d287adde2de4b159a8e315f0b" title="x265::CUData::setCbfSubParts" alt="" coords="269,288,475,315"/>
+<area shape="rect" id="node19" href="$classx265_1_1Quant.html#afeb2e80ae9009ff3320ebda1226fd999" title="x265::Quant::invtransformNxN" alt="" coords="272,339,472,365"/>
+<area shape="rect" id="node20" href="$classx265_1_1ShortYuv.html#a6660171fcbce209dfaa6fe73ae4de71c" title="x265::ShortYuv::getCbAddr" alt="" coords="281,389,463,416"/>
+<area shape="rect" id="node22" href="$classx265_1_1ShortYuv.html#a6da679101051acbcbab626c848863fa8" title="x265::ShortYuv::getCrAddr" alt="" coords="283,440,461,467"/>
+<area shape="rect" id="node23" href="$classx265_1_1CUData.html#ad37ca4bc35a537d31b6f2e911e445724" title="x265::CUData::setTransform\lSkipPartRange" alt="" coords="277,491,467,533"/>
+<area shape="rect" id="node24" href="$classx265_1_1Yuv.html#ae9ee735ee14e85c083e59c04d9776f5e" title="x265::Yuv::getCbAddr" alt="" coords="297,557,447,584"/>
+<area shape="rect" id="node26" href="$classx265_1_1Yuv.html#a357df18eeacf546a884e04e232b326cc" title="x265::Yuv::getCrAddr" alt="" coords="298,608,446,635"/>
+<area shape="rect" id="node27" href="$classx265_1_1CUData.html#a5b029821a570ffb317b622fef736f6c1" title="x265::CUData::setCbfPart\lRange" alt="" coords="543,673,721,714"/>
+<area shape="rect" id="node28" href="$structx265_1_1TURecurse.html#a57a0734e9b32d88376eaec732b751d0f" title="x265::TURecurse::isNextSection" alt="" coords="265,709,479,736"/>
+<area shape="rect" id="node29" href="$classx265_1_1Search.html#ace86521a6b5c975d69122fc47d031c76" title="x265::Search::offsetSubTUCBFs" alt="" coords="265,760,479,787"/>
+<area shape="rect" id="node30" href="$classx265_1_1CUData.html#ae01b9f17830903cc264ddb26b18ed4a0" title="x265::CUData::getCbf" alt="" coords="555,785,709,812"/>
+<area shape="rect" id="node5" href="$classx265_1_1ShortYuv.html#a508fe415b0caa67a51e588bc1591a1d6" title="x265::ShortYuv::getAddrOffset" alt="" coords="531,136,733,163"/>
+<area shape="rect" id="node7" href="$classx265_1_1Yuv.html#a2a599599b46661ccf39f1144dfe2145a" title="x265::Yuv::getAddrOffset" alt="" coords="547,187,717,213"/>
+<area shape="rect" id="node9" href="$classx265_1_1Quant.html#ab353c26be0707486eecf784d618fc385" title="x265::Quant::rdoQuant" alt="" coords="555,288,709,315"/>
+<area shape="rect" id="node11" href="$classx265_1_1CUData.html#a554b34e5fb607f903b7765bd240c2694" title="x265::CUData::getTUEntropy\lCodingParameters" alt="" coords="784,171,979,213"/>
+<area shape="rect" id="node17" href="$classx265_1_1Quant.html#addfd2976d7e94bfc7db1b8b2640d1641" title="x265::Quant::signBitHidingHDQ" alt="" coords="528,339,736,365"/>
+<area shape="rect" id="node10" href="$classx265_1_1CUData.html#a4de1cda97a0a06196c9f6ac92d6829a2" title="x265::CUData::isIntra" alt="" coords="1055,233,1206,260"/>
+<area shape="rect" id="node13" href="$classx265_1_1Quant.html#aaf517e8c951a76b369006e1f48645e74" title="x265::Quant::calcPattern\lSigCtx" alt="" coords="798,339,965,381"/>
+<area shape="rect" id="node14" href="$classx265_1_1Quant.html#a6fe89a8ebf937d5dbe20c7ac3e3288ad" title="x265::Quant::getSigCtxInc" alt="" coords="793,405,970,432"/>
+<area shape="rect" id="node15" href="$classx265_1_1Quant.html#ad178d867a67ea861aad413e8d7d07767" title="x265::Quant::getSigCoeff\lGroupCtxInc" alt="" coords="796,457,967,498"/>
+<area shape="rect" id="node16" href="$classx265_1_1Quant.html#a722c0aa6aa183083114f820bc951049a" title="x265::Quant::getRateLast" alt="" coords="795,288,967,315"/>
+<area shape="rect" id="node12" href="$classx265_1_1CUData.html#ada5470364be8a87b70b409a3f521fce2" title="x265::CUData::getCoefScanIdx" alt="" coords="1027,179,1235,205"/>
+<area shape="rect" id="node21" href="$classx265_1_1ShortYuv.html#a9249fde852269aaff4406515274bcf9d" title="x265::ShortYuv::getChroma\lAddrOffset" alt="" coords="540,411,724,453"/>
+<area shape="rect" id="node25" href="$classx265_1_1Yuv.html#a0ea2ba029528b5b9eca460bb8d67423b" title="x265::Yuv::getChromaAddr\lOffset" alt="" coords="542,581,722,622"/>
+</map>

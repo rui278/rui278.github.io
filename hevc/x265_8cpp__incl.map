@@ -1,0 +1,14 @@
+<map id="source/x265.cpp" name="source/x265.cpp">
+<area shape="rect" id="node2" href="$input_8h.html" title="input/input.h" alt="" coords="29,155,123,181"/>
+<area shape="rect" id="node3" href="$x265_8h.html" title="x265.h" alt="" coords="45,229,107,256"/>
+<area shape="rect" id="node8" href="$output_8h.html" title="output/output.h" alt="" coords="204,155,313,181"/>
+<area shape="rect" id="node9" href="$filters_8h.html" title="filters/filters.h" alt="" coords="339,155,440,181"/>
+<area shape="rect" id="node10" href="$common_8h.html" title="common.h" alt="" coords="583,155,664,181"/>
+<area shape="rect" id="node24" href="$param_8h.html" title="param.h" alt="" coords="495,80,564,107"/>
+<area shape="rect" id="node25" href="$cpu_8h.html" title="cpu.h" alt="" coords="589,80,643,107"/>
+<area shape="rect" id="node26" href="$ppa_8h.html" title="PPA/ppa.h" alt="" coords="668,80,753,107"/>
+<area shape="rect" id="node30" href="$getopt_8h.html" title="getopt.h" alt="" coords="1039,80,1108,107"/>
+<area shape="rect" id="node4" href="$stdint_8h.html" title="stdint.h" alt="" coords="131,304,196,331"/>
+<area shape="rect" id="node7" href="$x265__config_8h.html" title="x265_config.h" alt="" coords="5,304,107,331"/>
+<area shape="rect" id="node23" href="$constants_8h.html" title="constants.h" alt="" coords="1241,229,1332,256"/>
+</map>

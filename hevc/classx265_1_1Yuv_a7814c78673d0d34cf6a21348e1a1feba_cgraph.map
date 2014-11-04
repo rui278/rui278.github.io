@@ -1,0 +1,7 @@
+<map id="x265::Yuv::copyToPartYuv" name="x265::Yuv::copyToPartYuv">
+<area shape="rect" id="node2" href="$classx265_1_1Yuv.html#a6c62d5a28f8007eda953bd8026089989" title="x265::Yuv::getLumaAddr" alt="" coords="233,5,399,32"/>
+<area shape="rect" id="node4" href="$classx265_1_1Yuv.html#ae9ee735ee14e85c083e59c04d9776f5e" title="x265::Yuv::getCbAddr" alt="" coords="241,56,391,83"/>
+<area shape="rect" id="node6" href="$classx265_1_1Yuv.html#a357df18eeacf546a884e04e232b326cc" title="x265::Yuv::getCrAddr" alt="" coords="242,107,390,133"/>
+<area shape="rect" id="node3" href="$classx265_1_1Yuv.html#a2a599599b46661ccf39f1144dfe2145a" title="x265::Yuv::getAddrOffset" alt="" coords="453,5,624,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1Yuv.html#a0ea2ba029528b5b9eca460bb8d67423b" title="x265::Yuv::getChromaAddr\lOffset" alt="" coords="449,78,629,119"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="x265::SEI::payloadType" name="x265::SEI::payloadType">
+<area shape="rect" id="node2" href="$classx265_1_1SEI.html#aa47f55241ed2dc840019467d5b3e888e" title="x265::SEI::write" alt="" coords="217,41,333,68"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#a5095039a4d1af32049c30052ef3e6588" title="x265::Encoder::getStream\lHeaders" alt="" coords="382,5,557,46"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="613,63,755,105"/>
+<area shape="rect" id="node4" href="$x265_8h.html#a575071c7bc7374ffd708d93f016211b5" title="x265_encoder_headers" alt="" coords="606,12,762,39"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="857,12,908,39"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="811,63,954,105"/>
+</map>

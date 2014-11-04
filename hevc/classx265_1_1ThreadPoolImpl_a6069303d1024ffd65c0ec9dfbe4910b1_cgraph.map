@@ -1,0 +1,6 @@
+<map id="x265::ThreadPoolImpl::Stop" name="x265::ThreadPoolImpl::Stop">
+<area shape="rect" id="node2" href="$classx265_1_1ThreadPoolImpl.html#af17f546fdc382ff7102897b91812ea12" title="x265::ThreadPoolImpl\l::waitForAllIdle" alt="" coords="208,5,357,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1PoolThread.html#a9e1083006da7d4bea5e60ff5a9e2ff41" title="x265::PoolThread::poke" alt="" coords="203,71,363,97"/>
+<area shape="rect" id="node5" href="$classx265_1_1Thread.html#a6264fa4e413afa477a9db5e46a127113" title="x265::Thread::stop" alt="" coords="217,121,348,148"/>
+<area shape="rect" id="node4" href="$classx265_1_1Event.html#ad3e86a968fd0b5340255f8691c22441b" title="x265::Event::trigger" alt="" coords="411,71,547,97"/>
+</map>

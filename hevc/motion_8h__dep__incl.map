@@ -1,0 +1,15 @@
+<map id="source/encoder/motion.h" name="source/encoder/motion.h">
+<area shape="rect" id="node2" href="$search_8h.html" title="source/encoder/search.h" alt="" coords="247,80,411,107"/>
+<area shape="rect" id="node10" href="$slicetype_8h.html" title="source/encoder/slicetype.h" alt="" coords="753,80,932,107"/>
+<area shape="rect" id="node12" href="$slicetype_8cpp.html" title="source/encoder/slicetype.cpp" alt="" coords="1035,155,1227,181"/>
+<area shape="rect" id="node14" href="$motion_8cpp.html" title="source/encoder/motion.cpp" alt="" coords="1007,80,1185,107"/>
+<area shape="rect" id="node3" href="$analysis_8h.html" title="source/encoder/analysis.h" alt="" coords="242,155,416,181"/>
+<area shape="rect" id="node9" href="$search_8cpp.html" title="source/encoder/search.cpp" alt="" coords="39,155,217,181"/>
+<area shape="rect" id="node4" href="$analysis_8cpp.html" title="source/encoder/analysis.cpp" alt="" coords="235,229,423,256"/>
+<area shape="rect" id="node5" href="$frameencoder_8h.html" title="source/encoder/frameencoder.h" alt="" coords="5,229,211,256"/>
+<area shape="rect" id="node6" href="$encoder_8cpp.html" title="source/encoder/encoder.cpp" alt="" coords="719,304,905,331"/>
+<area shape="rect" id="node7" href="$frameencoder_8cpp.html" title="source/encoder/frameencoder.cpp" alt="" coords="292,304,511,331"/>
+<area shape="rect" id="node8" href="$framefilter_8cpp.html" title="source/encoder/framefilter.cpp" alt="" coords="9,304,207,331"/>
+<area shape="rect" id="node11" href="$ratecontrol_8cpp.html" title="source/encoder/ratecontrol.cpp" alt="" coords="499,155,700,181"/>
+<area shape="rect" id="node13" href="$weightPrediction_8cpp.html" title="source/encoder/weightPrediction.cpp" alt="" coords="725,155,960,181"/>
+</map>

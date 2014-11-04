@@ -1,0 +1,10 @@
+<map id="x265::Entropy::codeVPS" name="x265::Entropy::codeVPS">
+<area shape="rect" id="node2" href="$classx265_1_1SyntaxElementWriter.html#a0bb88c348aa279a7ff17909fbe9afcb7" title="x265::SyntaxElementWriter\l::WRITE_CODE" alt="" coords="470,5,653,46"/>
+<area shape="rect" id="node5" href="$classx265_1_1SyntaxElementWriter.html#a2d204a2fc0b37616f9a614bf037a3dd6" title="x265::SyntaxElementWriter\l::WRITE_FLAG" alt="" coords="470,70,653,111"/>
+<area shape="rect" id="node7" href="$classx265_1_1Entropy.html#a45108a2c64fe3de5c6d49e510481fe5b" title="x265::Entropy::codeProfileTier" alt="" coords="222,33,421,60"/>
+<area shape="rect" id="node8" href="$classx265_1_1SyntaxElementWriter.html#a44c3a048bbeb0eb105c37cfc17b40864" title="x265::SyntaxElementWriter\l::WRITE_UVLC" alt="" coords="230,135,413,177"/>
+<area shape="rect" id="node3" href="$classx265_1_1SyntaxElementWriter.html#ae5a4f2eb12b9c33050cd47aafe5d281c" title="x265::SyntaxElementWriter\l::writeCode" alt="" coords="702,5,885,46"/>
+<area shape="rect" id="node4" href="$classx265_1_1BitInterface.html#a28a79d8b25645cdd59d6ff004d4851dc" title="x265::BitInterface\l::write" alt="" coords="933,70,1059,111"/>
+<area shape="rect" id="node6" href="$classx265_1_1SyntaxElementWriter.html#a3bfaf3088405d61eeba90f10c0a17afc" title="x265::SyntaxElementWriter\l::writeFlag" alt="" coords="702,70,885,111"/>
+<area shape="rect" id="node9" href="$classx265_1_1SyntaxElementWriter.html#af0151cc567598deee8f51decf2ab915d" title="x265::SyntaxElementWriter\l::writeUvlc" alt="" coords="702,135,885,177"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="x265::Lookahead::vbvLookahead" name="x265::Lookahead::vbvLookahead">
+<area shape="rect" id="node2" href="$classx265_1_1Lookahead.html#ad963fd74581c61eaf7713367906b3e96" title="x265::Lookahead::vbvFrameCost" alt="" coords="267,445,482,472"/>
+<area shape="rect" id="node3" href="$classx265_1_1CostEstimate.html#af33d06405527ebbb03d9c93d565e6e2a" title="x265::CostEstimate\l::estimateFrameCost" alt="" coords="554,363,699,405"/>
+<area shape="rect" id="node25" href="$classx265_1_1Lookahead.html#a9a76af299443c51828478d5c036cc2bc" title="x265::Lookahead::frameCost\lRecalculate" alt="" coords="531,513,722,554"/>
+<area shape="rect" id="node4" href="$classx265_1_1CostEstimate.html#a97a70c43a6dc0ede9d048a1dc8af59ed" title="x265::CostEstimate\l::weightsAnalyse" alt="" coords="788,95,927,137"/>
+<area shape="rect" id="node8" href="$classx265_1_1EstimateRow.html#abbf6cfd575ceb20105ae92c0ad2711e2" title="x265::EstimateRow::init" alt="" coords="776,253,939,280"/>
+<area shape="rect" id="node9" href="$classx265_1_1MotionEstimate.html#ac697505bf39a6a42796f76bcc971eba3" title="x265::MotionEstimate\l::setSourcePlane" alt="" coords="783,305,932,346"/>
+<area shape="rect" id="node10" href="$classx265_1_1JobProvider.html#a18b4ca907c73a70fd1a3d19951e715f5" title="x265::JobProvider::\lenqueue" alt="" coords="790,487,925,529"/>
+<area shape="rect" id="node13" href="$classx265_1_1WaveFront.html#a7e9bb7c12ce745c308ada7e889a8227e" title="x265::WaveFront::enqueueRow" alt="" coords="993,320,1199,347"/>
+<area shape="rect" id="node14" href="$classx265_1_1WaveFront.html#a2d24a9c2629a6c16c96ecdc85993d77c" title="x265::WaveFront::findJob" alt="" coords="771,553,943,580"/>
+<area shape="rect" id="node16" href="$classx265_1_1JobProvider.html#aad43fe7bf62d5d3656046fcf0888e7b8" title="x265::JobProvider::\ldequeue" alt="" coords="790,422,925,463"/>
+<area shape="rect" id="node18" href="$classx265_1_1CostEstimate.html#a239a71996364d7662e9c9c32b82d6c9f" title="x265::CostEstimate\l::processRow" alt="" coords="788,187,927,229"/>
+<area shape="rect" id="node5" href="$structx265_1_1WeightParam.html#ade2d5601abcbd58f276e3a1699bebd77" title="x265::WeightParam::\lsetFromWeightAndOffset" alt="" coords="1011,5,1181,46"/>
+<area shape="rect" id="node6" href="$classx265_1_1CostEstimate.html#a0cbdff1f1c55dcec0820ddef993eafee" title="x265::CostEstimate\l::weightCostLuma" alt="" coords="1027,70,1165,111"/>
+<area shape="rect" id="node7" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="1070,136,1122,163"/>
+<area shape="rect" id="node11" href="$classx265_1_1ThreadPool.html#aded625482b82128d9ff1a3f3058129c1" title="x265::ThreadPool::enqueue\lJobProvider" alt="" coords="1005,487,1187,529"/>
+<area shape="rect" id="node12" href="$classx265_1_1ThreadPool.html#a47277b980acec1c3114d1374ba304b85" title="x265::ThreadPool::pokeIdle\lThread" alt="" coords="1252,367,1433,409"/>
+<area shape="rect" id="node15" href="$classx265_1_1WaveFront.html#aa44b94082205421580868d288487dd0c" title="x265::WaveFront::processRow" alt="" coords="995,604,1197,631"/>
+<area shape="rect" id="node17" href="$classx265_1_1ThreadPool.html#a360b412a2c2a49143e4611ff790d9462" title="x265::ThreadPool::dequeue\lJobProvider" alt="" coords="1005,422,1187,463"/>
+<area shape="rect" id="node19" href="$classx265_1_1EstimateRow.html#ab4418a4e826e746d0b9cdce75a0736d9" title="x265::EstimateRow::\lestimateCUCost" alt="" coords="1023,187,1169,229"/>
+<area shape="rect" id="node20" href="$classx265_1_1MotionEstimate.html#adb6e30a132d2c6216fbc68061f1ca488" title="x265::MotionEstimate\l::setSourcePU" alt="" coords="1268,119,1417,161"/>
+<area shape="rect" id="node21" href="$classx265_1_1MotionEstimate.html#a2fa2c8bf4129cf3352a828a0795bd139" title="x265::MotionEstimate\l::motionEstimate" alt="" coords="1268,185,1417,226"/>
+<area shape="rect" id="node22" href="$structx265_1_1ReferencePlanes.html#a194ef69a517d17a6f7b0741b084164ae" title="x265::ReferencePlanes\l::lowresMC" alt="" coords="1263,250,1422,291"/>
+<area shape="rect" id="node23" href="$namespacex265.html#ac6c8410818c1795fa1005c95bcba83a6" title="x265::partitionFromLog2Size" alt="" coords="1249,316,1437,343"/>
+<area shape="rect" id="node24" href="$search_8cpp.html#ae9b663e71d46be40d428dde255388fc0" title="ALIGN_VAR_32" alt="" coords="1283,68,1402,95"/>
+<area shape="rect" id="node26" href="$common_8cpp.html#ac466459518e3d7434dd4f8b9a36317bb" title="x265_exp2fix8" alt="" coords="804,604,911,631"/>
+</map>

@@ -1,0 +1,25 @@
+var classx265_1_1Quant =
+[
+    [ "IEP_RATE", "classx265_1_1Quant.html#a4642bfbd102c885eedc30e61020cb493a4e1703954fa2419ef673916d1ec840a4", null ],
+    [ "Quant", "classx265_1_1Quant.html#ad94958aa49fd9b846a948d38292b18a6", null ],
+    [ "~Quant", "classx265_1_1Quant.html#a22781ef9fcf26509fb0a2c67ef927cd3", null ],
+    [ "allocNoiseReduction", "classx265_1_1Quant.html#a4c97dcc24e89293ae60622b68b14ca77", null ],
+    [ "getRateLast", "classx265_1_1Quant.html#a722c0aa6aa183083114f820bc951049a", null ],
+    [ "init", "classx265_1_1Quant.html#a7dfde7d15be74914b812cb77daa1ae83", null ],
+    [ "invtransformNxN", "classx265_1_1Quant.html#afeb2e80ae9009ff3320ebda1226fd999", null ],
+    [ "rdoQuant", "classx265_1_1Quant.html#ab353c26be0707486eecf784d618fc385", null ],
+    [ "setChromaQP", "classx265_1_1Quant.html#ae3153fbd1fda0215d2d9058a50156a9b", null ],
+    [ "setQPforQuant", "classx265_1_1Quant.html#acae628b529f9ba3f66766e63fbc10a1f", null ],
+    [ "signBitHidingHDQ", "classx265_1_1Quant.html#addfd2976d7e94bfc7db1b8b2640d1641", null ],
+    [ "transformNxN", "classx265_1_1Quant.html#a2d9fecd5e50c8f9ba36dd799a1f07d5c", null ],
+    [ "m_entropyCoder", "classx265_1_1Quant.html#a66a6793696c349a81b27b01cd88253d1", null ],
+    [ "m_fencDctCoeff", "classx265_1_1Quant.html#adad3ed9b11b5240d69d094b2e29940ef", null ],
+    [ "m_fencShortBuf", "classx265_1_1Quant.html#addf45a987a896c6e60b15dab8cef4707", null ],
+    [ "m_frameNr", "classx265_1_1Quant.html#a925fefb813d98e5e83aa3f73f132ee78", null ],
+    [ "m_nr", "classx265_1_1Quant.html#ac7870a5b9160ca67c6f193ea49feecb3", null ],
+    [ "m_psyRdoqScale", "classx265_1_1Quant.html#a2043abb727d82c76e6313ab1bcae1add", null ],
+    [ "m_qpParam", "classx265_1_1Quant.html#a17ecc9a5c98e724c27a2c91825f0341e", null ],
+    [ "m_resiDctCoeff", "classx265_1_1Quant.html#a21a6b8127bdbabafe4e07fdba1fbc250", null ],
+    [ "m_scalingList", "classx265_1_1Quant.html#ab0bca81c39fba301fed56071bf794aad", null ],
+    [ "m_useRDOQ", "classx265_1_1Quant.html#afad93d1810ec3ee4bb388030b2a775af", null ]
+];

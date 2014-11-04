@@ -1,0 +1,7 @@
+<map id="x265::SEIuserDataUnregistered::write" name="x265::SEIuserDataUnregistered::write">
+<area shape="rect" id="node2" href="$classx265_1_1Encoder.html#a5095039a4d1af32049c30052ef3e6588" title="x265::Encoder::getStream\lHeaders" alt="" coords="262,27,437,69"/>
+<area shape="rect" id="node3" href="$x265_8h.html#a575071c7bc7374ffd708d93f016211b5" title="x265_encoder_headers" alt="" coords="486,5,642,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="493,57,635,98"/>
+<area shape="rect" id="node4" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="737,5,788,32"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="691,57,834,98"/>
+</map>

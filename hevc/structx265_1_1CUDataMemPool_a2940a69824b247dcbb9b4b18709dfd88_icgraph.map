@@ -1,0 +1,10 @@
+<map id="x265::CUDataMemPool::create" name="x265::CUDataMemPool::create">
+<area shape="rect" id="node2" href="$classx265_1_1FrameData.html#a3fcb789c0b86ea768288b338a3ba9840" title="x265::FrameData::create" alt="" coords="217,5,383,32"/>
+<area shape="rect" id="node7" href="$classx265_1_1Analysis.html#aa7efeaa49c4e85b55fbad74e22916fbe" title="x265::Analysis::create" alt="" coords="224,56,376,83"/>
+<area shape="rect" id="node3" href="$classx265_1_1Frame.html#a0dfc4b58313eafb7f69b0f03a119ab50" title="x265::Frame::allocEncodeData" alt="" coords="432,5,635,32"/>
+<area shape="rect" id="node4" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="683,5,839,32"/>
+<area shape="rect" id="node5" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="888,5,1040,32"/>
+<area shape="rect" id="node6" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1088,5,1139,32"/>
+<area shape="rect" id="node8" href="$classx265_1_1Encoder.html#aa45d4a8835e915c1e980ad8aaad7cc51" title="x265::Encoder::create" alt="" coords="458,56,609,83"/>
+<area shape="rect" id="node9" href="$x265_8h.html#add639f6af182534d265ef22d4bf91f90" title="x265_encoder_open" alt="" coords="692,56,831,83"/>
+</map>

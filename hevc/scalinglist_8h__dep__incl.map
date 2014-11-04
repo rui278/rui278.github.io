@@ -1,0 +1,21 @@
+<map id="source/common/scalinglist.h" name="source/common/scalinglist.h">
+<area shape="rect" id="node2" href="$quant_8h.html" title="source/common/quant.h" alt="" coords="1180,80,1343,107"/>
+<area shape="rect" id="node15" href="$entropy_8cpp.html" title="source/encoder/entropy.cpp" alt="" coords="1515,155,1697,181"/>
+<area shape="rect" id="node16" href="$scalinglist_8cpp.html" title="source/common/scalinglist.cpp" alt="" coords="1367,80,1569,107"/>
+<area shape="rect" id="node17" href="$encoder_8h.html" title="source/encoder/encoder.h" alt="" coords="677,379,848,405"/>
+<area shape="rect" id="node3" href="$predict_8h.html" title="source/common/predict.h" alt="" coords="1189,155,1357,181"/>
+<area shape="rect" id="node5" href="$analysis_8h.html" title="source/encoder/analysis.h" alt="" coords="1313,304,1487,331"/>
+<area shape="rect" id="node11" href="$search_8h.html" title="source/encoder/search.h" alt="" coords="781,229,945,256"/>
+<area shape="rect" id="node14" href="$quant_8cpp.html" title="source/common/quant.cpp" alt="" coords="937,155,1113,181"/>
+<area shape="rect" id="node4" href="$predict_8cpp.html" title="source/common/predict.cpp" alt="" coords="971,229,1153,256"/>
+<area shape="rect" id="node13" href="$intrapredharness_8cpp.html" title="source/test/intrapredharness.cpp" alt="" coords="1178,229,1389,256"/>
+<area shape="rect" id="node6" href="$analysis_8cpp.html" title="source/encoder/analysis.cpp" alt="" coords="1306,453,1493,480"/>
+<area shape="rect" id="node7" href="$frameencoder_8h.html" title="source/encoder/frameencoder.h" alt="" coords="344,379,549,405"/>
+<area shape="rect" id="node8" href="$encoder_8cpp.html" title="source/encoder/encoder.cpp" alt="" coords="5,453,192,480"/>
+<area shape="rect" id="node9" href="$frameencoder_8cpp.html" title="source/encoder/frameencoder.cpp" alt="" coords="216,453,435,480"/>
+<area shape="rect" id="node10" href="$framefilter_8cpp.html" title="source/encoder/framefilter.cpp" alt="" coords="459,453,657,480"/>
+<area shape="rect" id="node12" href="$search_8cpp.html" title="source/encoder/search.cpp" alt="" coords="781,304,960,331"/>
+<area shape="rect" id="node18" href="$api_8cpp.html" title="source/encoder/api.cpp" alt="" coords="1124,453,1281,480"/>
+<area shape="rect" id="node19" href="$ratecontrol_8cpp.html" title="source/encoder/ratecontrol.cpp" alt="" coords="682,453,883,480"/>
+<area shape="rect" id="node20" href="$slicetype_8cpp.html" title="source/encoder/slicetype.cpp" alt="" coords="908,453,1100,480"/>
+</map>

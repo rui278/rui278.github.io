@@ -1,0 +1,10 @@
+<map id="x265::Entropy::codeSaoMerge" name="x265::Entropy::codeSaoMerge">
+<area shape="rect" id="node2" href="$classx265_1_1FrameEncoder.html#a6d4045d35bfe6b10c8d0dc39353be360" title="x265::FrameEncoder\l::encodeSlice" alt="" coords="489,5,631,46"/>
+<area shape="rect" id="node5" href="$classx265_1_1SAO.html#a06d0839d18ce2c3fad5438d917467130" title="x265::SAO::rdoSaoUnitRow" alt="" coords="253,71,440,97"/>
+<area shape="rect" id="node3" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="1262,35,1405,77"/>
+<area shape="rect" id="node4" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="1454,35,1597,77"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameFilter.html#a75d13efc3b8c164f9c1615bffda89891" title="x265::FrameFilter::\lprocessRow" alt="" coords="494,70,626,111"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#a764697a109059858166d1c017b81d233" title="x265::FrameEncoder\l::processRowFilter" alt="" coords="681,67,823,109"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#acad645a8ece97d884895f8f7366b7d70" title="x265::FrameEncoder\l::processRow" alt="" coords="873,66,1015,107"/>
+<area shape="rect" id="node9" href="$classx265_1_1FrameEncoder.html#ac4e9ce2e876c0cdb25c992c872fe4302" title="x265::FrameEncoder\l::compressCTURows" alt="" coords="1064,65,1213,106"/>
+</map>

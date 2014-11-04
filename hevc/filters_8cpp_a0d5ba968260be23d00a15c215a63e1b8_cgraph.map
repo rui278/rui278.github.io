@@ -1,0 +1,5 @@
+<map id="ditherImage" name="ditherImage">
+<area shape="rect" id="node2" href="$common_8cpp.html#a7ef7925e6a9322738c3289b9e12b8e3e" title="x265_picturePlaneSize" alt="" coords="144,5,299,32"/>
+<area shape="rect" id="node3" href="$filters_8cpp.html#ac188b977e9b908b305e84f02d3fb35db" title="ditherPlane" alt="" coords="178,56,265,83"/>
+<area shape="rect" id="node4" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="347,56,399,83"/>
+</map>

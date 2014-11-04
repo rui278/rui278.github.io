@@ -1,0 +1,7 @@
+<map id="x265::Entropy::finishSlice" name="x265::Entropy::finishSlice">
+<area shape="rect" id="node2" href="$classx265_1_1Entropy.html#a381bcaf744ffe20a018626dc7f7d7933" title="x265::Entropy::encodeBinTrm" alt="" coords="224,5,419,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1Entropy.html#a0672b197f2e8af0bf962e6047601e2b6" title="x265::Entropy::finish" alt="" coords="250,56,393,83"/>
+<area shape="rect" id="node3" href="$classx265_1_1Entropy.html#a38c906d03fe47f10456a3d5bc0cd2080" title="x265::Entropy::writeOut" alt="" coords="467,5,627,32"/>
+<area shape="rect" id="node4" href="$classx265_1_1BitInterface.html#a0ab2614d14b086091eefc0ed19f3be6d" title="x265::BitInterface\l::writeByte" alt="" coords="675,23,800,65"/>
+<area shape="rect" id="node6" href="$classx265_1_1BitInterface.html#a28a79d8b25645cdd59d6ff004d4851dc" title="x265::BitInterface\l::write" alt="" coords="484,107,609,149"/>
+</map>

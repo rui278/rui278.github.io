@@ -1,0 +1,4 @@
+<map id="x265::Predict::prepMotionCompensation" name="x265::Predict::prepMotionCompensation">
+<area shape="rect" id="node2" href="$classx265_1_1CUData.html#a6ad6881ec9a11bc8dcbd54cfe8126c47" title="x265::CUData::getPartIndex\lAndSize" alt="" coords="225,5,413,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1CUData.html#a5ed70af91009b3ba3cc544c5a9bc28b5" title="x265::CUData::clipMv" alt="" coords="243,71,395,97"/>
+</map>

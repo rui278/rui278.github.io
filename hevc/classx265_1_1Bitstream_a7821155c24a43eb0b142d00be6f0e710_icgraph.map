@@ -1,0 +1,9 @@
+<map id="x265::Bitstream::getNumberOfWrittenBytes" name="x265::Bitstream::getNumberOfWrittenBytes">
+<area shape="rect" id="node2" href="$classx265_1_1NALList.html#a8661242559618030be34f93debbdc01c" title="x265::NALList::serialize" alt="" coords="241,71,402,97"/>
+<area shape="rect" id="node8" href="$classx265_1_1NALList.html#ae905d2381c0ce756c9c1aeae467988e3" title="x265::NALList::serialize\lSubstreams" alt="" coords="458,122,619,163"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#a5095039a4d1af32049c30052ef3e6588" title="x265::Encoder::getStream\lHeaders" alt="" coords="451,5,626,46"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="682,63,825,105"/>
+<area shape="rect" id="node4" href="$x265_8h.html#a575071c7bc7374ffd708d93f016211b5" title="x265_encoder_headers" alt="" coords="675,12,831,39"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="927,12,977,39"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="881,63,1023,105"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="x265::FrameEncoder::getEncodedPicture" name="x265::FrameEncoder::getEncodedPicture">
+<area shape="rect" id="node2" href="$classx265_1_1Encoder.html#ac689b087686eca38579aad7426e34fc6" title="x265::Encoder::destroy" alt="" coords="197,5,355,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="198,56,354,83"/>
+<area shape="rect" id="node3" href="$x265_8h.html#ac370491d505086b2eb41e10d89f271ad" title="x265_encoder_close" alt="" coords="408,5,549,32"/>
+<area shape="rect" id="node4" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="603,31,653,57"/>
+<area shape="rect" id="node6" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="403,56,555,83"/>
+</map>

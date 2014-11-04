@@ -1,0 +1,5 @@
+<map id="x265::ThreadPoolImpl::waitForAllIdle" name="x265::ThreadPoolImpl::waitForAllIdle">
+<area shape="rect" id="node2" href="$classx265_1_1ThreadPoolImpl.html#abbc48c1e1c917407011985df40a85e10" title="x265::ThreadPoolImpl\l::ThreadPoolImpl" alt="" coords="203,5,352,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1ThreadPoolImpl.html#a6069303d1024ffd65c0ec9dfbe4910b1" title="x265::ThreadPoolImpl\l::Stop" alt="" coords="203,70,352,111"/>
+<area shape="rect" id="node4" href="$classx265_1_1ThreadPoolImpl.html#afca8fd4c085781e0a4b51e67f3148c6e" title="x265::ThreadPoolImpl\l::release" alt="" coords="400,70,549,111"/>
+</map>

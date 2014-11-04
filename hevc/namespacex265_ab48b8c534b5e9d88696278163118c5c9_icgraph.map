@@ -1,0 +1,10 @@
+<map id="x265::extendPicBorder" name="x265::extendPicBorder">
+<area shape="rect" id="node2" href="$structx265_1_1Lowres.html#a6882d85dadb507010f7495758338622b" title="x265::Lowres::init" alt="" coords="217,8,343,35"/>
+<area shape="rect" id="node7" href="$namespacex265.html#a94f1ab78da171f601a7389b72ec7ae2d" title="x265::weightAnalyse" alt="" coords="209,60,351,87"/>
+<area shape="rect" id="node3" href="$classx265_1_1Lookahead.html#a878bca13580997ab9c01e72a8f8e81c3" title="x265::Lookahead::addPicture" alt="" coords="401,5,591,32"/>
+<area shape="rect" id="node4" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="641,5,797,32"/>
+<area shape="rect" id="node5" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="845,5,997,32"/>
+<area shape="rect" id="node6" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1045,5,1096,32"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="425,57,567,98"/>
+<area shape="rect" id="node9" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="647,57,790,98"/>
+</map>

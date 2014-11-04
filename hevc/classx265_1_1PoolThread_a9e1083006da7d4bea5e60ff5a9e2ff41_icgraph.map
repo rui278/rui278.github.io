@@ -1,0 +1,6 @@
+<map id="x265::PoolThread::poke" name="x265::PoolThread::poke">
+<area shape="rect" id="node2" href="$classx265_1_1ThreadPoolImpl.html#abbc48c1e1c917407011985df40a85e10" title="x265::ThreadPoolImpl\l::ThreadPoolImpl" alt="" coords="213,5,363,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1ThreadPoolImpl.html#a6069303d1024ffd65c0ec9dfbe4910b1" title="x265::ThreadPoolImpl\l::Stop" alt="" coords="213,70,363,111"/>
+<area shape="rect" id="node5" href="$classx265_1_1ThreadPoolImpl.html#a54d8c900ff6311db2b8ca42c123cee9b" title="x265::ThreadPoolImpl\l::FlushProviderList" alt="" coords="213,135,363,177"/>
+<area shape="rect" id="node4" href="$classx265_1_1ThreadPoolImpl.html#afca8fd4c085781e0a4b51e67f3148c6e" title="x265::ThreadPoolImpl\l::release" alt="" coords="411,70,560,111"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="x265::RateControl::vbv2Pass" name="x265::RateControl::vbv2Pass">
+<area shape="rect" id="node2" href="$classx265_1_1RateControl.html#ae347530d6985d9422f190ed031e69686" title="x265::RateControl::\lfindUnderflow" alt="" coords="189,5,325,46"/>
+<area shape="rect" id="node4" href="$classx265_1_1RateControl.html#a301291752f441257f511939a62cb8cc1" title="x265::RateControl::\lfixUnderflow" alt="" coords="189,70,325,111"/>
+<area shape="rect" id="node5" href="$classx265_1_1RateControl.html#aa1a80e5a87ce7cc73c4f922933e90ed3" title="x265::RateControl::\lcountExpectedBits" alt="" coords="189,135,325,177"/>
+<area shape="rect" id="node6" href="$common_8cpp.html#a746489f014374f963df715ddf9bd3986" title="x265_log" alt="" coords="220,201,295,228"/>
+<area shape="rect" id="node3" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="374,45,426,72"/>
+</map>

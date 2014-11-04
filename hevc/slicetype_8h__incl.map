@@ -1,0 +1,18 @@
+<map id="source/encoder/slicetype.h" name="source/encoder/slicetype.h">
+<area shape="rect" id="node2" href="$motion_8h.html" title="motion.h" alt="" coords="692,80,764,107"/>
+<area shape="rect" id="node33" href="$piclist_8h.html" title="piclist.h" alt="" coords="1096,155,1163,181"/>
+<area shape="rect" id="node34" href="$wavefront_8h.html" title="wavefront.h" alt="" coords="791,379,881,405"/>
+<area shape="rect" id="node3" href="$primitives_8h.html" title="primitives.h" alt="" coords="495,379,584,405"/>
+<area shape="rect" id="node24" href="$reference_8h.html" title="reference.h" alt="" coords="582,155,668,181"/>
+<area shape="rect" id="node26" href="$mv_8h.html" title="mv.h" alt="" coords="669,304,720,331"/>
+<area shape="rect" id="node27" href="$bitcost_8h.html" title="bitcost.h" alt="" coords="765,229,837,256"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="common.h" alt="" coords="619,528,700,555"/>
+<area shape="rect" id="node23" href="$cpu_8h.html" title="cpu.h" alt="" coords="489,453,543,480"/>
+<area shape="rect" id="node15" href="$stdint_8h.html" title="stdint.h" alt="" coords="637,677,701,704"/>
+<area shape="rect" id="node20" href="$x265_8h.html" title="x265.h" alt="" coords="1147,603,1208,629"/>
+<area shape="rect" id="node22" href="$constants_8h.html" title="constants.h" alt="" coords="504,603,595,629"/>
+<area shape="rect" id="node21" href="$x265__config_8h.html" title="x265_config.h" alt="" coords="1126,677,1228,704"/>
+<area shape="rect" id="node25" href="$lowres_8h.html" title="lowres.h" alt="" coords="569,229,639,256"/>
+<area shape="rect" id="node28" href="$threading_8h.html" title="threading.h" alt="" coords="947,453,1033,480"/>
+<area shape="rect" id="node35" href="$threadpool_8h.html" title="threadpool.h" alt="" coords="779,453,872,480"/>
+</map>

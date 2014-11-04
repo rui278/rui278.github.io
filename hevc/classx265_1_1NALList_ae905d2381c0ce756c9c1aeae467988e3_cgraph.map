@@ -1,0 +1,5 @@
+<map id="x265::NALList::serializeSubstreams" name="x265::NALList::serializeSubstreams">
+<area shape="rect" id="node2" href="$common_8cpp.html#a746489f014374f963df715ddf9bd3986" title="x265_log" alt="" coords="272,5,347,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1Bitstream.html#a7821155c24a43eb0b142d00be6f0e710" title="x265::Bitstream::getNumber\lOfWrittenBytes" alt="" coords="216,57,403,98"/>
+<area shape="rect" id="node4" href="$classx265_1_1Bitstream.html#a77a39d516b2795ed90f8faeb75ff4cf1" title="x265::Bitstream::getFIFO" alt="" coords="224,123,395,149"/>
+</map>

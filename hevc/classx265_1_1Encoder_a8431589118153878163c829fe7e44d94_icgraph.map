@@ -1,0 +1,6 @@
+<map id="x265::Encoder::updateVbvPlan" name="x265::Encoder::updateVbvPlan">
+<area shape="rect" id="node2" href="$classx265_1_1RateControl.html#a4013526dc27a276abbd1b92325bc25e2" title="x265::RateControl::\lupdateVbvPlan" alt="" coords="256,5,392,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1RateControl.html#a6453a04a36d66b87ed8a23df88e75326" title="x265::RateControl::\lrateControlStart" alt="" coords="440,5,576,46"/>
+<area shape="rect" id="node4" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="625,5,767,46"/>
+<area shape="rect" id="node5" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="817,5,959,46"/>
+</map>

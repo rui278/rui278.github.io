@@ -1,0 +1,6 @@
+<map id="x265::Bitstream::writeByteAlignment" name="x265::Bitstream::writeByteAlignment">
+<area shape="rect" id="node2" href="$classx265_1_1Bitstream.html#a77e5539c6b9722b29ee4876b5b1d31a8" title="x265::Bitstream::write" alt="" coords="259,5,410,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1Bitstream.html#a8bc710ffb42196e6271388c2dce0f1e2" title="x265::Bitstream::writeAlignZero" alt="" coords="232,56,437,83"/>
+<area shape="rect" id="node3" href="$classx265_1_1Bitstream.html#a017acf53e803a204c55a23cddf793401" title="x265::Bitstream::push_back" alt="" coords="486,31,671,57"/>
+<area shape="rect" id="node4" href="$common_8cpp.html#a746489f014374f963df715ddf9bd3986" title="x265_log" alt="" coords="720,31,795,57"/>
+</map>

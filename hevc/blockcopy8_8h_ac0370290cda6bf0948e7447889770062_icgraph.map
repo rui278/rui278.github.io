@@ -1,0 +1,8 @@
+<map id="x265_cvt16to32_shr_16_sse4" name="x265_cvt16to32_shr_16_sse4">
+<area shape="rect" id="node2" href="$namespacex265.html#a5fd4feac77a19680bbf653b38723ad04" title="x265::Setup_Assembly\l_Primitives" alt="" coords="192,49,349,90"/>
+<area shape="rect" id="node3" href="$x265_8h.html#a04a58d574a81e33aa7fe7632e2328bf2" title="x265_setup_primitives" alt="" coords="397,31,549,57"/>
+<area shape="rect" id="node7" href="$testbench_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="448,81,499,108"/>
+<area shape="rect" id="node4" href="$x265_8h.html#add639f6af182534d265ef22d4bf91f90" title="x265_encoder_open" alt="" coords="597,5,736,32"/>
+<area shape="rect" id="node5" href="$structCLIOptions.html#a9fc5f387d720db54ca46e6abf917719f" title="CLIOptions::parse" alt="" coords="603,56,731,83"/>
+<area shape="rect" id="node6" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="784,56,835,83"/>
+</map>

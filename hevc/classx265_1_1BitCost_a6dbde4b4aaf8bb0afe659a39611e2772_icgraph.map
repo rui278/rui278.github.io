@@ -1,0 +1,10 @@
+<map id="x265::BitCost::CalculateLogs" name="x265::BitCost::CalculateLogs">
+<area shape="rect" id="node2" href="$classx265_1_1BitCost.html#ab3b5ae95f560768f4b99e56d9ca867d7" title="x265::BitCost::setQP" alt="" coords="248,93,395,120"/>
+<area shape="rect" id="node3" href="$classx265_1_1Search.html#a2012f15cfb3bd341903328441413ff4a" title="x265::Search::setQP" alt="" coords="444,64,588,91"/>
+<area shape="rect" id="node9" href="$classx265_1_1EstimateRow.html#aee24eb32c50b5fb76a2cdb76016fcb14" title="x265::EstimateRow::\lEstimateRow" alt="" coords="443,115,589,157"/>
+<area shape="rect" id="node4" href="$classx265_1_1Analysis.html#abd49473ae6e5e1f7e555b447b04398e6" title="x265::Analysis::parallelME" alt="" coords="638,5,815,32"/>
+<area shape="rect" id="node7" href="$classx265_1_1Analysis.html#aa6122285d10bb1bd7584958b88b029d5" title="x265::Analysis::parallel\lModeAnalysis" alt="" coords="648,57,805,98"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="651,122,802,163"/>
+<area shape="rect" id="node5" href="$classx265_1_1Analysis.html#a29a58dad4cc1c07d2f5e5717c6be7c25" title="x265::Analysis::findJob" alt="" coords="865,35,1023,61"/>
+<area shape="rect" id="node6" href="$classx265_1_1Analysis.html#a87060ff27a37f56adc5f5b8a4c033ece" title="x265::Analysis::compress\lInterCU_dist" alt="" coords="1072,27,1245,69"/>
+</map>

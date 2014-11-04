@@ -1,0 +1,19 @@
+<map id="x265::Search::xEncodeResidualQT" name="x265::Search::xEncodeResidualQT">
+<area shape="rect" id="node2" href="$classx265_1_1Entropy.html#a0052cf59b3cef0daf2f76cb510dd5846" title="x265::Entropy::codeTransform\lSubdivFlag" alt="" coords="281,5,479,46"/>
+<area shape="rect" id="node6" href="$classx265_1_1CUData.html#ae01b9f17830903cc264ddb26b18ed4a0" title="x265::CUData::getCbf" alt="" coords="573,113,726,140"/>
+<area shape="rect" id="node7" href="$classx265_1_1Entropy.html#af86f84f10bd0d83bed8f158a1abb2453" title="x265::Entropy::codeQtCbf" alt="" coords="293,71,467,97"/>
+<area shape="rect" id="node8" href="$classx265_1_1Entropy.html#a955a0c3b2662c4af07b55b071370136b" title="x265::Entropy::codeCoeffNxN" alt="" coords="281,357,479,384"/>
+<area shape="rect" id="node3" href="$classx265_1_1Entropy.html#ad5bd127b6afa68ee4408890c75fdd4bd" title="x265::Entropy::encodeBin" alt="" coords="837,244,1009,271"/>
+<area shape="rect" id="node4" href="$classx265_1_1Entropy.html#a38c906d03fe47f10456a3d5bc0cd2080" title="x265::Entropy::writeOut" alt="" coords="1075,288,1235,315"/>
+<area shape="rect" id="node5" href="$classx265_1_1BitInterface.html#a0ab2614d14b086091eefc0ed19f3be6d" title="x265::BitInterface\l::writeByte" alt="" coords="1283,281,1408,322"/>
+<area shape="rect" id="node9" href="$classx265_1_1Entropy.html#a70146b58f72ab30ab0d0390d54f556c0" title="x265::Entropy::codeTransform\lSkipFlags" alt="" coords="550,266,749,307"/>
+<area shape="rect" id="node10" href="$classx265_1_1CUData.html#a554b34e5fb607f903b7765bd240c2694" title="x265::CUData::getTUEntropy\lCodingParameters" alt="" coords="552,499,747,541"/>
+<area shape="rect" id="node13" href="$classx265_1_1Entropy.html#aa37a5f42bf31dd5234d2fd0298ab37d5" title="x265::Entropy::codeLastSignificantXY" alt="" coords="528,332,771,359"/>
+<area shape="rect" id="node14" href="$classx265_1_1Entropy.html#ac9e06099bfcb9f576565d6d5a0e3205f" title="x265::Entropy::encodeBinsEP" alt="" coords="824,357,1021,384"/>
+<area shape="rect" id="node15" href="$classx265_1_1Quant.html#ad178d867a67ea861aad413e8d7d07767" title="x265::Quant::getSigCoeff\lGroupCtxInc" alt="" coords="564,565,735,606"/>
+<area shape="rect" id="node16" href="$classx265_1_1Quant.html#aaf517e8c951a76b369006e1f48645e74" title="x265::Quant::calcPattern\lSigCtx" alt="" coords="566,630,733,671"/>
+<area shape="rect" id="node17" href="$classx265_1_1Quant.html#a6fe89a8ebf937d5dbe20c7ac3e3288ad" title="x265::Quant::getSigCtxInc" alt="" coords="561,164,738,191"/>
+<area shape="rect" id="node18" href="$classx265_1_1Entropy.html#af93a2888ed1b7b3bee4bf90558d1feb4" title="x265::Entropy::writeCoef\lRemainExGolomb" alt="" coords="566,434,733,475"/>
+<area shape="rect" id="node11" href="$classx265_1_1CUData.html#ada5470364be8a87b70b409a3f521fce2" title="x265::CUData::getCoefScanIdx" alt="" coords="819,481,1027,508"/>
+<area shape="rect" id="node12" href="$classx265_1_1CUData.html#a4de1cda97a0a06196c9f6ac92d6829a2" title="x265::CUData::isIntra" alt="" coords="847,532,998,559"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="x265::Setup_Instrinsic_Primitives" name="x265::Setup_Instrinsic_Primitives">
+<area shape="rect" id="node2" href="$namespacex265.html#abcb253224ac7d53675804319c8b3fe6e" title="x265::Setup_Vec_DCTPrimitives_sse3" alt="" coords="205,5,456,32"/>
+<area shape="rect" id="node3" href="$namespacex265.html#a97797f60ea11946a096b878c18615be8" title="x265::Setup_Vec_DCTPrimitives\l_ssse3" alt="" coords="223,57,438,98"/>
+<area shape="rect" id="node4" href="$namespacex265.html#a8a5161fd7d611eb3e691884372e4546c" title="x265::Setup_Vec_DCTPrimitives\l_sse41" alt="" coords="223,122,438,163"/>
+</map>

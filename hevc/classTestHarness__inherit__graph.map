@@ -1,0 +1,6 @@
+<map id="TestHarness" name="TestHarness">
+<area shape="rect" id="node2" href="$classIntraPredHarness.html" title="IntraPredHarness" alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node3" href="$classIPFilterHarness.html" title="IPFilterHarness" alt="" coords="153,80,265,107"/>
+<area shape="rect" id="node4" href="$classMBDstHarness.html" title="MBDstHarness" alt="" coords="291,80,401,107"/>
+<area shape="rect" id="node5" href="$classPixelHarness.html" title="PixelHarness" alt="" coords="426,80,525,107"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="source/common/x86/asm&#45;primitives.cpp" name="source/common/x86/asm&#45;primitives.cpp">
+<area shape="rect" id="node2" href="$common_8h.html" title="common.h" alt="" coords="613,245,695,272"/>
+<area shape="rect" id="node18" href="$x265_8h.html" title="x265.h" alt="" coords="25,320,87,347"/>
+<area shape="rect" id="node21" href="$primitives_8h.html" title="primitives.h" alt="" coords="509,96,597,123"/>
+<area shape="rect" id="node22" href="$cpu_8h.html" title="cpu.h" alt="" coords="594,171,648,197"/>
+<area shape="rect" id="node23" href="$pixel_8h.html" title="pixel.h" alt="" coords="725,96,784,123"/>
+<area shape="rect" id="node24" href="$pixel-util_8h.html" title="pixel&#45;util.h" alt="" coords="809,96,889,123"/>
+<area shape="rect" id="node25" href="$mc_8h.html" title="mc.h" alt="" coords="915,96,965,123"/>
+<area shape="rect" id="node26" href="$ipfilter8_8h.html" title="ipfilter8.h" alt="" coords="989,96,1063,123"/>
+<area shape="rect" id="node27" href="$loopfilter_8h.html" title="loopfilter.h" alt="" coords="1088,96,1169,123"/>
+<area shape="rect" id="node28" href="$blockcopy8_8h.html" title="blockcopy8.h" alt="" coords="1195,96,1293,123"/>
+<area shape="rect" id="node29" href="$intrapred_8h.html" title="intrapred.h" alt="" coords="1317,96,1399,123"/>
+<area shape="rect" id="node30" href="$dct8_8h.html" title="dct8.h" alt="" coords="1424,96,1481,123"/>
+<area shape="rect" id="node13" href="$stdint_8h.html" title="stdint.h" alt="" coords="493,395,557,421"/>
+<area shape="rect" id="node20" href="$constants_8h.html" title="constants.h" alt="" coords="1123,320,1213,347"/>
+<area shape="rect" id="node19" href="$x265__config_8h.html" title="x265_config.h" alt="" coords="5,395,107,421"/>
+</map>

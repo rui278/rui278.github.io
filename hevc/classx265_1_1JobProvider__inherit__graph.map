@@ -1,0 +1,9 @@
+<map id="x265::JobProvider" name="x265::JobProvider">
+<area shape="rect" id="node2" href="$classx265_1_1Lookahead.html" title="x265::Lookahead" alt="" coords="5,80,125,107"/>
+<area shape="rect" id="node3" href="$classx265_1_1Search.html" title="x265::Search" alt="" coords="151,80,249,107"/>
+<area shape="rect" id="node5" href="$classx265_1_1WaveFront.html" title="x265::WaveFront" alt="" coords="335,80,457,107"/>
+<area shape="rect" id="node4" href="$classx265_1_1Analysis.html" title="x265::Analysis" alt="" coords="114,155,221,181"/>
+<area shape="rect" id="node6" href="$classMD5Frame.html" title="MD5Frame" alt="" coords="246,155,332,181"/>
+<area shape="rect" id="node7" href="$classx265_1_1CostEstimate.html" title="x265::CostEstimate" alt="" coords="357,155,496,181"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html" title="x265::FrameEncoder" alt="" coords="521,155,663,181"/>
+</map>

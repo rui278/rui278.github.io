@@ -1,0 +1,26 @@
+<map id="x265::Quant::transformNxN" name="x265::Quant::transformNxN">
+<area shape="rect" id="node2" href="$classx265_1_1Search.html#a9d5a7faa13067f95fe76558afc63c31b" title="x265::Search::calcIntraChroma\lRecon" alt="" coords="241,408,444,449"/>
+<area shape="rect" id="node14" href="$classx265_1_1Search.html#a59b84ac1e21c86af579b6e84e43c5b7a" title="x265::Search::codeIntraLumaQT" alt="" coords="501,357,712,383"/>
+<area shape="rect" id="node16" href="$classx265_1_1Search.html#a8179474a0f2f2b7b84da90802f92b06e" title="x265::Search::residualTransform\lQuantIntra" alt="" coords="237,539,448,580"/>
+<area shape="rect" id="node19" href="$classx265_1_1Search.html#a42170100e328cf2504b615ecb2579094" title="x265::Search::residualQTIntra\lChroma" alt="" coords="245,473,441,515"/>
+<area shape="rect" id="node20" href="$classx265_1_1Search.html#a11ea3fb9c65e98f50e348de22593748c" title="x265::Search::residualTransform\lQuantInter" alt="" coords="237,604,448,645"/>
+<area shape="rect" id="node21" href="$classx265_1_1Search.html#a9f01b6f04dca31dca9f16e60d1c029b3" title="x265::Search::xEstimateResidualQT" alt="" coords="765,257,1000,283"/>
+<area shape="rect" id="node3" href="$classx265_1_1Search.html#a0ec5d297bb4eba4e9445ff67b35b95fa" title="x265::Search::codeIntraChromaQt" alt="" coords="496,411,717,438"/>
+<area shape="rect" id="node4" href="$classx265_1_1Search.html#a70d466b561a7463b8ec5a213384ae667" title="x265::Search::estIntraPred\lChromaQT" alt="" coords="793,308,972,349"/>
+<area shape="rect" id="node5" href="$classx265_1_1Analysis.html#ae4d61bcf4d2c22a054d68d6d77136428" title="x265::Analysis::encodeIntra\lInInter" alt="" coords="1055,367,1239,408"/>
+<area shape="rect" id="node10" href="$classx265_1_1Search.html#ab02df91827cf67796d1605bde60c6aed" title="x265::Search::checkIntra" alt="" coords="1063,198,1231,225"/>
+<area shape="rect" id="node6" href="$classx265_1_1Analysis.html#aa6122285d10bb1bd7584958b88b029d5" title="x265::Analysis::parallel\lModeAnalysis" alt="" coords="1312,308,1469,349"/>
+<area shape="rect" id="node7" href="$classx265_1_1Analysis.html#a87060ff27a37f56adc5f5b8a4c033ece" title="x265::Analysis::compress\lInterCU_dist" alt="" coords="1536,364,1709,405"/>
+<area shape="rect" id="node9" href="$classx265_1_1Analysis.html#a30d2ff7eca5addbb0a6b3dfe14f09650" title="x265::Analysis::compress\lInterCU_rd0_4" alt="" coords="1536,456,1709,497"/>
+<area shape="rect" id="node8" href="$classx265_1_1Analysis.html#aaebc9de2ff98834c650244f3b58942c2" title="x265::Analysis::compressCTU" alt="" coords="1758,371,1959,398"/>
+<area shape="rect" id="node11" href="$classx265_1_1Analysis.html#a10f0a8d9d143faf8dc671c6f0982693d" title="x265::Analysis::tryLossless" alt="" coords="1299,206,1482,233"/>
+<area shape="rect" id="node12" href="$classx265_1_1Analysis.html#aae2a6a2252270782b591d2bed7e99dae" title="x265::Analysis::compress\lIntraCU" alt="" coords="1536,104,1709,145"/>
+<area shape="rect" id="node13" href="$classx265_1_1Analysis.html#a0b22b7765aa4a36b1ba6d07ba26901e6" title="x265::Analysis::compress\lInterCU_rd5_6" alt="" coords="1536,169,1709,211"/>
+<area shape="rect" id="node15" href="$classx265_1_1Search.html#a1778d2ab96ac88c7f76d36818d6adbdd" title="x265::Search::estIntraPredQT" alt="" coords="785,202,981,229"/>
+<area shape="rect" id="node17" href="$classx265_1_1Analysis.html#a88ad2880a5a8bcad5cfd5d6ea630b265" title="x265::Analysis::encodeResidue" alt="" coords="503,609,710,635"/>
+<area shape="rect" id="node18" href="$classx265_1_1Search.html#a5284cffef18fe6884b268ea28f21f22f" title="x265::Search::generateCoeff\lRecon" alt="" coords="512,541,701,583"/>
+<area shape="rect" id="node22" href="$classx265_1_1Search.html#aba5e04ce529f41accd43c540ba1dc7ad" title="x265::Search::encodeResAnd\lCalcRdInterCU" alt="" coords="1049,249,1245,291"/>
+<area shape="rect" id="node23" href="$classx265_1_1Analysis.html#addd72cb95590e2b2a6965d42d110eab3" title="x265::Analysis::checkMerge2\lNx2N_rd0_4" alt="" coords="1293,425,1488,467"/>
+<area shape="rect" id="node24" href="$classx265_1_1Analysis.html#a0194a9da53aa95173fa1132ba3aea1c7" title="x265::Analysis::checkMerge2\lNx2N_rd5_6" alt="" coords="1293,140,1488,181"/>
+<area shape="rect" id="node25" href="$classx265_1_1Analysis.html#a828daa3e9f1ed40a1af9f99f7ff7bb33" title="x265::Analysis::checkInter\l_rd5_6" alt="" coords="1302,75,1479,116"/>
+</map>

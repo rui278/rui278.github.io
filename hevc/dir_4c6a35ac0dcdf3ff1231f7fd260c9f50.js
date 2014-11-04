@@ -8,6 +8,6 @@ var dir_4c6a35ac0dcdf3ff1231f7fd260c9f50 =
     [ "output", "dir_af3f32a5ec615ccbe2f30b790f24f894.html", "dir_af3f32a5ec615ccbe2f30b790f24f894" ],
     [ "PPA", "dir_eb3c5d81260eed9d04e16a502edcd6d6.html", "dir_eb3c5d81260eed9d04e16a502edcd6d6" ],
     [ "test", "dir_1a903585715ef4bbfccf9e7475b0efc1.html", "dir_1a903585715ef4bbfccf9e7475b0efc1" ],
-    [ "x265.cpp", "dd/d2f/x265_8cpp.html", "dd/d2f/x265_8cpp" ],
-    [ "x265.h", "d3/d3d/x265_8h.html", "d3/d3d/x265_8h" ]
+    [ "x265.cpp", "x265_8cpp.html", "x265_8cpp" ],
+    [ "x265.h", "x265_8h.html", "x265_8h" ]
 ];

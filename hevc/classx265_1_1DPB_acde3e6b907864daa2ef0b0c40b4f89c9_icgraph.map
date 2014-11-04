@@ -1,0 +1,6 @@
+<map id="x265::DPB::getNalUnitType" name="x265::DPB::getNalUnitType">
+<area shape="rect" id="node2" href="$classx265_1_1DPB.html#a816f74b4e9b9a47b65f301b80caf7a41" title="x265::DPB::prepareEncode" alt="" coords="240,5,421,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="470,5,626,32"/>
+<area shape="rect" id="node4" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="675,5,827,32"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="875,5,925,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="x265::ThreadSafeInteger::waitForChange" name="x265::ThreadSafeInteger::waitForChange">
+<area shape="rect" id="node2" href="$classx265_1_1FrameEncoder.html#ac4e9ce2e876c0cdb25c992c872fe4302" title="x265::FrameEncoder\l::compressCTURows" alt="" coords="219,5,368,46"/>
+<area shape="rect" id="node5" href="$classx265_1_1RateControl.html#a6453a04a36d66b87ed8a23df88e75326" title="x265::RateControl::\lrateControlStart" alt="" coords="225,70,361,111"/>
+<area shape="rect" id="node6" href="$classx265_1_1RateControl.html#a26331c267938f5e6e49ad5b07e4ff013" title="x265::RateControl::\lrateControlEnd" alt="" coords="225,135,361,177"/>
+<area shape="rect" id="node3" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="417,70,559,111"/>
+<area shape="rect" id="node4" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="609,70,751,111"/>
+</map>

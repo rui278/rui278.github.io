@@ -1,0 +1,12 @@
+<map id="source/common/piclist.h" name="source/common/piclist.h">
+<area shape="rect" id="node2" href="$piclist_8cpp.html" title="source/common/piclist.cpp" alt="" coords="5,80,184,107"/>
+<area shape="rect" id="node3" href="$slice_8cpp.html" title="source/common/slice.cpp" alt="" coords="208,80,379,107"/>
+<area shape="rect" id="node4" href="$dpb_8h.html" title="source/encoder/dpb.h" alt="" coords="403,80,549,107"/>
+<area shape="rect" id="node7" href="$slicetype_8h.html" title="source/encoder/slicetype.h" alt="" coords="731,80,909,107"/>
+<area shape="rect" id="node5" href="$dpb_8cpp.html" title="source/encoder/dpb.cpp" alt="" coords="197,155,357,181"/>
+<area shape="rect" id="node6" href="$encoder_8cpp.html" title="source/encoder/encoder.cpp" alt="" coords="383,155,569,181"/>
+<area shape="rect" id="node8" href="$frameencoder_8cpp.html" title="source/encoder/frameencoder.cpp" alt="" coords="593,155,812,181"/>
+<area shape="rect" id="node9" href="$ratecontrol_8cpp.html" title="source/encoder/ratecontrol.cpp" alt="" coords="837,155,1037,181"/>
+<area shape="rect" id="node10" href="$slicetype_8cpp.html" title="source/encoder/slicetype.cpp" alt="" coords="1063,155,1255,181"/>
+<area shape="rect" id="node11" href="$weightPrediction_8cpp.html" title="source/encoder/weightPrediction.cpp" alt="" coords="1279,155,1515,181"/>
+</map>

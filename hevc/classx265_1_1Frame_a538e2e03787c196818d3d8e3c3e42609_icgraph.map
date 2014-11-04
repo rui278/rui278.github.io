@@ -1,0 +1,9 @@
+<map id="x265::Frame::destroy" name="x265::Frame::destroy">
+<area shape="rect" id="node2" href="$classx265_1_1DPB.html#ab413f4582b68ea3e7ca50918ff4c4da3" title="x265::DPB::~DPB" alt="" coords="221,5,352,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="209,56,365,83"/>
+<area shape="rect" id="node6" href="$classx265_1_1Lookahead.html#ab9a7aba780092c796bb7b2a2e0d41f4d" title="x265::Lookahead::destroy" alt="" coords="201,107,373,133"/>
+<area shape="rect" id="node4" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="627,56,779,83"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="827,81,877,108"/>
+<area shape="rect" id="node7" href="$classx265_1_1Encoder.html#ac689b087686eca38579aad7426e34fc6" title="x265::Encoder::destroy" alt="" coords="421,107,579,133"/>
+<area shape="rect" id="node8" href="$x265_8h.html#ac370491d505086b2eb41e10d89f271ad" title="x265_encoder_close" alt="" coords="632,107,773,133"/>
+</map>

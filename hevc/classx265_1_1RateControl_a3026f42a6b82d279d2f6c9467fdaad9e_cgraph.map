@@ -1,0 +1,6 @@
+<map id="x265::RateControl::RateControl" name="x265::RateControl::RateControl">
+<area shape="rect" id="node2" href="$classx265_1_1ThreadSafeInteger.html#a7ccef198afc7cd642b949381b0b9bbe8" title="x265::ThreadSafeInteger::set" alt="" coords="190,5,381,32"/>
+<area shape="rect" id="node3" href="$common_8cpp.html#a4f4c9b86a7de778b323e810d58f82881" title="x265_qp2qScale" alt="" coords="226,56,345,83"/>
+<area shape="rect" id="node4" href="$common_8cpp.html#a746489f014374f963df715ddf9bd3986" title="x265_log" alt="" coords="248,107,323,133"/>
+<area shape="rect" id="node5" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="259,157,311,184"/>
+</map>

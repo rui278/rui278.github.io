@@ -1,0 +1,4 @@
+<map id="x265::JobProvider::dequeue" name="x265::JobProvider::dequeue">
+<area shape="rect" id="node2" href="$classx265_1_1ThreadPool.html#a360b412a2c2a49143e4611ff790d9462" title="x265::ThreadPool::dequeue\lJobProvider" alt="" coords="189,5,371,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1ThreadPool.html#a47277b980acec1c3114d1374ba304b85" title="x265::ThreadPool::pokeIdle\lThread" alt="" coords="189,70,371,111"/>
+</map>

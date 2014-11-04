@@ -1,0 +1,11 @@
+<map id="x265::Quant::transformNxN" name="x265::Quant::transformNxN">
+<area shape="rect" id="node2" href="$classx265_1_1Quant.html#ab353c26be0707486eecf784d618fc385" title="x265::Quant::rdoQuant" alt="" coords="264,121,419,148"/>
+<area shape="rect" id="node4" href="$classx265_1_1CUData.html#a554b34e5fb607f903b7765bd240c2694" title="x265::CUData::getTUEntropy\lCodingParameters" alt="" coords="493,5,688,46"/>
+<area shape="rect" id="node10" href="$classx265_1_1Quant.html#addfd2976d7e94bfc7db1b8b2640d1641" title="x265::Quant::signBitHidingHDQ" alt="" coords="237,172,445,199"/>
+<area shape="rect" id="node3" href="$classx265_1_1CUData.html#a4de1cda97a0a06196c9f6ac92d6829a2" title="x265::CUData::isIntra" alt="" coords="765,67,915,93"/>
+<area shape="rect" id="node6" href="$classx265_1_1Quant.html#aaf517e8c951a76b369006e1f48645e74" title="x265::Quant::calcPattern\lSigCtx" alt="" coords="507,173,674,214"/>
+<area shape="rect" id="node7" href="$classx265_1_1Quant.html#a6fe89a8ebf937d5dbe20c7ac3e3288ad" title="x265::Quant::getSigCtxInc" alt="" coords="502,239,679,265"/>
+<area shape="rect" id="node8" href="$classx265_1_1Quant.html#ad178d867a67ea861aad413e8d7d07767" title="x265::Quant::getSigCoeff\lGroupCtxInc" alt="" coords="505,290,676,331"/>
+<area shape="rect" id="node9" href="$classx265_1_1Quant.html#a722c0aa6aa183083114f820bc951049a" title="x265::Quant::getRateLast" alt="" coords="505,121,677,148"/>
+<area shape="rect" id="node5" href="$classx265_1_1CUData.html#ada5470364be8a87b70b409a3f521fce2" title="x265::CUData::getCoefScanIdx" alt="" coords="736,12,944,39"/>
+</map>

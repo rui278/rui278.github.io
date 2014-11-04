@@ -1,0 +1,15 @@
+<map id="source/encoder/motion.cpp" name="source/encoder/motion.cpp">
+<area shape="rect" id="node2" href="$common_8h.html" title="common.h" alt="" coords="676,528,757,555"/>
+<area shape="rect" id="node18" href="$x265_8h.html" title="x265.h" alt="" coords="1229,603,1291,629"/>
+<area shape="rect" id="node21" href="$primitives_8h.html" title="primitives.h" alt="" coords="571,379,660,405"/>
+<area shape="rect" id="node23" href="$lowres_8h.html" title="lowres.h" alt="" coords="654,229,724,256"/>
+<area shape="rect" id="node25" href="$motion_8h.html" title="motion.h" alt="" coords="728,80,800,107"/>
+<area shape="rect" id="node13" href="$stdint_8h.html" title="stdint.h" alt="" coords="934,677,999,704"/>
+<area shape="rect" id="node20" href="$constants_8h.html" title="constants.h" alt="" coords="1016,603,1107,629"/>
+<area shape="rect" id="node19" href="$x265__config_8h.html" title="x265_config.h" alt="" coords="1209,677,1311,704"/>
+<area shape="rect" id="node22" href="$cpu_8h.html" title="cpu.h" alt="" coords="625,453,679,480"/>
+<area shape="rect" id="node24" href="$mv_8h.html" title="mv.h" alt="" coords="755,304,805,331"/>
+<area shape="rect" id="node26" href="$reference_8h.html" title="reference.h" alt="" coords="671,155,757,181"/>
+<area shape="rect" id="node27" href="$bitcost_8h.html" title="bitcost.h" alt="" coords="851,229,923,256"/>
+<area shape="rect" id="node28" href="$threading_8h.html" title="threading.h" alt="" coords="998,453,1084,480"/>
+</map>

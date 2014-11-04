@@ -1,0 +1,10 @@
+<map id="x265::SyntaxElementWriter" name="x265::SyntaxElementWriter">
+<area shape="rect" id="node2" href="$classx265_1_1Entropy.html" title="x265::Entropy" alt="" coords="238,81,341,108"/>
+<area shape="rect" id="node3" href="$classx265_1_1SEI.html" title="x265::SEI" alt="" coords="249,132,329,159"/>
+<area shape="rect" id="node4" href="$classx265_1_1SEIActiveParameterSets.html" title="x265::SEIActiveParameterSets" alt="" coords="391,5,595,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1SEIBufferingPeriod.html" title="x265::SEIBufferingPeriod" alt="" coords="409,56,578,83"/>
+<area shape="rect" id="node6" href="$classx265_1_1SEIDecodedPictureHash.html" title="x265::SEIDecodedPictureHash" alt="" coords="391,107,595,133"/>
+<area shape="rect" id="node7" href="$classx265_1_1SEIPictureTiming.html" title="x265::SEIPictureTiming" alt="" coords="413,157,573,184"/>
+<area shape="rect" id="node8" href="$classx265_1_1SEIRecoveryPoint.html" title="x265::SEIRecoveryPoint" alt="" coords="410,208,577,235"/>
+<area shape="rect" id="node9" href="$classx265_1_1SEIuserDataUnregistered.html" title="x265::SEIuserDataUnregistered" alt="" coords="390,259,597,285"/>
+</map>

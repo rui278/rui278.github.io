@@ -1,0 +1,30 @@
+<map id="x265::Entropy::encodeTransform" name="x265::Entropy::encodeTransform">
+<area shape="rect" id="node2" href="$classx265_1_1CUData.html#ae01b9f17830903cc264ddb26b18ed4a0" title="x265::CUData::getCbf" alt="" coords="575,313,729,340"/>
+<area shape="rect" id="node3" href="$classx265_1_1Entropy.html#a0052cf59b3cef0daf2f76cb510dd5846" title="x265::Entropy::codeTransform\lSubdivFlag" alt="" coords="275,415,474,457"/>
+<area shape="rect" id="node7" href="$classx265_1_1Entropy.html#af86f84f10bd0d83bed8f158a1abb2453" title="x265::Entropy::codeQtCbf" alt="" coords="287,364,462,391"/>
+<area shape="rect" id="node8" href="$classx265_1_1Entropy.html#af4ab096830911ac48684ea5258cea013" title="x265::Entropy::codeDeltaQP" alt="" coords="280,189,469,216"/>
+<area shape="rect" id="node19" href="$classx265_1_1Entropy.html#a955a0c3b2662c4af07b55b071370136b" title="x265::Entropy::codeCoeffNxN" alt="" coords="275,641,474,668"/>
+<area shape="rect" id="node29" href="$structx265_1_1TURecurse.html#a57a0734e9b32d88376eaec732b751d0f" title="x265::TURecurse::isNextSection" alt="" coords="267,692,482,719"/>
+<area shape="rect" id="node4" href="$classx265_1_1Entropy.html#ad5bd127b6afa68ee4408890c75fdd4bd" title="x265::Entropy::encodeBin" alt="" coords="843,444,1015,471"/>
+<area shape="rect" id="node5" href="$classx265_1_1Entropy.html#a38c906d03fe47f10456a3d5bc0cd2080" title="x265::Entropy::writeOut" alt="" coords="1104,444,1264,471"/>
+<area shape="rect" id="node6" href="$classx265_1_1BitInterface.html#a0ab2614d14b086091eefc0ed19f3be6d" title="x265::BitInterface\l::writeByte" alt="" coords="1331,437,1456,478"/>
+<area shape="rect" id="node9" href="$classx265_1_1CUData.html#a83aa8547b59c61d599373675ddb0ace4" title="x265::CUData::getRefQP" alt="" coords="566,80,738,107"/>
+<area shape="rect" id="node15" href="$classx265_1_1Entropy.html#ab2f9a032714666f66b8e1da1f4ed92c2" title="x265::Entropy::writeUnary\lMaxSymbol" alt="" coords="565,182,739,223"/>
+<area shape="rect" id="node16" href="$classx265_1_1Entropy.html#a1dcd536d7412a6e572c1c76f43914366" title="x265::Entropy::writeEpEx\lGolomb" alt="" coords="567,247,737,289"/>
+<area shape="rect" id="node18" href="$classx265_1_1Entropy.html#aeb3460dd06c9b37356040eeb108a3e98" title="x265::Entropy::encodeBinEP" alt="" coords="834,309,1025,336"/>
+<area shape="rect" id="node10" href="$classx265_1_1CUData.html#ae9dcb94237b038dd32853d63a5f15fba" title="x265::CUData::getQpMinCuLeft" alt="" coords="825,80,1034,107"/>
+<area shape="rect" id="node12" href="$classx265_1_1CUData.html#ae23527f57eb862ea1bbe255e4bcf7d07" title="x265::CUData::getQpMinCu\lAbove" alt="" coords="836,131,1023,173"/>
+<area shape="rect" id="node13" href="$classx265_1_1CUData.html#a31d1cef3ddd2a8e40d62b43f47ea73da" title="x265::CUData::getLastCodedQP" alt="" coords="822,29,1037,56"/>
+<area shape="rect" id="node11" href="$classx265_1_1FrameData.html#a83d98df913873a07c3ce59bd5c16b2e4" title="x265::FrameData::getPicCTU" alt="" coords="1086,84,1282,111"/>
+<area shape="rect" id="node14" href="$classx265_1_1CUData.html#a188a753316fed86e3aec507f7e522875" title="x265::CUData::getLastValid\lPartIdx" alt="" coords="1091,18,1277,59"/>
+<area shape="rect" id="node17" href="$classx265_1_1Entropy.html#ac9e06099bfcb9f576565d6d5a0e3205f" title="x265::Entropy::encodeBinsEP" alt="" coords="831,583,1028,609"/>
+<area shape="rect" id="node20" href="$classx265_1_1Entropy.html#a70146b58f72ab30ab0d0390d54f556c0" title="x265::Entropy::codeTransform\lSkipFlags" alt="" coords="553,466,751,507"/>
+<area shape="rect" id="node21" href="$classx265_1_1CUData.html#a554b34e5fb607f903b7765bd240c2694" title="x265::CUData::getTUEntropy\lCodingParameters" alt="" coords="555,934,749,975"/>
+<area shape="rect" id="node24" href="$classx265_1_1Entropy.html#aa37a5f42bf31dd5234d2fd0298ab37d5" title="x265::Entropy::codeLastSignificantXY" alt="" coords="531,583,773,609"/>
+<area shape="rect" id="node25" href="$classx265_1_1Quant.html#ad178d867a67ea861aad413e8d7d07767" title="x265::Quant::getSigCoeff\lGroupCtxInc" alt="" coords="567,817,737,858"/>
+<area shape="rect" id="node26" href="$classx265_1_1Quant.html#aaf517e8c951a76b369006e1f48645e74" title="x265::Quant::calcPattern\lSigCtx" alt="" coords="569,634,735,675"/>
+<area shape="rect" id="node27" href="$classx265_1_1Quant.html#a6fe89a8ebf937d5dbe20c7ac3e3288ad" title="x265::Quant::getSigCtxInc" alt="" coords="563,700,741,727"/>
+<area shape="rect" id="node28" href="$classx265_1_1Entropy.html#af93a2888ed1b7b3bee4bf90558d1feb4" title="x265::Entropy::writeCoef\lRemainExGolomb" alt="" coords="569,751,735,793"/>
+<area shape="rect" id="node22" href="$classx265_1_1CUData.html#ada5470364be8a87b70b409a3f521fce2" title="x265::CUData::getCoefScanIdx" alt="" coords="825,916,1033,943"/>
+<area shape="rect" id="node23" href="$classx265_1_1CUData.html#a4de1cda97a0a06196c9f6ac92d6829a2" title="x265::CUData::isIntra" alt="" coords="854,967,1005,993"/>
+</map>

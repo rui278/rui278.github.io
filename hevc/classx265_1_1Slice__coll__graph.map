@@ -1,0 +1,27 @@
+<map id="x265::Slice" name="x265::Slice">
+<area shape="rect" id="node22" href="$classx265_1_1FrameData.html" title="x265::FrameData" alt="" coords="1824,2132,1947,2159"/>
+<area shape="rect" id="node26" href="$classx265_1_1CUData.html" title="x265::CUData" alt="" coords="2125,1972,2232,1999"/>
+<area shape="rect" id="node2" href="$classx265_1_1MotionReference.html" title="x265::MotionReference" alt="" coords="1161,1084,1319,1111"/>
+<area shape="rect" id="node3" href="$structx265_1_1ReferencePlanes.html" title="x265::ReferencePlanes" alt="" coords="795,872,954,899"/>
+<area shape="rect" id="node41" href="$structx265_1_1Lowres.html" title="x265::Lowres" alt="" coords="1551,532,1651,559"/>
+<area shape="rect" id="node9" href="$classx265_1_1PicYuv.html" title="x265::PicYuv" alt="" coords="825,1068,925,1095"/>
+<area shape="rect" id="node10" href="$structx265_1_1WeightParam.html" title="x265::WeightParam" alt="" coords="390,972,527,999"/>
+<area shape="rect" id="node11" href="$structx265_1_1RPS.html" title="x265::RPS" alt="" coords="415,1023,502,1049"/>
+<area shape="rect" id="node13" href="$classx265_1_1Frame.html" title="x265::Frame" alt="" coords="2131,583,2226,609"/>
+<area shape="rect" id="node14" href="$structx265__intra__data.html" title="x265_intra_data" alt="" coords="1183,279,1297,305"/>
+<area shape="rect" id="node18" href="$structx265__inter__data.html" title="x265_inter_data" alt="" coords="617,696,732,723"/>
+<area shape="rect" id="node19" href="$classx265_1_1ThreadSafeInteger.html" title="x265::ThreadSafeInteger" alt="" coords="376,65,541,92"/>
+<area shape="rect" id="node24" href="$structx265_1_1FrameData_1_1RCStatCU.html" title="x265::FrameData::RCStatCU" alt="" coords="1143,2263,1337,2289"/>
+<area shape="rect" id="node30" href="$structx265_1_1MV.html" title="x265::MV" alt="" coords="1201,2111,1279,2137"/>
+<area shape="rect" id="node34" href="$structx265_1_1FrameData_1_1RCStatRow.html" title="x265::FrameData::RCStatRow" alt="" coords="1139,2767,1341,2793"/>
+<area shape="rect" id="node35" href="$structx265__param.html" title="x265_param" alt="" coords="1193,2557,1287,2584"/>
+<area shape="rect" id="node37" href="$structx265_1_1SAOParam.html" title="x265::SAOParam" alt="" coords="813,2968,937,2995"/>
+<area shape="rect" id="node38" href="$structx265_1_1SaoCtuParam.html" title="x265::SaoCtuParam" alt="" coords="389,3036,529,3063"/>
+<area shape="rect" id="node45" href="$structx265_1_1PPS.html" title="x265::PPS" alt="" coords="416,1304,501,1331"/>
+<area shape="rect" id="node47" href="$structx265_1_1SPS.html" title="x265::SPS" alt="" coords="1197,1655,1283,1681"/>
+<area shape="rect" id="node48" href="$structx265_1_1VUI.html" title="x265::VUI" alt="" coords="834,1655,915,1681"/>
+<area shape="rect" id="node49" href="$structx265_1_1TimingInfo.html" title="x265::TimingInfo" alt="" coords="399,1940,518,1967"/>
+<area shape="rect" id="node50" href="$structx265_1_1HRDInfo.html" title="x265::HRDInfo" alt="" coords="403,1644,514,1671"/>
+<area shape="rect" id="node51" href="$structx265_1_1Window.html" title="x265::Window" alt="" coords="406,1695,511,1721"/>
+<area shape="rect" id="node32" href="$structx265_1_1CUDataMemPool.html" title="x265::CUDataMemPool" alt="" coords="1521,2156,1682,2183"/>
+</map>

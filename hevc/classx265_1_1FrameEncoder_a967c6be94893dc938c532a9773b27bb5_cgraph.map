@@ -1,0 +1,4 @@
+<map id="x265::FrameEncoder::enqueueRowEncoder" name="x265::FrameEncoder::enqueueRowEncoder">
+<area shape="rect" id="node2" href="$classx265_1_1WaveFront.html#a7e9bb7c12ce745c308ada7e889a8227e" title="x265::WaveFront::enqueueRow" alt="" coords="209,12,415,39"/>
+<area shape="rect" id="node3" href="$classx265_1_1ThreadPool.html#a47277b980acec1c3114d1374ba304b85" title="x265::ThreadPool::pokeIdle\lThread" alt="" coords="464,5,645,46"/>
+</map>

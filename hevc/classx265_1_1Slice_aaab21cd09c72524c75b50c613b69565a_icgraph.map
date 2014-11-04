@@ -1,0 +1,9 @@
+<map id="x265::Slice::isIRAP" name="x265::Slice::isIRAP">
+<area shape="rect" id="node2" href="$classx265_1_1DPB.html#a816f74b4e9b9a47b65f301b80caf7a41" title="x265::DPB::prepareEncode" alt="" coords="192,5,373,32"/>
+<area shape="rect" id="node6" href="$classx265_1_1Entropy.html#ad1f2a2f7d75512adb1d05131b6689ac1" title="x265::Entropy::codeSlice\lHeader" alt="" coords="199,57,367,98"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="422,5,578,32"/>
+<area shape="rect" id="node4" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="627,5,779,32"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="827,5,877,32"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="429,57,571,98"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="631,57,774,98"/>
+</map>

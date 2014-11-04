@@ -1,0 +1,12 @@
+<map id="x265::Slice::realEndAddress" name="x265::Slice::realEndAddress">
+<area shape="rect" id="node2" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="243,5,399,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1Entropy.html#ada027e64bb3fcdc48c94cefda1bbaba9" title="x265::Entropy::finishCU" alt="" coords="240,56,403,83"/>
+<area shape="rect" id="node3" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="461,5,613,32"/>
+<area shape="rect" id="node4" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="737,5,788,32"/>
+<area shape="rect" id="node6" href="$classx265_1_1Entropy.html#adeb50a7c9a5df6643407d01158d93799" title="x265::Entropy::encodeCU" alt="" coords="451,56,624,83"/>
+<area shape="rect" id="node7" href="$classx265_1_1Entropy.html#abb101b71f310e90eb504a8204babc180" title="x265::Entropy::encodeCTU" alt="" coords="672,56,853,83"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#a6d4045d35bfe6b10c8d0dc39353be360" title="x265::FrameEncoder\l::encodeSlice" alt="" coords="906,15,1049,57"/>
+<area shape="rect" id="node10" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="902,81,1053,122"/>
+<area shape="rect" id="node9" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="1102,15,1245,57"/>
+<area shape="rect" id="node11" href="$classx265_1_1FrameEncoder.html#acad645a8ece97d884895f8f7366b7d70" title="x265::FrameEncoder\l::processRow" alt="" coords="1102,81,1245,122"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="x265::Setup_Instrinsic_Primitives" name="x265::Setup_Instrinsic_Primitives">
+<area shape="rect" id="node2" href="$x265_8h.html#a04a58d574a81e33aa7fe7632e2328bf2" title="x265_setup_primitives" alt="" coords="205,31,357,57"/>
+<area shape="rect" id="node6" href="$testbench_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="256,81,307,108"/>
+<area shape="rect" id="node3" href="$x265_8h.html#add639f6af182534d265ef22d4bf91f90" title="x265_encoder_open" alt="" coords="405,5,544,32"/>
+<area shape="rect" id="node4" href="$structCLIOptions.html#a9fc5f387d720db54ca46e6abf917719f" title="CLIOptions::parse" alt="" coords="411,56,539,83"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="592,56,643,83"/>
+</map>

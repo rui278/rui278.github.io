@@ -1,0 +1,9 @@
+<map id="x265::Quant::rdoQuant" name="x265::Quant::rdoQuant">
+<area shape="rect" id="node2" href="$classx265_1_1CUData.html#a4de1cda97a0a06196c9f6ac92d6829a2" title="x265::CUData::isIntra" alt="" coords="479,5,630,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1CUData.html#a554b34e5fb607f903b7765bd240c2694" title="x265::CUData::getTUEntropy\lCodingParameters" alt="" coords="208,53,403,94"/>
+<area shape="rect" id="node5" href="$classx265_1_1Quant.html#aaf517e8c951a76b369006e1f48645e74" title="x265::Quant::calcPattern\lSigCtx" alt="" coords="222,118,389,159"/>
+<area shape="rect" id="node6" href="$classx265_1_1Quant.html#a6fe89a8ebf937d5dbe20c7ac3e3288ad" title="x265::Quant::getSigCtxInc" alt="" coords="217,184,394,211"/>
+<area shape="rect" id="node7" href="$classx265_1_1Quant.html#ad178d867a67ea861aad413e8d7d07767" title="x265::Quant::getSigCoeff\lGroupCtxInc" alt="" coords="220,235,391,277"/>
+<area shape="rect" id="node8" href="$classx265_1_1Quant.html#a722c0aa6aa183083114f820bc951049a" title="x265::Quant::getRateLast" alt="" coords="219,301,391,328"/>
+<area shape="rect" id="node4" href="$classx265_1_1CUData.html#ada5470364be8a87b70b409a3f521fce2" title="x265::CUData::getCoefScanIdx" alt="" coords="451,60,659,87"/>
+</map>

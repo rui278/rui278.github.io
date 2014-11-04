@@ -1,0 +1,8 @@
+<map id="x265::RateControlEntry" name="x265::RateControlEntry">
+<area shape="rect" id="node2" href="$structx265_1_1HRDTiming.html" title="x265::HRDTiming" alt="" coords="153,375,279,401"/>
+<area shape="rect" id="node11" href="$structx265_1_1Predictor.html" title="x265::Predictor" alt="" coords="304,375,414,401"/>
+<area shape="rect" id="node4" href="$classx265_1_1SEIPictureTiming.html" title="x265::SEIPictureTiming" alt="" coords="562,375,721,401"/>
+<area shape="rect" id="node5" href="$classx265_1_1SEI.html" title="x265::SEI" alt="" coords="630,173,709,200"/>
+<area shape="rect" id="node6" href="$classx265_1_1SyntaxElementWriter.html" title="x265::SyntaxElementWriter" alt="" coords="579,96,761,123"/>
+<area shape="rect" id="node7" href="$classx265_1_1BitInterface.html" title="x265::BitInterface" alt="" coords="607,5,733,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="x265::ThreadPoolImpl::FlushProviderList" name="x265::ThreadPoolImpl::FlushProviderList">
+<area shape="rect" id="node2" href="$classx265_1_1PoolThread.html#aa02c82e7c373f10e72b4cee865949982" title="x265::PoolThread::markDirty" alt="" coords="203,5,392,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1PoolThread.html#a9e1083006da7d4bea5e60ff5a9e2ff41" title="x265::PoolThread::poke" alt="" coords="217,56,377,83"/>
+<area shape="rect" id="node4" href="$classx265_1_1Event.html#ad3e86a968fd0b5340255f8691c22441b" title="x265::Event::trigger" alt="" coords="440,56,576,83"/>
+</map>

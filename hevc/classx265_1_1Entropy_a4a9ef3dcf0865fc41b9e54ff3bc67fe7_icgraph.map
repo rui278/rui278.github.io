@@ -1,0 +1,5 @@
+<map id="x265::Entropy::start" name="x265::Entropy::start">
+<area shape="rect" id="node2" href="$classx265_1_1Entropy.html#a4990ed3cb3b0af269e22b135b5b5223e" title="x265::Entropy::resetEntropy" alt="" coords="193,12,378,39"/>
+<area shape="rect" id="node3" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="427,5,570,46"/>
+<area shape="rect" id="node4" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="619,5,762,46"/>
+</map>

@@ -1,0 +1,26 @@
+var classx265_1_1ScalingList =
+[
+    [ "NUM_SIZES", "classx265_1_1ScalingList.html#ad092dc7f3ec1c3a55cf87e3098275053a87167cdc7fca020f714ea4442e238e3b", null ],
+    [ "NUM_LISTS", "classx265_1_1ScalingList.html#a7cd4ac37379e2b086a3f5b8ac171d833aab2e34c2bd1a62246ce2c03f7888db1e", null ],
+    [ "NUM_REM", "classx265_1_1ScalingList.html#a65f592988574bd144934981f349829b0aafd99c1c8626af3c597469ff4959e1c6", null ],
+    [ "MAX_MATRIX_COEF_NUM", "classx265_1_1ScalingList.html#a1d8b80c373f3eeff71b305117d107ec9ad8ad54cae4f0bffd4d8b1484a775d93f", null ],
+    [ "MAX_MATRIX_SIZE_NUM", "classx265_1_1ScalingList.html#aa367ac68a6f6b26b3600fa04fa0028aea7c4d2dc1dc225b148d86512841c5c13c", null ],
+    [ "ScalingList", "classx265_1_1ScalingList.html#ae2ec1cc10d008eb5eb79973c9406b514", null ],
+    [ "~ScalingList", "classx265_1_1ScalingList.html#a34af77b9258b5c7967832aa154f64270", null ],
+    [ "checkDefaultScalingList", "classx265_1_1ScalingList.html#af0857ace4d498babf5059d49547b3745", null ],
+    [ "checkPredMode", "classx265_1_1ScalingList.html#a74b20954ff1e4a0f285bb0459b565cd3", null ],
+    [ "getScalingListDefaultAddress", "classx265_1_1ScalingList.html#adc51f78336caaee1c0905a564c9d4f89", null ],
+    [ "init", "classx265_1_1ScalingList.html#a577105015af567e7b650f4989c1db899", null ],
+    [ "parseScalingList", "classx265_1_1ScalingList.html#a7d66e505b68e890ff6b2ec0014406764", null ],
+    [ "processDefaultMarix", "classx265_1_1ScalingList.html#adee7b88855e273c4fbc3563804a64944", null ],
+    [ "processScalingListDec", "classx265_1_1ScalingList.html#a4211a6913e0db817ee536e64f1dd1fb6", null ],
+    [ "processScalingListEnc", "classx265_1_1ScalingList.html#a47018d6199ea68b69c69c05f69800f17", null ],
+    [ "setDefaultScalingList", "classx265_1_1ScalingList.html#a4bdc2dd145f5ab39306e1909dc324c51", null ],
+    [ "setupQuantMatrices", "classx265_1_1ScalingList.html#af0b8406685741981f375b60930ee1186", null ],
+    [ "m_bDataPresent", "classx265_1_1ScalingList.html#aeaa3b9b0bf40ec0a21bcc9fca1f5a757", null ],
+    [ "m_bEnabled", "classx265_1_1ScalingList.html#ab3fd26c458c30dbbfb370c5c01fda9f9", null ],
+    [ "m_dequantCoef", "classx265_1_1ScalingList.html#a525946bbc6c86649c7023940d4418cd1", null ],
+    [ "m_quantCoef", "classx265_1_1ScalingList.html#a67275829c538063d5b6c37c220f94963", null ],
+    [ "m_scalingListCoef", "classx265_1_1ScalingList.html#a8492cd45df2e90e20aafc29c46ecdc55", null ],
+    [ "m_scalingListDC", "classx265_1_1ScalingList.html#a89ab66da423a82e93fce6ca3fb4d10ff", null ]
+];

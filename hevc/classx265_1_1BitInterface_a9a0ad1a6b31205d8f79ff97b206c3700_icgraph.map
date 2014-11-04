@@ -1,0 +1,7 @@
+<map id="x265::BitInterface::getNumberOfWrittenBits" name="x265::BitInterface::getNumberOfWrittenBits">
+<area shape="rect" id="node2" href="$classx265_1_1SEI.html#a5949af24988ead690e69076810f43bd7" title="x265::SEI::writeByteAlign" alt="" coords="227,111,399,137"/>
+<area shape="rect" id="node3" href="$classx265_1_1SEIActiveParameterSets.html#ae4e6f13edeabe2136cef0b6fe80e82a2" title="x265::SEIActiveParameter\lSets::writeSEI" alt="" coords="449,5,626,46"/>
+<area shape="rect" id="node4" href="$classx265_1_1SEIBufferingPeriod.html#a6152a9bb8906206d562a8b4935d02274" title="x265::SEIBufferingPeriod\l::writeSEI" alt="" coords="453,70,622,111"/>
+<area shape="rect" id="node5" href="$classx265_1_1SEIPictureTiming.html#a453562cf724db6ae5803875052dc61be" title="x265::SEIPictureTiming\l::writeSEI" alt="" coords="457,135,617,177"/>
+<area shape="rect" id="node6" href="$classx265_1_1SEIRecoveryPoint.html#a1305df775c7e64b8d68cfc1a3c4c40e8" title="x265::SEIRecoveryPoint\l::writeSEI" alt="" coords="454,201,621,242"/>
+</map>

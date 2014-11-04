@@ -1,0 +1,6 @@
+<map id="x265::Predict::predInterChromaPixel" name="x265::Predict::predInterChromaPixel">
+<area shape="rect" id="node2" href="$classx265_1_1Yuv.html#ae9ee735ee14e85c083e59c04d9776f5e" title="x265::Yuv::getCbAddr" alt="" coords="222,5,373,32"/>
+<area shape="rect" id="node4" href="$classx265_1_1Yuv.html#a357df18eeacf546a884e04e232b326cc" title="x265::Yuv::getCrAddr" alt="" coords="223,56,371,83"/>
+<area shape="rect" id="node5" href="$namespacex265.html#a93e053711da89baf3e987bf83cbd55a3" title="x265::partitionFromSizes" alt="" coords="214,107,381,133"/>
+<area shape="rect" id="node3" href="$classx265_1_1Yuv.html#a0ea2ba029528b5b9eca460bb8d67423b" title="x265::Yuv::getChromaAddr\lOffset" alt="" coords="430,23,610,65"/>
+</map>

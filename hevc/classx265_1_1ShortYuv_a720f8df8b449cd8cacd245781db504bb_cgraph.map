@@ -1,0 +1,6 @@
+<map id="x265::ShortYuv::copyPartToPartChroma" name="x265::ShortYuv::copyPartToPartChroma">
+<area shape="rect" id="node2" href="$namespacex265.html#ac6c8410818c1795fa1005c95bcba83a6" title="x265::partitionFromLog2Size" alt="" coords="227,5,415,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1ShortYuv.html#a6660171fcbce209dfaa6fe73ae4de71c" title="x265::ShortYuv::getCbAddr" alt="" coords="230,56,413,83"/>
+<area shape="rect" id="node5" href="$classx265_1_1ShortYuv.html#a6da679101051acbcbab626c848863fa8" title="x265::ShortYuv::getCrAddr" alt="" coords="232,107,411,133"/>
+<area shape="rect" id="node4" href="$classx265_1_1ShortYuv.html#a9249fde852269aaff4406515274bcf9d" title="x265::ShortYuv::getChroma\lAddrOffset" alt="" coords="464,74,648,115"/>
+</map>

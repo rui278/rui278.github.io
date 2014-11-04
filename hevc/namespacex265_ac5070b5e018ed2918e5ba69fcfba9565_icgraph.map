@@ -1,0 +1,12 @@
+<map id="x265::cpu_detect" name="x265::cpu_detect">
+<area shape="rect" id="node2" href="$x265_8h.html#a08c4a59a7618e137a3e9071302490e70" title="x265_param_default" alt="" coords="183,71,321,97"/>
+<area shape="rect" id="node7" href="$namespacex265.html#a1f679d0c2a5ff8dfda007fe728dcfb36" title="x265::parseCpuName" alt="" coords="177,121,327,148"/>
+<area shape="rect" id="node9" href="$testbench_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="428,172,479,199"/>
+<area shape="rect" id="node10" href="$x265_8h.html#a04a58d574a81e33aa7fe7632e2328bf2" title="x265_setup_primitives" alt="" coords="176,223,328,249"/>
+<area shape="rect" id="node3" href="$x265_8h.html#af579ca852e7ff0e67e68f7d7c70c98b8" title="x265_param_default\l_preset" alt="" coords="384,5,523,46"/>
+<area shape="rect" id="node6" href="$structCLIOptions.html#a49a6a8c8ef66523fb1180ee9eb1bb04b" title="CLIOptions::showHelp" alt="" coords="376,71,531,97"/>
+<area shape="rect" id="node4" href="$structCLIOptions.html#a9fc5f387d720db54ca46e6abf917719f" title="CLIOptions::parse" alt="" coords="579,121,707,148"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="755,121,805,148"/>
+<area shape="rect" id="node8" href="$x265_8h.html#ae61c19d04baa63468e7ac42af7ead568" title="x265_param_parse" alt="" coords="387,121,519,148"/>
+<area shape="rect" id="node11" href="$x265_8h.html#add639f6af182534d265ef22d4bf91f90" title="x265_encoder_open" alt="" coords="384,273,523,300"/>
+</map>

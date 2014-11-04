@@ -1,0 +1,22 @@
+<map id="x265::SyntaxElementWriter::WRITE_CODE" name="x265::SyntaxElementWriter::WRITE_CODE">
+<area shape="rect" id="node2" href="$classx265_1_1Entropy.html#a98ca36537fe05ac33cc021b45d141c38" title="x265::Entropy::codeVPS" alt="" coords="513,116,679,142"/>
+<area shape="rect" id="node8" href="$classx265_1_1Entropy.html#ab082d9d010b1ef8443515e7cab0541e2" title="x265::Entropy::codeSPS" alt="" coords="749,237,915,264"/>
+<area shape="rect" id="node9" href="$classx265_1_1Entropy.html#a6214592673cec7c00e87e3d79376fac0" title="x265::Entropy::codePPS" alt="" coords="513,318,679,345"/>
+<area shape="rect" id="node10" href="$classx265_1_1Entropy.html#a45108a2c64fe3de5c6d49e510481fe5b" title="x265::Entropy::codeProfileTier" alt="" coords="251,116,450,142"/>
+<area shape="rect" id="node11" href="$classx265_1_1Entropy.html#aa0e5f1f35159ef51d0c231a231fa66b1" title="x265::Entropy::codeVUI" alt="" coords="515,217,677,244"/>
+<area shape="rect" id="node12" href="$classx265_1_1Entropy.html#af169c08900b0468bbbbc3117d2b47e04" title="x265::Entropy::codeHrdParameters" alt="" coords="237,217,464,244"/>
+<area shape="rect" id="node13" href="$classx265_1_1Entropy.html#aa9de9acb32c7a51d1ba61bf65d848b3c" title="x265::Entropy::codeAUD" alt="" coords="1003,478,1171,505"/>
+<area shape="rect" id="node14" href="$classx265_1_1Entropy.html#ad1f2a2f7d75512adb1d05131b6689ac1" title="x265::Entropy::codeSlice\lHeader" alt="" coords="512,522,680,563"/>
+<area shape="rect" id="node15" href="$classx265_1_1Entropy.html#ac40b055220ee30162837ad81e10afa3f" title="x265::Entropy::codeSlice\lHeaderWPPEntryPoints" alt="" coords="748,580,916,622"/>
+<area shape="rect" id="node16" href="$classx265_1_1SEI.html#aa47f55241ed2dc840019467d5b3e888e" title="x265::SEI::write" alt="" coords="774,361,890,388"/>
+<area shape="rect" id="node17" href="$classx265_1_1SEIuserDataUnregistered.html#a9331083b1a8419ddd0ce1e81714f3f11" title="x265::SEIuserDataUnregistered\l::write" alt="" coords="729,47,935,88"/>
+<area shape="rect" id="node18" href="$classx265_1_1SEIDecodedPictureHash.html#a4ae2cf97f85385b20e2ab2afaf6bc523" title="x265::SEIDecodedPictureHash\l::write" alt="" coords="985,412,1189,454"/>
+<area shape="rect" id="node19" href="$classx265_1_1SEIActiveParameterSets.html#ae4e6f13edeabe2136cef0b6fe80e82a2" title="x265::SEIActiveParameter\lSets::writeSEI" alt="" coords="262,632,439,674"/>
+<area shape="rect" id="node20" href="$classx265_1_1SEIBufferingPeriod.html#a6152a9bb8906206d562a8b4935d02274" title="x265::SEIBufferingPeriod\l::writeSEI" alt="" coords="266,698,435,739"/>
+<area shape="rect" id="node21" href="$classx265_1_1SEIPictureTiming.html#a453562cf724db6ae5803875052dc61be" title="x265::SEIPictureTiming\l::writeSEI" alt="" coords="271,763,431,804"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#a5095039a4d1af32049c30052ef3e6588" title="x265::Encoder::getStream\lHeaders" alt="" coords="999,263,1174,304"/>
+<area shape="rect" id="node4" href="$x265_8h.html#a575071c7bc7374ffd708d93f016211b5" title="x265_encoder_headers" alt="" coords="1238,270,1394,297"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="1245,442,1387,483"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1489,270,1540,297"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="1443,442,1586,483"/>
+</map>

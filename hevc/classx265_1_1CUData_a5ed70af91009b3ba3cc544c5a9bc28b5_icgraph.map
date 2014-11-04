@@ -1,0 +1,18 @@
+<map id="x265::CUData::clipMv" name="x265::CUData::clipMv">
+<area shape="rect" id="node2" href="$classx265_1_1Predict.html#a494c21fed3f3ee34543c24b780abfa49" title="x265::Predict::prepMotion\lCompensation" alt="" coords="223,156,393,197"/>
+<area shape="rect" id="node12" href="$classx265_1_1Search.html#a48101e3d900e93b97a83f461be390bd1" title="x265::Search::predInterSearch" alt="" coords="713,349,911,375"/>
+<area shape="rect" id="node16" href="$classx265_1_1Search.html#a47294b1b3d67ab31cb6be412407982d5" title="x265::Search::singleMotion\lEstimation" alt="" coords="471,341,651,383"/>
+<area shape="rect" id="node17" href="$classx265_1_1Search.html#a24733c240f7870af9e8e0cc556d0f9fc" title="x265::Search::setSearchRange" alt="" coords="206,399,410,426"/>
+<area shape="rect" id="node3" href="$classx265_1_1Analysis.html#abd49473ae6e5e1f7e555b447b04398e6" title="x265::Analysis::parallelME" alt="" coords="723,201,901,227"/>
+<area shape="rect" id="node5" href="$classx265_1_1Analysis.html#a87060ff27a37f56adc5f5b8a4c033ece" title="x265::Analysis::compress\lInterCU_dist" alt="" coords="1632,76,1805,117"/>
+<area shape="rect" id="node7" href="$classx265_1_1Analysis.html#a30d2ff7eca5addbb0a6b3dfe14f09650" title="x265::Analysis::compress\lInterCU_rd0_4" alt="" coords="1203,135,1376,176"/>
+<area shape="rect" id="node8" href="$classx265_1_1Analysis.html#addd72cb95590e2b2a6965d42d110eab3" title="x265::Analysis::checkMerge2\lNx2N_rd0_4" alt="" coords="960,84,1155,125"/>
+<area shape="rect" id="node9" href="$classx265_1_1Analysis.html#a0194a9da53aa95173fa1132ba3aea1c7" title="x265::Analysis::checkMerge2\lNx2N_rd5_6" alt="" coords="715,269,909,311"/>
+<area shape="rect" id="node11" href="$classx265_1_1Search.html#a761560ef5d3ff0beb48567c88c771d55" title="x265::Search::mergeEstimation" alt="" coords="459,239,664,266"/>
+<area shape="rect" id="node4" href="$classx265_1_1Analysis.html#a29a58dad4cc1c07d2f5e5717c6be7c25" title="x265::Analysis::findJob" alt="" coords="1425,201,1583,227"/>
+<area shape="rect" id="node6" href="$classx265_1_1Analysis.html#aaebc9de2ff98834c650244f3b58942c2" title="x265::Analysis::compressCTU" alt="" coords="1854,142,2055,169"/>
+<area shape="rect" id="node10" href="$classx265_1_1Analysis.html#a0b22b7765aa4a36b1ba6d07ba26901e6" title="x265::Analysis::compress\lInterCU_rd5_6" alt="" coords="1203,317,1376,359"/>
+<area shape="rect" id="node13" href="$classx265_1_1Analysis.html#a2305f7985af66b49fdbc40ebb1b281d2" title="x265::Analysis::checkInter\l_rd0_4" alt="" coords="969,252,1146,293"/>
+<area shape="rect" id="node15" href="$classx265_1_1Analysis.html#a828daa3e9f1ed40a1af9f99f7ff7bb33" title="x265::Analysis::checkInter\l_rd5_6" alt="" coords="969,369,1146,411"/>
+<area shape="rect" id="node14" href="$classx265_1_1Analysis.html#aa6122285d10bb1bd7584958b88b029d5" title="x265::Analysis::parallel\lModeAnalysis" alt="" coords="1211,252,1368,293"/>
+</map>

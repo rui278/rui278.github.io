@@ -1,0 +1,17 @@
+<map id="x265::CostEstimate::estimateFrameCost" name="x265::CostEstimate::estimateFrameCost">
+<area shape="rect" id="node2" href="$classx265_1_1Lookahead.html#ad15172de7a432e47e8514fb157fafedd" title="x265::Lookahead::slicetype\lDecide" alt="" coords="955,64,1136,105"/>
+<area shape="rect" id="node9" href="$classx265_1_1Lookahead.html#ad963fd74581c61eaf7713367906b3e96" title="x265::Lookahead::vbvFrameCost" alt="" coords="201,70,415,97"/>
+<area shape="rect" id="node11" href="$classx265_1_1Lookahead.html#a2f8c7057dd5c5086830b5f22b38105b0" title="x265::Lookahead::slicetype\lAnalyse" alt="" coords="725,141,907,183"/>
+<area shape="rect" id="node12" href="$classx265_1_1Lookahead.html#abe59d19601dc7f3cc76ba3dd315140ee" title="x265::Lookahead::scenecut\lInternal" alt="" coords="217,172,399,213"/>
+<area shape="rect" id="node14" href="$classx265_1_1Lookahead.html#a23cd684acae2cb60daeb2f6df390e30e" title="x265::Lookahead::slicetype\lPathCost" alt="" coords="217,237,399,279"/>
+<area shape="rect" id="node16" href="$classx265_1_1Lookahead.html#a7de60f6bb080e48623088fb1ed9f034b" title="x265::Lookahead::cuTree" alt="" coords="486,299,655,326"/>
+<area shape="rect" id="node3" href="$classx265_1_1Lookahead.html#a878bca13580997ab9c01e72a8f8e81c3" title="x265::Lookahead::addPicture" alt="" coords="1185,21,1375,47"/>
+<area shape="rect" id="node7" href="$classx265_1_1Lookahead.html#a0294c952379ca6f328014f92aa51259c" title="x265::Lookahead::flush" alt="" coords="1201,71,1359,98"/>
+<area shape="rect" id="node8" href="$classx265_1_1Lookahead.html#a341d8c6a3a971583aa911cf8dedbe6a1" title="x265::Lookahead::findJob" alt="" coords="1195,122,1365,149"/>
+<area shape="rect" id="node4" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="1425,46,1581,73"/>
+<area shape="rect" id="node5" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="1629,46,1781,73"/>
+<area shape="rect" id="node6" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1829,46,1880,73"/>
+<area shape="rect" id="node10" href="$classx265_1_1Lookahead.html#ad80879ec65df8318fbb5109388dcfa39" title="x265::Lookahead::vbvLookahead" alt="" coords="464,70,677,97"/>
+<area shape="rect" id="node13" href="$classx265_1_1Lookahead.html#aa8614a28660df5604b8f7a2319d1c43a" title="x265::Lookahead::scenecut" alt="" coords="479,175,662,202"/>
+<area shape="rect" id="node15" href="$classx265_1_1Lookahead.html#a694b3e0d0fb30e4e5b149cd3d79a839d" title="x265::Lookahead::slicetypePath" alt="" coords="467,234,675,261"/>
+</map>

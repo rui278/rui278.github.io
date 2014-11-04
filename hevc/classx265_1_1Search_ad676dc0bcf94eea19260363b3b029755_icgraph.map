@@ -1,0 +1,9 @@
+<map id="x265::Search::getBestIntraModeChroma" name="x265::Search::getBestIntraModeChroma">
+<area shape="rect" id="node2" href="$classx265_1_1Analysis.html#a88ad2880a5a8bcad5cfd5d6ea630b265" title="x265::Analysis::encodeResidue" alt="" coords="470,5,677,32"/>
+<area shape="rect" id="node7" href="$classx265_1_1Search.html#a5284cffef18fe6884b268ea28f21f22f" title="x265::Search::generateCoeff\lRecon" alt="" coords="232,57,421,98"/>
+<area shape="rect" id="node3" href="$classx265_1_1Analysis.html#aaebc9de2ff98834c650244f3b58942c2" title="x265::Analysis::compressCTU" alt="" coords="726,35,927,61"/>
+<area shape="rect" id="node4" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="977,27,1127,69"/>
+<area shape="rect" id="node5" href="$classx265_1_1FrameEncoder.html#acad645a8ece97d884895f8f7366b7d70" title="x265::FrameEncoder\l::processRow" alt="" coords="1177,27,1319,69"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#ac4e9ce2e876c0cdb25c992c872fe4302" title="x265::FrameEncoder\l::compressCTURows" alt="" coords="1368,27,1517,69"/>
+<area shape="rect" id="node8" href="$classx265_1_1Analysis.html#a30d2ff7eca5addbb0a6b3dfe14f09650" title="x265::Analysis::compress\lInterCU_rd0_4" alt="" coords="487,57,660,98"/>
+</map>

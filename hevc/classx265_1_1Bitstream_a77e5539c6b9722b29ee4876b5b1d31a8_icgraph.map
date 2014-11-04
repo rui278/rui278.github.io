@@ -1,0 +1,9 @@
+<map id="x265::Bitstream::write" name="x265::Bitstream::write">
+<area shape="rect" id="node2" href="$classx265_1_1Bitstream.html#a699714d762d06007518d0156f3aff062" title="x265::Bitstream::writeAlignOne" alt="" coords="205,5,408,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1Bitstream.html#ac141b26026ae37649bf9dc2bc1064398" title="x265::Bitstream::writeByte\lAlignment" alt="" coords="218,57,395,98"/>
+<area shape="rect" id="node4" href="$classx265_1_1Encoder.html#a5095039a4d1af32049c30052ef3e6588" title="x265::Encoder::getStream\lHeaders" alt="" coords="457,27,631,69"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="687,86,830,127"/>
+<area shape="rect" id="node5" href="$x265_8h.html#a575071c7bc7374ffd708d93f016211b5" title="x265_encoder_headers" alt="" coords="681,35,837,61"/>
+<area shape="rect" id="node6" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="932,35,983,61"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="886,86,1029,127"/>
+</map>

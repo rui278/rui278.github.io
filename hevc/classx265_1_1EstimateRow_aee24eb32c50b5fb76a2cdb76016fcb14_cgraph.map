@@ -1,0 +1,6 @@
+<map id="x265::EstimateRow::EstimateRow" name="x265::EstimateRow::EstimateRow">
+<area shape="rect" id="node2" href="$classx265_1_1BitCost.html#ab3b5ae95f560768f4b99e56d9ca867d7" title="x265::BitCost::setQP" alt="" coords="201,5,348,32"/>
+<area shape="rect" id="node4" href="$classx265_1_1MotionEstimate.html#a9c04b7730f99c93a662bf3b3c3047d95" title="x265::MotionEstimate\l::setSearchMethod" alt="" coords="200,57,349,98"/>
+<area shape="rect" id="node5" href="$classx265_1_1MotionEstimate.html#acdb75c3c9e6d8c8c17c5478055f1e6e6" title="x265::MotionEstimate\l::setSubpelRefine" alt="" coords="200,122,349,163"/>
+<area shape="rect" id="node3" href="$classx265_1_1BitCost.html#a6dbde4b4aaf8bb0afe659a39611e2772" title="x265::BitCost::CalculateLogs" alt="" coords="398,5,591,32"/>
+</map>

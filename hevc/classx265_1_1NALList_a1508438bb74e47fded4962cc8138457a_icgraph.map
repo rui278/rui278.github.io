@@ -1,0 +1,8 @@
+<map id="x265::NALList::takeContents" name="x265::NALList::takeContents">
+<area shape="rect" id="node2" href="$classx265_1_1FrameEncoder.html#a985dc267a49c11756237b9cf75fd7560" title="x265::FrameEncoder\l::getEncodedPicture" alt="" coords="246,23,389,65"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#ac689b087686eca38579aad7426e34fc6" title="x265::Encoder::destroy" alt="" coords="437,5,595,32"/>
+<area shape="rect" id="node6" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="438,56,594,83"/>
+<area shape="rect" id="node4" href="$x265_8h.html#ac370491d505086b2eb41e10d89f271ad" title="x265_encoder_close" alt="" coords="648,5,789,32"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="843,31,893,57"/>
+<area shape="rect" id="node7" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="643,56,795,83"/>
+</map>

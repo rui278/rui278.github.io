@@ -1,0 +1,6 @@
+<map id="x265::ShortYuv::copyPartToPartLuma" name="x265::ShortYuv::copyPartToPartLuma">
+<area shape="rect" id="node2" href="$classx265_1_1ShortYuv.html#a048ebc29e8a3839ab5a7a544f77b878f" title="x265::ShortYuv::getLumaAddr" alt="" coords="227,5,424,32"/>
+<area shape="rect" id="node4" href="$classx265_1_1Yuv.html#a6c62d5a28f8007eda953bd8026089989" title="x265::Yuv::getLumaAddr" alt="" coords="242,56,409,83"/>
+<area shape="rect" id="node3" href="$classx265_1_1ShortYuv.html#a508fe415b0caa67a51e588bc1591a1d6" title="x265::ShortYuv::getAddrOffset" alt="" coords="473,5,674,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1Yuv.html#a2a599599b46661ccf39f1144dfe2145a" title="x265::Yuv::getAddrOffset" alt="" coords="488,56,659,83"/>
+</map>

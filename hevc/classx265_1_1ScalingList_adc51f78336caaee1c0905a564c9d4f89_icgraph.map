@@ -1,0 +1,14 @@
+<map id="x265::ScalingList::getScalingListDefaultAddress" name="x265::ScalingList::getScalingListDefaultAddress">
+<area shape="rect" id="node2" href="$classx265_1_1ScalingList.html#a74b20954ff1e4a0f285bb0459b565cd3" title="x265::ScalingList::\lcheckPredMode" alt="" coords="264,27,395,69"/>
+<area shape="rect" id="node8" href="$classx265_1_1ScalingList.html#af0857ace4d498babf5059d49547b3745" title="x265::ScalingList::\lcheckDefaultScalingList" alt="" coords="248,93,411,134"/>
+<area shape="rect" id="node12" href="$classx265_1_1ScalingList.html#adee7b88855e273c4fbc3563804a64944" title="x265::ScalingList::\lprocessDefaultMarix" alt="" coords="258,158,401,199"/>
+<area shape="rect" id="node3" href="$classx265_1_1Entropy.html#a18500d347f1915698fc3c3545a22aa1f" title="x265::Entropy::codeScalingList" alt="" coords="459,35,661,61"/>
+<area shape="rect" id="node4" href="$classx265_1_1Entropy.html#ab082d9d010b1ef8443515e7cab0541e2" title="x265::Entropy::codeSPS" alt="" coords="710,35,877,61"/>
+<area shape="rect" id="node5" href="$classx265_1_1Encoder.html#a5095039a4d1af32049c30052ef3e6588" title="x265::Encoder::getStream\lHeaders" alt="" coords="926,27,1101,69"/>
+<area shape="rect" id="node6" href="$x265_8h.html#a575071c7bc7374ffd708d93f016211b5" title="x265_encoder_headers" alt="" coords="1150,5,1306,32"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="1157,57,1299,98"/>
+<area shape="rect" id="node9" href="$classx265_1_1ScalingList.html#a7d66e505b68e890ff6b2ec0014406764" title="x265::ScalingList::\lparseScalingList" alt="" coords="495,93,625,134"/>
+<area shape="rect" id="node10" href="$classx265_1_1Encoder.html#aa45d4a8835e915c1e980ad8aaad7cc51" title="x265::Encoder::create" alt="" coords="718,132,869,159"/>
+<area shape="rect" id="node11" href="$x265_8h.html#add639f6af182534d265ef22d4bf91f90" title="x265_encoder_open" alt="" coords="944,132,1083,159"/>
+<area shape="rect" id="node13" href="$classx265_1_1ScalingList.html#a4bdc2dd145f5ab39306e1909dc324c51" title="x265::ScalingList::\lsetDefaultScalingList" alt="" coords="487,158,633,199"/>
+</map>

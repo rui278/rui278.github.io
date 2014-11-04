@@ -1,0 +1,19 @@
+<map id="x265::Predict::initAdiPatternChroma" name="x265::Predict::initAdiPatternChroma">
+<area shape="rect" id="node2" href="$classx265_1_1Predict.html#a5cde667623af60ade240748e9818575d" title="x265::Predict::initIntra\lNeighbors" alt="" coords="270,158,421,199"/>
+<area shape="rect" id="node16" href="$classx265_1_1PicYuv.html#a9d693f780209d36825ad229709558021" title="x265::PicYuv::getChromaAddr" alt="" coords="246,224,445,251"/>
+<area shape="rect" id="node17" href="$classx265_1_1Predict.html#a35b7dd8609ff1d375bf4ae1ec20d309f" title="x265::Predict::getAdiChromaBuf" alt="" coords="240,275,451,301"/>
+<area shape="rect" id="node18" href="$classx265_1_1Predict.html#acb0b2179911cb1b7fe928f15bf4009fb" title="x265::Predict::fillReference\lSamples" alt="" coords="255,326,435,367"/>
+<area shape="rect" id="node3" href="$classx265_1_1CUData.html#a77266c0b5b42d80c665322d8db9edec5" title="x265::CUData::deriveLeft\lRightTopIdxAdi" alt="" coords="517,5,688,46"/>
+<area shape="rect" id="node4" href="$classx265_1_1Predict.html#acf07584f1d325beb9e1cbf80d12f12ac" title="x265::Predict::isAboveLeft\lAvailable" alt="" coords="515,253,691,294"/>
+<area shape="rect" id="node8" href="$classx265_1_1Predict.html#a4e75b454b7d59ab3238f1cf63496c6b4" title="x265::Predict::isAboveAvailable" alt="" coords="499,319,706,345"/>
+<area shape="rect" id="node10" href="$classx265_1_1Predict.html#abc1bfbace79f5fa6b0f719b6033d77e4" title="x265::Predict::isAboveRight\lAvailable" alt="" coords="510,70,695,111"/>
+<area shape="rect" id="node12" href="$classx265_1_1Predict.html#ac0a2e77d175a65aa847a88cfe3b1243e" title="x265::Predict::isLeftAvailable" alt="" coords="507,136,699,163"/>
+<area shape="rect" id="node14" href="$classx265_1_1Predict.html#a8c395a0f20b931cc30b4ef7ac713e071" title="x265::Predict::isBelowLeft\lAvailable" alt="" coords="515,187,690,229"/>
+<area shape="rect" id="node5" href="$classx265_1_1CUData.html#ad1ad60ca75127ee52e217c987dfc2814" title="x265::CUData::getPUAboveLeft" alt="" coords="755,285,965,312"/>
+<area shape="rect" id="node7" href="$classx265_1_1CUData.html#a4de1cda97a0a06196c9f6ac92d6829a2" title="x265::CUData::isIntra" alt="" coords="785,235,935,261"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameData.html#a83d98df913873a07c3ce59bd5c16b2e4" title="x265::FrameData::getPicCTU" alt="" coords="1014,176,1210,203"/>
+<area shape="rect" id="node9" href="$classx265_1_1CUData.html#a1776d2850dab48b37a6ffac109e02fdb" title="x265::CUData::getPUAbove" alt="" coords="766,336,954,363"/>
+<area shape="rect" id="node11" href="$classx265_1_1CUData.html#a69fae2866006a8b2a9544390b65017be" title="x265::CUData::getPUAbove\lRightAdi" alt="" coords="766,51,954,93"/>
+<area shape="rect" id="node13" href="$classx265_1_1CUData.html#a790220d1a24b35b6be3f205334c961b9" title="x265::CUData::getPULeft" alt="" coords="773,117,947,144"/>
+<area shape="rect" id="node15" href="$classx265_1_1CUData.html#abd1229eb27b9eef52dfc5fbcd8f350cd" title="x265::CUData::getPUBelow\lLeftAdi" alt="" coords="767,169,953,210"/>
+</map>

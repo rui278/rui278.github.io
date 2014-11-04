@@ -1,0 +1,9 @@
+<map id="x265::Search::setQP" name="x265::Search::setQP">
+<area shape="rect" id="node2" href="$classx265_1_1BitCost.html#ab3b5ae95f560768f4b99e56d9ca867d7" title="x265::BitCost::setQP" alt="" coords="200,31,347,57"/>
+<area shape="rect" id="node4" href="$classx265_1_1RDCost.html#a40fd90b70985adbf29a0227fccd1c04a" title="x265::RDCost::setQP" alt="" coords="198,107,349,133"/>
+<area shape="rect" id="node3" href="$classx265_1_1BitCost.html#a6dbde4b4aaf8bb0afe659a39611e2772" title="x265::BitCost::CalculateLogs" alt="" coords="403,5,597,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1RDCost.html#a4128e0f2a7aa09ca3a6a6dae0a358908" title="x265::RDCost::setLambda" alt="" coords="411,56,589,83"/>
+<area shape="rect" id="node6" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="474,107,526,133"/>
+<area shape="rect" id="node7" href="$classx265_1_1RDCost.html#a607c3e6b7e83575ec178052e811ddc4b" title="x265::RDCost::setCbDistortion\lWeight" alt="" coords="397,158,603,199"/>
+<area shape="rect" id="node8" href="$classx265_1_1RDCost.html#aeb653b3dd524336675fbb82c9dbdd6ba" title="x265::RDCost::setCrDistortion\lWeight" alt="" coords="399,223,601,265"/>
+</map>

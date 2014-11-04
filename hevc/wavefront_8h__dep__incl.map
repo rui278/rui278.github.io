@@ -1,0 +1,12 @@
+<map id="source/common/wavefront.h" name="source/common/wavefront.h">
+<area shape="rect" id="node2" href="$wavefront_8cpp.html" title="source/common/wavefront.cpp" alt="" coords="5,80,205,107"/>
+<area shape="rect" id="node3" href="$slicetype_8h.html" title="source/encoder/slicetype.h" alt="" coords="561,80,740,107"/>
+<area shape="rect" id="node5" href="$frameencoder_8cpp.html" title="source/encoder/frameencoder.cpp" alt="" coords="459,155,677,181"/>
+<area shape="rect" id="node9" href="$frameencoder_8h.html" title="source/encoder/frameencoder.h" alt="" coords="281,80,487,107"/>
+<area shape="rect" id="node10" href="$framefilter_8cpp.html" title="source/encoder/framefilter.cpp" alt="" coords="25,155,223,181"/>
+<area shape="rect" id="node11" href="$testpool_8cpp.html" title="source/test/testpool.cpp" alt="" coords="764,80,927,107"/>
+<area shape="rect" id="node4" href="$encoder_8cpp.html" title="source/encoder/encoder.cpp" alt="" coords="248,155,435,181"/>
+<area shape="rect" id="node6" href="$ratecontrol_8cpp.html" title="source/encoder/ratecontrol.cpp" alt="" coords="702,155,903,181"/>
+<area shape="rect" id="node7" href="$slicetype_8cpp.html" title="source/encoder/slicetype.cpp" alt="" coords="928,155,1120,181"/>
+<area shape="rect" id="node8" href="$weightPrediction_8cpp.html" title="source/encoder/weightPrediction.cpp" alt="" coords="1145,155,1380,181"/>
+</map>

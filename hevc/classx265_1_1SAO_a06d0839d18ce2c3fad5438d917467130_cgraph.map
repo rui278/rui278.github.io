@@ -1,0 +1,29 @@
+<map id="x265::SAO::rdoSaoUnitRow" name="x265::SAO::rdoSaoUnitRow">
+<area shape="rect" id="node2" href="$classx265_1_1Entropy.html#ab0112c0714c76da785afb22acbeecd68" title="x265::Entropy::load" alt="" coords="566,13,701,40"/>
+<area shape="rect" id="node6" href="$classx265_1_1Entropy.html#a8754743627a709e2c73229ec2b6b353f" title="x265::Entropy::codeSaoMerge" alt="" coords="263,433,462,460"/>
+<area shape="rect" id="node10" href="$classx265_1_1Entropy.html#af288a671673fb29b0c1e704c4e583630" title="x265::Entropy::store" alt="" coords="563,64,703,91"/>
+<area shape="rect" id="node11" href="$classx265_1_1SAO.html#ac38adc7ac981f8d364e391262addc273" title="x265::SAO::calcSaoStatsCu" alt="" coords="268,511,457,537"/>
+<area shape="rect" id="node15" href="$classx265_1_1SAO.html#a53c829d9f4083d4fec9df488222a8d9e" title="x265::SAO::saoComponentParamDist" alt="" coords="241,216,485,243"/>
+<area shape="rect" id="node17" href="$classx265_1_1Entropy.html#abfcde0e06b9eacfac4bfe0784eb7c967" title="x265::Entropy::resetBits" alt="" coords="552,115,715,141"/>
+<area shape="rect" id="node19" href="$classx265_1_1Entropy.html#abb01f9aee051276ed9c7891f0e3c50d0" title="x265::Entropy::codeSaoOffset" alt="" coords="534,384,733,411"/>
+<area shape="rect" id="node23" href="$classx265_1_1Entropy.html#a9078f8e04c0b7a1a2840299c30458e97" title="x265::Entropy::getNumber\lOfWrittenBits" alt="" coords="546,318,721,359"/>
+<area shape="rect" id="node27" href="$classx265_1_1SAO.html#a5eb2c514421b6a79ece26e550f20752a" title="x265::SAO::copySaoUnit" alt="" coords="549,267,718,293"/>
+<area shape="rect" id="node28" href="$classx265_1_1SAO.html#a78639ed647d95ab7582ae39abe3e0524" title="x265::SAO::sao2ChromaParamDist" alt="" coords="247,165,478,192"/>
+<area shape="rect" id="node3" href="$classx265_1_1Entropy.html#a58920cd5abeb58e01ff534ee73aa6764" title="x265::Entropy::copyFrom" alt="" coords="805,31,974,57"/>
+<area shape="rect" id="node4" href="$classx265_1_1Entropy.html#aec97e584e9e0da270532ef3d29d13b3d" title="x265::Entropy::copyState" alt="" coords="1059,56,1229,83"/>
+<area shape="rect" id="node5" href="$classx265_1_1Entropy.html#a4a2ed9d9dc4b2a31aed493c4a8d8b58b" title="x265::Entropy::markValid" alt="" coords="1059,5,1229,32"/>
+<area shape="rect" id="node7" href="$classx265_1_1Entropy.html#ad5bd127b6afa68ee4408890c75fdd4bd" title="x265::Entropy::encodeBin" alt="" coords="803,435,975,461"/>
+<area shape="rect" id="node8" href="$classx265_1_1Entropy.html#a38c906d03fe47f10456a3d5bc0cd2080" title="x265::Entropy::writeOut" alt="" coords="1291,384,1451,411"/>
+<area shape="rect" id="node9" href="$classx265_1_1BitInterface.html#a0ab2614d14b086091eefc0ed19f3be6d" title="x265::BitInterface\l::writeByte" alt="" coords="1499,377,1624,418"/>
+<area shape="rect" id="node12" href="$classx265_1_1FrameData.html#a83d98df913873a07c3ce59bd5c16b2e4" title="x265::FrameData::getPicCTU" alt="" coords="535,485,731,512"/>
+<area shape="rect" id="node13" href="$classx265_1_1PicYuv.html#aeee8556da4cb35b12357140c8f009586" title="x265::PicYuv::getPlaneAddr" alt="" coords="540,536,727,563"/>
+<area shape="rect" id="node14" href="$common_8h.html#a0cd31af5bfbe1669e9a0d02225e6efba" title="x265_min" alt="" coords="594,587,673,613"/>
+<area shape="rect" id="node16" href="$classx265_1_1SAO.html#af4d57e996cacdde0a74a1269641c8580" title="x265::SAO::resetSaoUnit" alt="" coords="548,216,719,243"/>
+<area shape="rect" id="node24" href="$classx265_1_1SAO.html#a9d43c3bbe0b06bfde9065ab864d24434" title="x265::SAO::estSaoTypeDist" alt="" coords="539,165,727,192"/>
+<area shape="rect" id="node18" href="$classx265_1_1BitInterface.html#acce17e1c0f79b9ebb54423eafa1cc782" title="x265::BitInterface\l::resetBits" alt="" coords="827,99,952,141"/>
+<area shape="rect" id="node20" href="$classx265_1_1Entropy.html#aeb3460dd06c9b37356040eeb108a3e98" title="x265::Entropy::encodeBinEP" alt="" coords="1049,384,1239,411"/>
+<area shape="rect" id="node21" href="$classx265_1_1Entropy.html#a3914cba4b895cb5cd2e3d723597af64a" title="x265::Entropy::codeSaoMaxUvlc" alt="" coords="782,333,997,360"/>
+<area shape="rect" id="node22" href="$classx265_1_1Entropy.html#ac9e06099bfcb9f576565d6d5a0e3205f" title="x265::Entropy::encodeBinsEP" alt="" coords="1045,333,1243,360"/>
+<area shape="rect" id="node25" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="863,165,915,192"/>
+<area shape="rect" id="node26" href="$classx265_1_1SAO.html#a8ab19d2ad8404555cbcf30be8346e030" title="x265::SAO::estIterOffset" alt="" coords="806,216,973,243"/>
+</map>

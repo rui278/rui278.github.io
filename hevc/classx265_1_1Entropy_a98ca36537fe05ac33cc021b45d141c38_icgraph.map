@@ -1,0 +1,7 @@
+<map id="x265::Entropy::codeVPS" name="x265::Entropy::codeVPS">
+<area shape="rect" id="node2" href="$classx265_1_1Encoder.html#a5095039a4d1af32049c30052ef3e6588" title="x265::Encoder::getStream\lHeaders" alt="" coords="222,27,397,69"/>
+<area shape="rect" id="node3" href="$x265_8h.html#a575071c7bc7374ffd708d93f016211b5" title="x265_encoder_headers" alt="" coords="446,5,602,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="453,57,595,98"/>
+<area shape="rect" id="node4" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="697,5,748,32"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="651,57,794,98"/>
+</map>

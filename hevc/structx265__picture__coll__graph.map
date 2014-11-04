@@ -1,0 +1,5 @@
+<map id="x265_picture" name="x265_picture">
+<area shape="rect" id="node4" href="$structx265__analysis__data.html" title="x265_analysis_data" alt="" coords="145,363,281,389"/>
+<area shape="rect" id="node5" href="$structx265__intra__data.html" title="x265_intra_data" alt="" coords="460,199,575,225"/>
+<area shape="rect" id="node9" href="$structx265__inter__data.html" title="x265_inter_data" alt="" coords="321,199,436,225"/>
+</map>

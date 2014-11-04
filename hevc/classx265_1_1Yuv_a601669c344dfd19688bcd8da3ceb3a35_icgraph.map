@@ -1,0 +1,6 @@
+<map id="x265::Yuv::create" name="x265::Yuv::create">
+<area shape="rect" id="node2" href="$classx265_1_1Analysis.html#aa7efeaa49c4e85b55fbad74e22916fbe" title="x265::Analysis::create" alt="" coords="185,5,337,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1Search.html#a628f3a8ff4073d15f0fe8a8cec4042b0" title="x265::Search::initSearch" alt="" coords="179,56,344,83"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#aa45d4a8835e915c1e980ad8aaad7cc51" title="x265::Encoder::create" alt="" coords="393,31,543,57"/>
+<area shape="rect" id="node4" href="$x265_8h.html#add639f6af182534d265ef22d4bf91f90" title="x265_encoder_open" alt="" coords="592,31,731,57"/>
+</map>

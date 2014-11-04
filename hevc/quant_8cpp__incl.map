@@ -1,0 +1,22 @@
+<map id="source/common/quant.cpp" name="source/common/quant.cpp">
+<area shape="rect" id="node2" href="$common_8h.html" title="common.h" alt="" coords="673,603,755,629"/>
+<area shape="rect" id="node21" href="$primitives_8h.html" title="primitives.h" alt="" coords="891,453,980,480"/>
+<area shape="rect" id="node23" href="$quant_8h.html" title="quant.h" alt="" coords="374,80,439,107"/>
+<area shape="rect" id="node25" href="$contexts_8h.html" title="contexts.h" alt="" coords="404,155,485,181"/>
+<area shape="rect" id="node26" href="$frame_8h.html" title="frame.h" alt="" coords="724,155,791,181"/>
+<area shape="rect" id="node29" href="$cudata_8h.html" title="cudata.h" alt="" coords="744,304,816,331"/>
+<area shape="rect" id="node37" href="$entropy_8h.html" title="entropy.h" alt="" coords="586,80,661,107"/>
+<area shape="rect" id="node39" href="$common_2yuv_8h.html" title="yuv.h" alt="" coords="1006,379,1060,405"/>
+<area shape="rect" id="node13" href="$stdint_8h.html" title="stdint.h" alt="" coords="762,752,827,779"/>
+<area shape="rect" id="node18" href="$x265_8h.html" title="x265.h" alt="" coords="1231,677,1292,704"/>
+<area shape="rect" id="node20" href="$constants_8h.html" title="constants.h" alt="" coords="669,677,760,704"/>
+<area shape="rect" id="node19" href="$x265__config_8h.html" title="x265_config.h" alt="" coords="1210,752,1312,779"/>
+<area shape="rect" id="node22" href="$cpu_8h.html" title="cpu.h" alt="" coords="931,528,985,555"/>
+<area shape="rect" id="node24" href="$scalinglist_8h.html" title="scalinglist.h" alt="" coords="239,229,329,256"/>
+<area shape="rect" id="node27" href="$framedata_8h.html" title="framedata.h" alt="" coords="681,229,772,256"/>
+<area shape="rect" id="node31" href="$lowres_8h.html" title="lowres.h" alt="" coords="841,304,911,331"/>
+<area shape="rect" id="node32" href="$threading_8h.html" title="threading.h" alt="" coords="1187,528,1273,555"/>
+<area shape="rect" id="node28" href="$slice_8h.html" title="slice.h" alt="" coords="643,379,703,405"/>
+<area shape="rect" id="node30" href="$mv_8h.html" title="mv.h" alt="" coords="829,379,880,405"/>
+<area shape="rect" id="node38" href="$bitstream_8h.html" title="bitstream.h" alt="" coords="613,155,699,181"/>
+</map>

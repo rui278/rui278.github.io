@@ -1,0 +1,6 @@
+<map id="x265::Frame::allocEncodeData" name="x265::Frame::allocEncodeData">
+<area shape="rect" id="node2" href="$classx265_1_1FrameData.html#a3fcb789c0b86ea768288b338a3ba9840" title="x265::FrameData::create" alt="" coords="257,41,423,68"/>
+<area shape="rect" id="node5" href="$classx265_1_1PicYuv.html#a3d1114a9440943854aff55dae24e8920" title="x265::PicYuv::create" alt="" coords="268,92,412,119"/>
+<area shape="rect" id="node3" href="$structx265_1_1CUDataMemPool.html#a2940a69824b247dcbb9b4b18709dfd88" title="x265::CUDataMemPool\l::create" alt="" coords="473,5,634,46"/>
+<area shape="rect" id="node4" href="$classx265_1_1FrameData.html#ae128f6cd7ae6700e3606c6e74fea0b18" title="x265::FrameData::reinit" alt="" coords="474,71,633,97"/>
+</map>

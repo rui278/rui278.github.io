@@ -1,0 +1,6 @@
+<map id="x265::CTURow::init" name="x265::CTURow::init">
+<area shape="rect" id="node2" href="$classx265_1_1Entropy.html#ab0112c0714c76da785afb22acbeecd68" title="x265::Entropy::load" alt="" coords="193,31,327,57"/>
+<area shape="rect" id="node3" href="$classx265_1_1Entropy.html#a58920cd5abeb58e01ff534ee73aa6764" title="x265::Entropy::copyFrom" alt="" coords="377,31,546,57"/>
+<area shape="rect" id="node4" href="$classx265_1_1Entropy.html#aec97e584e9e0da270532ef3d29d13b3d" title="x265::Entropy::copyState" alt="" coords="595,5,765,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1Entropy.html#a4a2ed9d9dc4b2a31aed493c4a8d8b58b" title="x265::Entropy::markValid" alt="" coords="595,56,765,83"/>
+</map>

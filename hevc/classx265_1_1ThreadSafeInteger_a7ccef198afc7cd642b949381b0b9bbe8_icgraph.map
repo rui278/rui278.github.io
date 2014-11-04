@@ -1,0 +1,12 @@
+<map id="x265::ThreadSafeInteger::set" name="x265::ThreadSafeInteger::set">
+<area shape="rect" id="node2" href="$classx265_1_1Frame.html#ad2e5946cf41d4817e750500acf05d02b" title="x265::Frame::Frame" alt="" coords="283,5,423,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1DPB.html#ab6e1ec8538e2acf0e799dc735869a63a" title="x265::DPB::recycleUnreferenced" alt="" coords="246,56,461,83"/>
+<area shape="rect" id="node7" href="$classx265_1_1RateControl.html#a3026f42a6b82d279d2f6c9467fdaad9e" title="x265::RateControl::\lRateControl" alt="" coords="285,107,421,149"/>
+<area shape="rect" id="node8" href="$classx265_1_1RateControl.html#a67d7d2e2426e0124d0315e335c078f41" title="x265::RateControl::\lsetFinalFrameCount" alt="" coords="283,173,423,214"/>
+<area shape="rect" id="node9" href="$classx265_1_1RateControl.html#a5dbd123c88c911c753134ff73c2e27bb" title="x265::RateControl::\lterminate" alt="" coords="285,238,421,279"/>
+<area shape="rect" id="node4" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="510,180,666,207"/>
+<area shape="rect" id="node5" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="715,183,867,209"/>
+<area shape="rect" id="node6" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="915,211,965,237"/>
+<area shape="rect" id="node10" href="$classx265_1_1Encoder.html#ac689b087686eca38579aad7426e34fc6" title="x265::Encoder::destroy" alt="" coords="509,244,667,271"/>
+<area shape="rect" id="node11" href="$x265_8h.html#ac370491d505086b2eb41e10d89f271ad" title="x265_encoder_close" alt="" coords="720,237,861,264"/>
+</map>

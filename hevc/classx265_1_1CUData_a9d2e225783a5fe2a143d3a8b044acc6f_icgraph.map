@@ -1,0 +1,7 @@
+<map id="x265::CUData::calcCTUGeoms" name="x265::CUData::calcCTUGeoms">
+<area shape="rect" id="node2" href="$classx265_1_1FrameEncoder.html#ae91c1fc19dd0871f19f2571d3a5fc46b" title="x265::FrameEncoder\l::initializeGeoms" alt="" coords="262,5,405,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1FrameEncoder.html#adf59cc419bec02611a0638e5154c26b1" title="x265::FrameEncoder\l::startCompressFrame" alt="" coords="454,5,607,46"/>
+<area shape="rect" id="node4" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="657,12,813,39"/>
+<area shape="rect" id="node5" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="861,12,1013,39"/>
+<area shape="rect" id="node6" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1061,12,1112,39"/>
+</map>

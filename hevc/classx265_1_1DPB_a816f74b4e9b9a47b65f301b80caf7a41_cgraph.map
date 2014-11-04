@@ -1,0 +1,14 @@
+<map id="x265::DPB::prepareEncode" name="x265::DPB::prepareEncode">
+<area shape="rect" id="node2" href="$classx265_1_1DPB.html#acde3e6b907864daa2ef0b0c40b4f89c9" title="x265::DPB::getNalUnitType" alt="" coords="238,5,423,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1PicList.html#a4805e33e356a6796edeb7fff4fd2090b" title="x265::PicList::pushFront" alt="" coords="249,56,413,83"/>
+<area shape="rect" id="node4" href="$classx265_1_1DPB.html#ab95949d7ed5be1cec66815db4a3f7e16" title="x265::DPB::decodingRefresh\lMarking" alt="" coords="235,158,427,199"/>
+<area shape="rect" id="node6" href="$classx265_1_1DPB.html#a19a7d1a0eb633d7b77272d076cb8b478" title="x265::DPB::computeRPS" alt="" coords="245,107,417,133"/>
+<area shape="rect" id="node8" href="$classx265_1_1Slice.html#aaab21cd09c72524c75b50c613b69565a" title="x265::Slice::isIRAP" alt="" coords="262,224,399,251"/>
+<area shape="rect" id="node9" href="$classx265_1_1DPB.html#a3dc27858cd68d8dfde6cb9a447639423" title="x265::DPB::applyReference\lPictureSet" alt="" coords="238,275,423,317"/>
+<area shape="rect" id="node10" href="$classx265_1_1Slice.html#a179dcdbc5038ba9d519f5b3fd205ae63" title="x265::Slice::setRefPicList" alt="" coords="243,341,418,368"/>
+<area shape="rect" id="node12" href="$classx265_1_1Slice.html#a36f5fe00b0e4877e8335516800a26c20" title="x265::Slice::isInterP" alt="" coords="261,392,401,419"/>
+<area shape="rect" id="node13" href="$classx265_1_1Slice.html#af70c482a1b6f69f50aa211dc9e74e615" title="x265::Slice::isInterB" alt="" coords="261,443,401,469"/>
+<area shape="rect" id="node5" href="$classx265_1_1PicList.html#a078060a1a29ba1c310bb6db0e375752d" title="x265::PicList::first" alt="" coords="499,165,627,192"/>
+<area shape="rect" id="node7" href="$structx265_1_1RPS.html#ae679da80dfb589e84159389aa2b6fd4a" title="x265::RPS::sortDeltaPOC" alt="" coords="475,107,651,133"/>
+<area shape="rect" id="node11" href="$classx265_1_1PicList.html#a98729e19bf8d55948854ca7ffc48b334" title="x265::PicList::getPOC" alt="" coords="486,341,639,368"/>
+</map>

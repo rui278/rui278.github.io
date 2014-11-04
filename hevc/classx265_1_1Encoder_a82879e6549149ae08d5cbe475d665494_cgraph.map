@@ -1,0 +1,5 @@
+<map id="x265::Encoder::printSummary" name="x265::Encoder::printSummary">
+<area shape="rect" id="node2" href="$common_8cpp.html#a746489f014374f963df715ddf9bd3986" title="x265_log" alt="" coords="300,5,375,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#a894de09381dd095e1a2fac58e4d3b05c" title="x265::Encoder::statsString" alt="" coords="249,56,426,83"/>
+<area shape="rect" id="node4" href="$common_8cpp.html#ab040d4574139b69ca049c4d5d0ab1d23" title="x265_ssim2dB" alt="" coords="475,56,583,83"/>
+</map>

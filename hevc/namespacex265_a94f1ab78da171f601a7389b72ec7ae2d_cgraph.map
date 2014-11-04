@@ -1,0 +1,8 @@
+<map id="x265::weightAnalyse" name="x265::weightAnalyse">
+<area shape="rect" id="node2" href="$classx265_1_1Slice.html#a36f5fe00b0e4877e8335516800a26c20" title="x265::Slice::isInterP" alt="" coords="219,5,359,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1Slice.html#ab10b2a99ff3d5392490cf98353fd3e33" title="x265::Slice::disableWeights" alt="" coords="197,56,381,83"/>
+<area shape="rect" id="node4" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="263,107,315,133"/>
+<area shape="rect" id="node5" href="$structx265_1_1WeightParam.html#ade2d5601abcbd58f276e3a1699bebd77" title="x265::WeightParam::\lsetFromWeightAndOffset" alt="" coords="204,158,375,199"/>
+<area shape="rect" id="node6" href="$namespacex265.html#ab48b8c534b5e9d88696278163118c5c9" title="x265::extendPicBorder" alt="" coords="212,224,367,251"/>
+<area shape="rect" id="node7" href="$common_8cpp.html#a746489f014374f963df715ddf9bd3986" title="x265_log" alt="" coords="252,275,327,301"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="x265::CUData::setQPSubParts" name="x265::CUData::setQPSubParts">
+<area shape="rect" id="node2" href="$classx265_1_1CUData.html#aa5f3a78f345a53ae1879591c7e7b7612" title="x265::CUData::setQPSubCUs" alt="" coords="259,176,461,203"/>
+<area shape="rect" id="node3" href="$classx265_1_1Analysis.html#a359278813e4f26bd2b5270d07253fe6c" title="x265::Analysis::checkDQP" alt="" coords="510,176,690,203"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="1246,239,1397,281"/>
+<area shape="rect" id="node4" href="$classx265_1_1Analysis.html#aae2a6a2252270782b591d2bed7e99dae" title="x265::Analysis::compress\lIntraCU" alt="" coords="756,5,929,46"/>
+<area shape="rect" id="node7" href="$classx265_1_1Analysis.html#a87060ff27a37f56adc5f5b8a4c033ece" title="x265::Analysis::compress\lInterCU_dist" alt="" coords="756,70,929,111"/>
+<area shape="rect" id="node8" href="$classx265_1_1Analysis.html#a30d2ff7eca5addbb0a6b3dfe14f09650" title="x265::Analysis::compress\lInterCU_rd0_4" alt="" coords="756,135,929,177"/>
+<area shape="rect" id="node9" href="$classx265_1_1Analysis.html#a0b22b7765aa4a36b1ba6d07ba26901e6" title="x265::Analysis::compress\lInterCU_rd5_6" alt="" coords="756,201,929,242"/>
+<area shape="rect" id="node10" href="$classx265_1_1Analysis.html#a88ad2880a5a8bcad5cfd5d6ea630b265" title="x265::Analysis::encodeResidue" alt="" coords="739,267,946,293"/>
+<area shape="rect" id="node5" href="$classx265_1_1Analysis.html#aaebc9de2ff98834c650244f3b58942c2" title="x265::Analysis::compressCTU" alt="" coords="995,176,1197,203"/>
+</map>

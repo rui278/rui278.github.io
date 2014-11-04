@@ -1,0 +1,36 @@
+<map id="source/encoder/analysis.cpp" name="source/encoder/analysis.cpp">
+<area shape="rect" id="node2" href="$common_8h.html" title="common.h" alt="" coords="1192,752,1273,779"/>
+<area shape="rect" id="node21" href="$primitives_8h.html" title="primitives.h" alt="" coords="786,603,875,629"/>
+<area shape="rect" id="node23" href="$threading_8h.html" title="threading.h" alt="" coords="491,453,577,480"/>
+<area shape="rect" id="node28" href="$picyuv_8h.html" title="picyuv.h" alt="" coords="1950,603,2020,629"/>
+<area shape="rect" id="node30" href="$analysis_8h.html" title="analysis.h" alt="" coords="1450,80,1531,107"/>
+<area shape="rect" id="node49" href="$rdcost_8h.html" title="rdcost.h" alt="" coords="1713,229,1783,256"/>
+<area shape="rect" id="node52" href="$encoder_8h.html" title="encoder.h" alt="" coords="1846,453,1924,480"/>
+<area shape="rect" id="node54" href="$ppa_8h.html" title="PPA/ppa.h" alt="" coords="2000,80,2085,107"/>
+<area shape="rect" id="node13" href="$stdint_8h.html" title="stdint.h" alt="" coords="1573,901,1637,928"/>
+<area shape="rect" id="node18" href="$x265_8h.html" title="x265.h" alt="" coords="1820,827,1881,853"/>
+<area shape="rect" id="node20" href="$constants_8h.html" title="constants.h" alt="" coords="1703,827,1793,853"/>
+<area shape="rect" id="node19" href="$x265__config_8h.html" title="x265_config.h" alt="" coords="1799,901,1901,928"/>
+<area shape="rect" id="node22" href="$cpu_8h.html" title="cpu.h" alt="" coords="786,677,840,704"/>
+<area shape="rect" id="node29" href="$md5_8h.html" title="md5.h" alt="" coords="1957,677,2015,704"/>
+<area shape="rect" id="node31" href="$predict_8h.html" title="predict.h" alt="" coords="1316,229,1388,256"/>
+<area shape="rect" id="node35" href="$cudata_8h.html" title="cudata.h" alt="" coords="1192,453,1264,480"/>
+<area shape="rect" id="node38" href="$quant_8h.html" title="quant.h" alt="" coords="1497,304,1561,331"/>
+<area shape="rect" id="node41" href="$shortyuv_8h.html" title="shortyuv.h" alt="" coords="1637,304,1719,331"/>
+<area shape="rect" id="node44" href="$entropy_8h.html" title="entropy.h" alt="" coords="578,229,653,256"/>
+<area shape="rect" id="node46" href="$search_8h.html" title="search.h" alt="" coords="1131,155,1203,181"/>
+<area shape="rect" id="node32" href="$frame_8h.html" title="frame.h" alt="" coords="944,304,1011,331"/>
+<area shape="rect" id="node42" href="$common_2yuv_8h.html" title="yuv.h" alt="" coords="1355,528,1409,555"/>
+<area shape="rect" id="node33" href="$framedata_8h.html" title="framedata.h" alt="" coords="1152,379,1243,405"/>
+<area shape="rect" id="node37" href="$lowres_8h.html" title="lowres.h" alt="" coords="894,453,964,480"/>
+<area shape="rect" id="node34" href="$slice_8h.html" title="slice.h" alt="" coords="1271,528,1331,555"/>
+<area shape="rect" id="node36" href="$mv_8h.html" title="mv.h" alt="" coords="841,528,892,555"/>
+<area shape="rect" id="node39" href="$scalinglist_8h.html" title="scalinglist.h" alt="" coords="1680,528,1771,555"/>
+<area shape="rect" id="node40" href="$contexts_8h.html" title="contexts.h" alt="" coords="944,379,1025,405"/>
+<area shape="rect" id="node45" href="$bitstream_8h.html" title="bitstream.h" alt="" coords="567,304,653,331"/>
+<area shape="rect" id="node47" href="$bitcost_8h.html" title="bitcost.h" alt="" coords="533,379,605,405"/>
+<area shape="rect" id="node48" href="$threadpool_8h.html" title="threadpool.h" alt="" coords="93,603,187,629"/>
+<area shape="rect" id="node50" href="$motion_8h.html" title="motion.h" alt="" coords="780,304,852,331"/>
+<area shape="rect" id="node51" href="$reference_8h.html" title="reference.h" alt="" coords="731,379,817,405"/>
+<area shape="rect" id="node53" href="$nal_8h.html" title="nal.h" alt="" coords="1832,677,1883,704"/>
+</map>

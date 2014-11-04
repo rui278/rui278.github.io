@@ -1,0 +1,5 @@
+<map id="x265::FrameEncoder::initializeGeoms" name="x265::FrameEncoder::initializeGeoms">
+<area shape="rect" id="node2" href="$classx265_1_1CUData.html#aa6bdc20567720dab1fc8c417d4331434" title="x265::CUData::initCTU" alt="" coords="222,5,381,32"/>
+<area shape="rect" id="node4" href="$classx265_1_1CUData.html#a9d2e225783a5fe2a143d3a8b044acc6f" title="x265::CUData::calcCTUGeoms" alt="" coords="197,56,405,83"/>
+<area shape="rect" id="node3" href="$classx265_1_1FrameData.html#a83d98df913873a07c3ce59bd5c16b2e4" title="x265::FrameData::getPicCTU" alt="" coords="454,5,650,32"/>
+</map>

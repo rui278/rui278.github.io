@@ -1,0 +1,10 @@
+<map id="x265::CUData::addMVPCandOrder" name="x265::CUData::addMVPCandOrder">
+<area shape="rect" id="node2" href="$classx265_1_1CUData.html#a790220d1a24b35b6be3f205334c961b9" title="x265::CUData::getPULeft" alt="" coords="267,5,440,32"/>
+<area shape="rect" id="node4" href="$classx265_1_1CUData.html#a1776d2850dab48b37a6ffac109e02fdb" title="x265::CUData::getPUAbove" alt="" coords="259,56,447,83"/>
+<area shape="rect" id="node5" href="$classx265_1_1CUData.html#a281022b469dc71e6f08586624a286f35" title="x265::CUData::getPUAbove\lRight" alt="" coords="259,107,447,149"/>
+<area shape="rect" id="node6" href="$classx265_1_1CUData.html#aaf883ffae61fbe3bc5d88c54cb725c65" title="x265::CUData::getPUBelowLeft" alt="" coords="249,173,458,200"/>
+<area shape="rect" id="node7" href="$classx265_1_1CUData.html#ad1ad60ca75127ee52e217c987dfc2814" title="x265::CUData::getPUAboveLeft" alt="" coords="248,224,459,251"/>
+<area shape="rect" id="node8" href="$classx265_1_1CUData.html#ac4a238cd025b199704cb9497df53df2a" title="x265::CUData::getDistScale\lFactor" alt="" coords="259,275,448,317"/>
+<area shape="rect" id="node3" href="$classx265_1_1FrameData.html#a83d98df913873a07c3ce59bd5c16b2e4" title="x265::FrameData::getPicCTU" alt="" coords="507,115,703,141"/>
+<area shape="rect" id="node9" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="579,283,631,309"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="x265::RateControl::updateVbv" name="x265::RateControl::updateVbv">
+<area shape="rect" id="node2" href="$classx265_1_1RateControl.html#a3067a0ef55831bfa7442368718f2a5f0" title="x265::RateControl::\lupdatePredictor" alt="" coords="189,5,325,46"/>
+<area shape="rect" id="node4" href="$common_8cpp.html#a4f4c9b86a7de778b323e810d58f82881" title="x265_qp2qScale" alt="" coords="198,71,317,97"/>
+<area shape="rect" id="node5" href="$common_8cpp.html#a746489f014374f963df715ddf9bd3986" title="x265_log" alt="" coords="220,121,295,148"/>
+<area shape="rect" id="node3" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="374,12,426,39"/>
+</map>

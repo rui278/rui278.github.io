@@ -1,0 +1,6 @@
+<map id="x265::PoolThread::threadMain" name="x265::PoolThread::threadMain">
+<area shape="rect" id="node2" href="$classx265_1_1ThreadPoolImpl.html#ab1f945cea305933a6d6e0f832d907b62" title="x265::ThreadPoolImpl\l::IsValid" alt="" coords="251,5,400,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1JobProvider.html#a1630d385c1024b81b53b693c88274cde" title="x265::JobProvider::\lfindJob" alt="" coords="258,70,393,111"/>
+<area shape="rect" id="node4" href="$classx265_1_1ThreadPoolImpl.html#a8468353662b90431b73f2e5023eeebd3" title="x265::ThreadPoolImpl\l::markThreadAsleep" alt="" coords="251,135,400,177"/>
+<area shape="rect" id="node5" href="$classx265_1_1Event.html#a0a057be2071322603d9f2405729bd036" title="x265::Event::wait" alt="" coords="263,201,387,228"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="x265::DPB" name="x265::DPB">
+<area shape="rect" id="node2" href="$classx265_1_1PicList.html" title="x265::PicList" alt="" coords="1339,240,1437,267"/>
+<area shape="rect" id="node3" href="$classx265_1_1Frame.html" title="x265::Frame" alt="" coords="1043,1208,1138,1235"/>
+<area shape="rect" id="node23" href="$classx265_1_1Slice.html" title="x265::Slice" alt="" coords="1345,1208,1431,1235"/>
+<area shape="rect" id="node4" href="$structx265__intra__data.html" title="x265_intra_data" alt="" coords="692,783,807,809"/>
+<area shape="rect" id="node19" href="$classx265_1_1CUData.html" title="x265::CUData" alt="" coords="1907,1595,2013,1621"/>
+<area shape="rect" id="node35" href="$structx265_1_1Lowres.html" title="x265::Lowres" alt="" coords="699,1041,799,1068"/>
+<area shape="rect" id="node10" href="$structx265__inter__data.html" title="x265_inter_data" alt="" coords="501,1497,616,1524"/>
+<area shape="rect" id="node12" href="$classx265_1_1ThreadSafeInteger.html" title="x265::ThreadSafeInteger" alt="" coords="272,1655,437,1681"/>
+<area shape="rect" id="node15" href="$classx265_1_1FrameData.html" title="x265::FrameData" alt="" coords="1611,1595,1733,1621"/>
+<area shape="rect" id="node17" href="$structx265_1_1FrameData_1_1RCStatCU.html" title="x265::FrameData::RCStatCU" alt="" coords="652,2465,847,2492"/>
+<area shape="rect" id="node24" href="$structx265_1_1MV.html" title="x265::MV" alt="" coords="315,1705,394,1732"/>
+<area shape="rect" id="node28" href="$structx265_1_1FrameData_1_1RCStatRow.html" title="x265::FrameData::RCStatRow" alt="" coords="648,1875,851,1901"/>
+<area shape="rect" id="node29" href="$structx265__param.html" title="x265_param" alt="" coords="703,2123,796,2149"/>
+<area shape="rect" id="node31" href="$classx265_1_1PicYuv.html" title="x265::PicYuv" alt="" coords="699,1092,799,1119"/>
+<area shape="rect" id="node32" href="$structx265_1_1SAOParam.html" title="x265::SAOParam" alt="" coords="687,507,811,533"/>
+<area shape="rect" id="node33" href="$structx265_1_1SaoCtuParam.html" title="x265::SaoCtuParam" alt="" coords="285,523,425,549"/>
+<area shape="rect" id="node36" href="$structx265_1_1ReferencePlanes.html" title="x265::ReferencePlanes" alt="" coords="275,844,434,871"/>
+<area shape="rect" id="node26" href="$structx265_1_1CUDataMemPool.html" title="x265::CUDataMemPool" alt="" coords="1307,1691,1469,1717"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="x265::Thread::stop" name="x265::Thread::stop">
+<area shape="rect" id="node2" href="$classx265_1_1ThreadPoolImpl.html#abbc48c1e1c917407011985df40a85e10" title="x265::ThreadPoolImpl\l::ThreadPoolImpl" alt="" coords="184,5,333,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1ThreadPoolImpl.html#a6069303d1024ffd65c0ec9dfbe4910b1" title="x265::ThreadPoolImpl\l::Stop" alt="" coords="184,70,333,111"/>
+<area shape="rect" id="node5" href="$classx265_1_1FrameEncoder.html#a8a04405cf881d4ff9fa7bb6dd103f707" title="x265::FrameEncoder\l::destroy" alt="" coords="187,135,330,177"/>
+<area shape="rect" id="node4" href="$classx265_1_1ThreadPoolImpl.html#afca8fd4c085781e0a4b51e67f3148c6e" title="x265::ThreadPoolImpl\l::release" alt="" coords="385,70,535,111"/>
+<area shape="rect" id="node6" href="$classx265_1_1Encoder.html#ac689b087686eca38579aad7426e34fc6" title="x265::Encoder::destroy" alt="" coords="381,143,539,169"/>
+<area shape="rect" id="node7" href="$x265_8h.html#ac370491d505086b2eb41e10d89f271ad" title="x265_encoder_close" alt="" coords="587,143,728,169"/>
+<area shape="rect" id="node8" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="776,143,827,169"/>
+</map>

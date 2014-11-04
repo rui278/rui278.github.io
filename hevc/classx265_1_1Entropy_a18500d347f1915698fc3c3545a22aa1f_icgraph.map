@@ -1,0 +1,8 @@
+<map id="x265::Entropy::codeScalingList" name="x265::Entropy::codeScalingList">
+<area shape="rect" id="node2" href="$classx265_1_1Entropy.html#ab082d9d010b1ef8443515e7cab0541e2" title="x265::Entropy::codeSPS" alt="" coords="257,35,423,61"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#a5095039a4d1af32049c30052ef3e6588" title="x265::Encoder::getStream\lHeaders" alt="" coords="473,27,647,69"/>
+<area shape="rect" id="node4" href="$x265_8h.html#a575071c7bc7374ffd708d93f016211b5" title="x265_encoder_headers" alt="" coords="697,5,853,32"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="703,57,846,98"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="948,5,999,32"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="902,57,1045,98"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="x265::FrameEncoder::destroy" name="x265::FrameEncoder::destroy">
+<area shape="rect" id="node2" href="$classx265_1_1JobProvider.html#ad004107327dde958624d0db7a55c57f7" title="x265::JobProvider::\lflush" alt="" coords="198,38,333,79"/>
+<area shape="rect" id="node6" href="$classx265_1_1Event.html#ad3e86a968fd0b5340255f8691c22441b" title="x265::Event::trigger" alt="" coords="197,104,333,131"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameFilter.html#a2c581600b5bf6c5248c0cb05267f6e1f" title="x265::FrameFilter::\ldestroy" alt="" coords="199,155,331,197"/>
+<area shape="rect" id="node9" href="$classx265_1_1Thread.html#a6264fa4e413afa477a9db5e46a127113" title="x265::Thread::stop" alt="" coords="200,221,331,248"/>
+<area shape="rect" id="node3" href="$classx265_1_1JobProvider.html#aad43fe7bf62d5d3656046fcf0888e7b8" title="x265::JobProvider::\ldequeue" alt="" coords="383,38,518,79"/>
+<area shape="rect" id="node4" href="$classx265_1_1ThreadPool.html#a360b412a2c2a49143e4611ff790d9462" title="x265::ThreadPool::dequeue\lJobProvider" alt="" coords="568,5,749,46"/>
+<area shape="rect" id="node5" href="$classx265_1_1ThreadPool.html#a47277b980acec1c3114d1374ba304b85" title="x265::ThreadPool::pokeIdle\lThread" alt="" coords="568,70,749,111"/>
+<area shape="rect" id="node8" href="$classx265_1_1SAO.html#a7b71a57a61ea2ef8f2f73f6ff7cf7e3f" title="x265::SAO::destroy" alt="" coords="382,163,519,189"/>
+</map>

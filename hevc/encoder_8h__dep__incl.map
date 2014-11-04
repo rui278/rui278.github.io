@@ -1,0 +1,9 @@
+<map id="source/encoder/encoder.h" name="source/encoder/encoder.h">
+<area shape="rect" id="node2" href="$analysis_8cpp.html" title="source/encoder/analysis.cpp" alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node3" href="$api_8cpp.html" title="source/encoder/api.cpp" alt="" coords="217,80,375,107"/>
+<area shape="rect" id="node4" href="$encoder_8cpp.html" title="source/encoder/encoder.cpp" alt="" coords="399,80,585,107"/>
+<area shape="rect" id="node5" href="$frameencoder_8cpp.html" title="source/encoder/frameencoder.cpp" alt="" coords="609,80,828,107"/>
+<area shape="rect" id="node6" href="$framefilter_8cpp.html" title="source/encoder/framefilter.cpp" alt="" coords="853,80,1051,107"/>
+<area shape="rect" id="node7" href="$ratecontrol_8cpp.html" title="source/encoder/ratecontrol.cpp" alt="" coords="1075,80,1276,107"/>
+<area shape="rect" id="node8" href="$slicetype_8cpp.html" title="source/encoder/slicetype.cpp" alt="" coords="1301,80,1493,107"/>
+</map>

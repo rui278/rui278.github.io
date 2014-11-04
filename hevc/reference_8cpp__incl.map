@@ -1,0 +1,15 @@
+<map id="source/encoder/reference.cpp" name="source/encoder/reference.cpp">
+<area shape="rect" id="node2" href="$common_8h.html" title="common.h" alt="" coords="649,453,731,480"/>
+<area shape="rect" id="node21" href="$primitives_8h.html" title="primitives.h" alt="" coords="495,304,584,331"/>
+<area shape="rect" id="node23" href="$slice_8h.html" title="slice.h" alt="" coords="711,155,771,181"/>
+<area shape="rect" id="node24" href="$picyuv_8h.html" title="picyuv.h" alt="" coords="802,304,872,331"/>
+<area shape="rect" id="node26" href="$reference_8h.html" title="reference.h" alt="" coords="583,80,669,107"/>
+<area shape="rect" id="node13" href="$stdint_8h.html" title="stdint.h" alt="" coords="850,603,915,629"/>
+<area shape="rect" id="node18" href="$x265_8h.html" title="x265.h" alt="" coords="1229,528,1291,555"/>
+<area shape="rect" id="node20" href="$constants_8h.html" title="constants.h" alt="" coords="848,528,939,555"/>
+<area shape="rect" id="node19" href="$x265__config_8h.html" title="x265_config.h" alt="" coords="1209,603,1311,629"/>
+<area shape="rect" id="node22" href="$cpu_8h.html" title="cpu.h" alt="" coords="497,379,551,405"/>
+<area shape="rect" id="node25" href="$md5_8h.html" title="md5.h" alt="" coords="829,379,887,405"/>
+<area shape="rect" id="node27" href="$lowres_8h.html" title="lowres.h" alt="" coords="558,155,628,181"/>
+<area shape="rect" id="node28" href="$mv_8h.html" title="mv.h" alt="" coords="603,229,653,256"/>
+</map>

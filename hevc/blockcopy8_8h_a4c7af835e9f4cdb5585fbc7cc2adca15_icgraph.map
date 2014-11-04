@@ -1,0 +1,8 @@
+<map id="x265_copy_shl_4_sse2" name="x265_copy_shl_4_sse2">
+<area shape="rect" id="node2" href="$namespacex265.html#a5fd4feac77a19680bbf653b38723ad04" title="x265::Setup_Assembly\l_Primitives" alt="" coords="213,49,371,90"/>
+<area shape="rect" id="node3" href="$x265_8h.html#a04a58d574a81e33aa7fe7632e2328bf2" title="x265_setup_primitives" alt="" coords="419,31,571,57"/>
+<area shape="rect" id="node7" href="$testbench_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="469,81,520,108"/>
+<area shape="rect" id="node4" href="$x265_8h.html#add639f6af182534d265ef22d4bf91f90" title="x265_encoder_open" alt="" coords="619,5,757,32"/>
+<area shape="rect" id="node5" href="$structCLIOptions.html#a9fc5f387d720db54ca46e6abf917719f" title="CLIOptions::parse" alt="" coords="624,56,752,83"/>
+<area shape="rect" id="node6" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="805,56,856,83"/>
+</map>

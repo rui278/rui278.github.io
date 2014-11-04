@@ -1,0 +1,9 @@
+<map id="x265::SEIPictureTiming::writeSEI" name="x265::SEIPictureTiming::writeSEI">
+<area shape="rect" id="node2" href="$classx265_1_1SyntaxElementWriter.html#a0bb88c348aa279a7ff17909fbe9afcb7" title="x265::SyntaxElementWriter\l::WRITE_CODE" alt="" coords="214,9,397,50"/>
+<area shape="rect" id="node5" href="$classx265_1_1SyntaxElementWriter.html#a2d204a2fc0b37616f9a614bf037a3dd6" title="x265::SyntaxElementWriter\l::WRITE_FLAG" alt="" coords="446,70,629,111"/>
+<area shape="rect" id="node7" href="$classx265_1_1SEI.html#a5949af24988ead690e69076810f43bd7" title="x265::SEI::writeByteAlign" alt="" coords="219,127,391,153"/>
+<area shape="rect" id="node3" href="$classx265_1_1SyntaxElementWriter.html#ae5a4f2eb12b9c33050cd47aafe5d281c" title="x265::SyntaxElementWriter\l::writeCode" alt="" coords="678,5,861,46"/>
+<area shape="rect" id="node4" href="$classx265_1_1BitInterface.html#a28a79d8b25645cdd59d6ff004d4851dc" title="x265::BitInterface\l::write" alt="" coords="909,38,1035,79"/>
+<area shape="rect" id="node6" href="$classx265_1_1SyntaxElementWriter.html#a3bfaf3088405d61eeba90f10c0a17afc" title="x265::SyntaxElementWriter\l::writeFlag" alt="" coords="678,70,861,111"/>
+<area shape="rect" id="node8" href="$classx265_1_1BitInterface.html#a9a0ad1a6b31205d8f79ff97b206c3700" title="x265::BitInterface\l::getNumberOfWrittenBits" alt="" coords="451,135,624,177"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="x265_ssim2dB" name="x265_ssim2dB">
+<area shape="rect" id="node2" href="$classx265_1_1Encoder.html#aac7f6c9c73769cda84933f4f4f25c6b4" title="x265::Encoder::statsCSVString" alt="" coords="163,5,368,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#a8f70edcd0d232f569c98cbf8223a984c" title="x265::Encoder::writeLog" alt="" coords="432,56,595,83"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="859,132,909,159"/>
+<area shape="rect" id="node6" href="$classx265_1_1Encoder.html#a894de09381dd095e1a2fac58e4d3b05c" title="x265::Encoder::statsString" alt="" coords="177,157,354,184"/>
+<area shape="rect" id="node9" href="$classx265_1_1Encoder.html#ab6b2602eaeb3c7986173edf5755e0454" title="x265::Encoder::finishFrame\lStats" alt="" coords="174,209,357,250"/>
+<area shape="rect" id="node4" href="$x265_8h.html#a78cae885f430a820d2553e1858c53e91" title="x265_encoder_log" alt="" coords="671,56,798,83"/>
+<area shape="rect" id="node7" href="$classx265_1_1Encoder.html#a82879e6549149ae08d5cbe475d665494" title="x265::Encoder::printSummary" alt="" coords="416,157,611,184"/>
+<area shape="rect" id="node8" href="$x265_8h.html#ac370491d505086b2eb41e10d89f271ad" title="x265_encoder_close" alt="" coords="664,157,805,184"/>
+<area shape="rect" id="node10" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="435,212,591,239"/>
+<area shape="rect" id="node11" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="659,209,811,236"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="x265::JobProvider::flush" name="x265::JobProvider::flush">
+<area shape="rect" id="node2" href="$classx265_1_1JobProvider.html#aad43fe7bf62d5d3656046fcf0888e7b8" title="x265::JobProvider::\ldequeue" alt="" coords="190,38,325,79"/>
+<area shape="rect" id="node3" href="$classx265_1_1ThreadPool.html#a360b412a2c2a49143e4611ff790d9462" title="x265::ThreadPool::dequeue\lJobProvider" alt="" coords="373,5,555,46"/>
+<area shape="rect" id="node4" href="$classx265_1_1ThreadPool.html#a47277b980acec1c3114d1374ba304b85" title="x265::ThreadPool::pokeIdle\lThread" alt="" coords="373,70,555,111"/>
+</map>

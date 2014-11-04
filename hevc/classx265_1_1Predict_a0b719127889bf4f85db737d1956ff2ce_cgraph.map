@@ -1,0 +1,12 @@
+<map id="x265::Predict::addWeightBi" name="x265::Predict::addWeightBi">
+<area shape="rect" id="node2" href="$classx265_1_1Yuv.html#a6c62d5a28f8007eda953bd8026089989" title="x265::Yuv::getLumaAddr" alt="" coords="250,5,417,32"/>
+<area shape="rect" id="node4" href="$classx265_1_1Yuv.html#ae9ee735ee14e85c083e59c04d9776f5e" title="x265::Yuv::getCbAddr" alt="" coords="258,56,409,83"/>
+<area shape="rect" id="node6" href="$classx265_1_1Yuv.html#a357df18eeacf546a884e04e232b326cc" title="x265::Yuv::getCrAddr" alt="" coords="259,107,407,133"/>
+<area shape="rect" id="node7" href="$classx265_1_1ShortYuv.html#a048ebc29e8a3839ab5a7a544f77b878f" title="x265::ShortYuv::getLumaAddr" alt="" coords="235,157,432,184"/>
+<area shape="rect" id="node9" href="$classx265_1_1ShortYuv.html#a6660171fcbce209dfaa6fe73ae4de71c" title="x265::ShortYuv::getCbAddr" alt="" coords="242,208,425,235"/>
+<area shape="rect" id="node11" href="$classx265_1_1ShortYuv.html#a6da679101051acbcbab626c848863fa8" title="x265::ShortYuv::getCrAddr" alt="" coords="244,259,423,285"/>
+<area shape="rect" id="node3" href="$classx265_1_1Yuv.html#a2a599599b46661ccf39f1144dfe2145a" title="x265::Yuv::getAddrOffset" alt="" coords="496,5,667,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1Yuv.html#a0ea2ba029528b5b9eca460bb8d67423b" title="x265::Yuv::getChromaAddr\lOffset" alt="" coords="491,74,671,115"/>
+<area shape="rect" id="node8" href="$classx265_1_1ShortYuv.html#a508fe415b0caa67a51e588bc1591a1d6" title="x265::ShortYuv::getAddrOffset" alt="" coords="481,157,682,184"/>
+<area shape="rect" id="node10" href="$classx265_1_1ShortYuv.html#a9249fde852269aaff4406515274bcf9d" title="x265::ShortYuv::getChroma\lAddrOffset" alt="" coords="489,230,673,271"/>
+</map>

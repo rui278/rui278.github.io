@@ -1,0 +1,8 @@
+<map id="x265::Entropy::setBitstream" name="x265::Entropy::setBitstream">
+<area shape="rect" id="node2" href="$classx265_1_1Encoder.html#a5095039a4d1af32049c30052ef3e6588" title="x265::Encoder::getStream\lHeaders" alt="" coords="241,5,415,46"/>
+<area shape="rect" id="node5" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="471,63,614,105"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#a6d4045d35bfe6b10c8d0dc39353be360" title="x265::FrameEncoder\l::encodeSlice" alt="" coords="257,122,399,163"/>
+<area shape="rect" id="node3" href="$x265_8h.html#a575071c7bc7374ffd708d93f016211b5" title="x265_encoder_headers" alt="" coords="465,12,621,39"/>
+<area shape="rect" id="node4" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="716,12,767,39"/>
+<area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="670,63,813,105"/>
+</map>

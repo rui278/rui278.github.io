@@ -1,0 +1,19 @@
+<map id="x265::Search::getIntraRemModeBits" name="x265::Search::getIntraRemModeBits">
+<area shape="rect" id="node2" href="$classx265_1_1Search.html#a74bb6c5a121190c14d380a7d26cf9271" title="x265::Search::getIntraModeBits" alt="" coords="233,149,439,176"/>
+<area shape="rect" id="node3" href="$classx265_1_1Entropy.html#a5cc0bb0a25fc10237124e2130dca5311" title="x265::Entropy::loadIntra\lDirModeLuma" alt="" coords="495,49,657,90"/>
+<area shape="rect" id="node6" href="$classx265_1_1Entropy.html#abfcde0e06b9eacfac4bfe0784eb7c967" title="x265::Entropy::resetBits" alt="" coords="495,117,657,144"/>
+<area shape="rect" id="node8" href="$classx265_1_1Entropy.html#ab66ece727fbc0d4d8afe02a42466dae2" title="x265::Entropy::codeIntra\lDirLumaAng" alt="" coords="493,173,659,214"/>
+<area shape="rect" id="node18" href="$classx265_1_1Entropy.html#a9078f8e04c0b7a1a2840299c30458e97" title="x265::Entropy::getNumber\lOfWrittenBits" alt="" coords="489,238,663,279"/>
+<area shape="rect" id="node4" href="$classx265_1_1Entropy.html#aec97e584e9e0da270532ef3d29d13b3d" title="x265::Entropy::copyState" alt="" coords="725,5,896,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1Entropy.html#a4a2ed9d9dc4b2a31aed493c4a8d8b58b" title="x265::Entropy::markValid" alt="" coords="726,56,895,83"/>
+<area shape="rect" id="node7" href="$classx265_1_1BitInterface.html#acce17e1c0f79b9ebb54423eafa1cc782" title="x265::BitInterface\l::resetBits" alt="" coords="748,107,873,149"/>
+<area shape="rect" id="node9" href="$classx265_1_1CUData.html#a3278b824ce09f53bc001074896077975" title="x265::CUData::getIntraDir\lLumaPredictor" alt="" coords="723,173,898,214"/>
+<area shape="rect" id="node14" href="$classx265_1_1Entropy.html#ad5bd127b6afa68ee4408890c75fdd4bd" title="x265::Entropy::encodeBin" alt="" coords="725,239,897,265"/>
+<area shape="rect" id="node17" href="$classx265_1_1Entropy.html#ac9e06099bfcb9f576565d6d5a0e3205f" title="x265::Entropy::encodeBinsEP" alt="" coords="712,289,909,316"/>
+<area shape="rect" id="node10" href="$classx265_1_1CUData.html#a790220d1a24b35b6be3f205334c961b9" title="x265::CUData::getPULeft" alt="" coords="965,129,1139,156"/>
+<area shape="rect" id="node12" href="$classx265_1_1CUData.html#a4de1cda97a0a06196c9f6ac92d6829a2" title="x265::CUData::isIntra" alt="" coords="977,180,1127,207"/>
+<area shape="rect" id="node13" href="$classx265_1_1CUData.html#a1776d2850dab48b37a6ffac109e02fdb" title="x265::CUData::getPUAbove" alt="" coords="958,231,1146,257"/>
+<area shape="rect" id="node11" href="$classx265_1_1FrameData.html#a83d98df913873a07c3ce59bd5c16b2e4" title="x265::FrameData::getPicCTU" alt="" coords="1195,179,1391,205"/>
+<area shape="rect" id="node15" href="$classx265_1_1Entropy.html#a38c906d03fe47f10456a3d5bc0cd2080" title="x265::Entropy::writeOut" alt="" coords="972,285,1132,312"/>
+<area shape="rect" id="node16" href="$classx265_1_1BitInterface.html#a0ab2614d14b086091eefc0ed19f3be6d" title="x265::BitInterface\l::writeByte" alt="" coords="1231,278,1356,319"/>
+</map>

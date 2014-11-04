@@ -1,0 +1,22 @@
+<map id="x265::SAO::sao2ChromaParamDist" name="x265::SAO::sao2ChromaParamDist">
+<area shape="rect" id="node2" href="$classx265_1_1SAO.html#af4d57e996cacdde0a74a1269641c8580" title="x265::SAO::resetSaoUnit" alt="" coords="300,20,471,47"/>
+<area shape="rect" id="node3" href="$classx265_1_1Entropy.html#ab0112c0714c76da785afb22acbeecd68" title="x265::Entropy::load" alt="" coords="318,172,453,199"/>
+<area shape="rect" id="node7" href="$classx265_1_1Entropy.html#abfcde0e06b9eacfac4bfe0784eb7c967" title="x265::Entropy::resetBits" alt="" coords="304,71,467,97"/>
+<area shape="rect" id="node9" href="$classx265_1_1Entropy.html#abb01f9aee051276ed9c7891f0e3c50d0" title="x265::Entropy::codeSaoOffset" alt="" coords="286,121,485,148"/>
+<area shape="rect" id="node16" href="$classx265_1_1Entropy.html#a9078f8e04c0b7a1a2840299c30458e97" title="x265::Entropy::getNumber\lOfWrittenBits" alt="" coords="298,223,473,265"/>
+<area shape="rect" id="node17" href="$classx265_1_1SAO.html#a9d43c3bbe0b06bfde9065ab864d24434" title="x265::SAO::estSaoTypeDist" alt="" coords="291,391,479,417"/>
+<area shape="rect" id="node20" href="$classx265_1_1SAO.html#a5eb2c514421b6a79ece26e550f20752a" title="x265::SAO::copySaoUnit" alt="" coords="301,340,470,367"/>
+<area shape="rect" id="node21" href="$classx265_1_1Entropy.html#af288a671673fb29b0c1e704c4e583630" title="x265::Entropy::store" alt="" coords="315,289,455,316"/>
+<area shape="rect" id="node4" href="$classx265_1_1Entropy.html#a58920cd5abeb58e01ff534ee73aa6764" title="x265::Entropy::copyFrom" alt="" coords="557,285,726,312"/>
+<area shape="rect" id="node5" href="$classx265_1_1Entropy.html#aec97e584e9e0da270532ef3d29d13b3d" title="x265::Entropy::copyState" alt="" coords="811,277,981,304"/>
+<area shape="rect" id="node6" href="$classx265_1_1Entropy.html#a4a2ed9d9dc4b2a31aed493c4a8d8b58b" title="x265::Entropy::markValid" alt="" coords="811,328,981,355"/>
+<area shape="rect" id="node8" href="$classx265_1_1BitInterface.html#acce17e1c0f79b9ebb54423eafa1cc782" title="x265::BitInterface\l::resetBits" alt="" coords="579,5,704,46"/>
+<area shape="rect" id="node10" href="$classx265_1_1Entropy.html#ad5bd127b6afa68ee4408890c75fdd4bd" title="x265::Entropy::encodeBin" alt="" coords="810,223,982,249"/>
+<area shape="rect" id="node13" href="$classx265_1_1Entropy.html#aeb3460dd06c9b37356040eeb108a3e98" title="x265::Entropy::encodeBinEP" alt="" coords="801,121,991,148"/>
+<area shape="rect" id="node14" href="$classx265_1_1Entropy.html#a3914cba4b895cb5cd2e3d723597af64a" title="x265::Entropy::codeSaoMaxUvlc" alt="" coords="534,121,749,148"/>
+<area shape="rect" id="node15" href="$classx265_1_1Entropy.html#ac9e06099bfcb9f576565d6d5a0e3205f" title="x265::Entropy::encodeBinsEP" alt="" coords="797,172,995,199"/>
+<area shape="rect" id="node11" href="$classx265_1_1Entropy.html#a38c906d03fe47f10456a3d5bc0cd2080" title="x265::Entropy::writeOut" alt="" coords="1043,172,1203,199"/>
+<area shape="rect" id="node12" href="$classx265_1_1BitInterface.html#a0ab2614d14b086091eefc0ed19f3be6d" title="x265::BitInterface\l::writeByte" alt="" coords="1251,165,1376,206"/>
+<area shape="rect" id="node18" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="615,365,667,392"/>
+<area shape="rect" id="node19" href="$classx265_1_1SAO.html#a8ab19d2ad8404555cbcf30be8346e030" title="x265::SAO::estIterOffset" alt="" coords="558,416,725,443"/>
+</map>

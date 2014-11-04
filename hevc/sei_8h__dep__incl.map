@@ -1,0 +1,10 @@
+<map id="source/encoder/sei.h" name="source/encoder/sei.h">
+<area shape="rect" id="node2" href="$ratecontrol_8h.html" title="source/encoder/ratecontrol.h" alt="" coords="432,80,619,107"/>
+<area shape="rect" id="node7" href="$ratecontrol_8cpp.html" title="source/encoder/ratecontrol.cpp" alt="" coords="646,155,847,181"/>
+<area shape="rect" id="node9" href="$sei_8cpp.html" title="source/encoder/sei.cpp" alt="" coords="739,80,896,107"/>
+<area shape="rect" id="node3" href="$frameencoder_8h.html" title="source/encoder/frameencoder.h" alt="" coords="200,155,405,181"/>
+<area shape="rect" id="node4" href="$encoder_8cpp.html" title="source/encoder/encoder.cpp" alt="" coords="5,229,192,256"/>
+<area shape="rect" id="node8" href="$slicetype_8cpp.html" title="source/encoder/slicetype.cpp" alt="" coords="429,155,621,181"/>
+<area shape="rect" id="node5" href="$frameencoder_8cpp.html" title="source/encoder/frameencoder.cpp" alt="" coords="216,229,435,256"/>
+<area shape="rect" id="node6" href="$framefilter_8cpp.html" title="source/encoder/framefilter.cpp" alt="" coords="459,229,657,256"/>
+</map>

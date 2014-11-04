@@ -1,0 +1,5 @@
+<map id="x265::RateControl::getDiffLimitedQScale" name="x265::RateControl::getDiffLimitedQScale">
+<area shape="rect" id="node2" href="$common_8cpp.html#a4f4c9b86a7de778b323e810d58f82881" title="x265_qp2qScale" alt="" coords="201,5,319,32"/>
+<area shape="rect" id="node3" href="$common_8h.html#a0bc45c2b4097068046b78520c8c09a94" title="Clip3" alt="" coords="234,56,286,83"/>
+<area shape="rect" id="node4" href="$common_8cpp.html#a554f90f0dbbe8f4af1b542ff48c2ec2b" title="x265_qScale2qp" alt="" coords="201,107,319,133"/>
+</map>

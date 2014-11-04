@@ -1,0 +1,7 @@
+<map id="x265::Analysis::create" name="x265::Analysis::create">
+<area shape="rect" id="node2" href="$structx265_1_1CUDataMemPool.html#a2940a69824b247dcbb9b4b18709dfd88" title="x265::CUDataMemPool\l::create" alt="" coords="206,5,367,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1Yuv.html#a601669c344dfd19688bcd8da3ceb3a35" title="x265::Yuv::create" alt="" coords="224,71,349,97"/>
+<area shape="rect" id="node5" href="$classx265_1_1CUData.html#a9fd55734dd8dc163e76ea631d8d19735" title="x265::CUData::initialize" alt="" coords="206,121,367,148"/>
+<area shape="rect" id="node6" href="$classx265_1_1ShortYuv.html#aad2987c5b316798c9f30fd93e64c81dc" title="x265::ShortYuv::create" alt="" coords="209,172,365,199"/>
+<area shape="rect" id="node4" href="$namespacex265.html#a93e053711da89baf3e987bf83cbd55a3" title="x265::partitionFromSizes" alt="" coords="417,71,583,97"/>
+</map>

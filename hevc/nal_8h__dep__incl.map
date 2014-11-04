@@ -1,0 +1,12 @@
+<map id="source/encoder/nal.h" name="source/encoder/nal.h">
+<area shape="rect" id="node2" href="$encoder_8h.html" title="source/encoder/encoder.h" alt="" coords="682,80,853,107"/>
+<area shape="rect" id="node4" href="$api_8cpp.html" title="source/encoder/api.cpp" alt="" coords="5,155,163,181"/>
+<area shape="rect" id="node5" href="$encoder_8cpp.html" title="source/encoder/encoder.cpp" alt="" coords="843,155,1029,181"/>
+<area shape="rect" id="node6" href="$frameencoder_8cpp.html" title="source/encoder/frameencoder.cpp" alt="" coords="1277,155,1496,181"/>
+<area shape="rect" id="node10" href="$frameencoder_8h.html" title="source/encoder/frameencoder.h" alt="" coords="973,80,1179,107"/>
+<area shape="rect" id="node11" href="$nal_8cpp.html" title="source/encoder/nal.cpp" alt="" coords="1253,80,1411,107"/>
+<area shape="rect" id="node3" href="$analysis_8cpp.html" title="source/encoder/analysis.cpp" alt="" coords="630,155,817,181"/>
+<area shape="rect" id="node7" href="$framefilter_8cpp.html" title="source/encoder/framefilter.cpp" alt="" coords="1054,155,1252,181"/>
+<area shape="rect" id="node8" href="$ratecontrol_8cpp.html" title="source/encoder/ratecontrol.cpp" alt="" coords="187,155,388,181"/>
+<area shape="rect" id="node9" href="$slicetype_8cpp.html" title="source/encoder/slicetype.cpp" alt="" coords="413,155,605,181"/>
+</map>

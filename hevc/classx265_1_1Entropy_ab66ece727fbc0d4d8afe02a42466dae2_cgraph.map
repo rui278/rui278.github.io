@@ -1,0 +1,11 @@
+<map id="x265::Entropy::codeIntraDirLumaAng" name="x265::Entropy::codeIntraDirLumaAng">
+<area shape="rect" id="node2" href="$classx265_1_1CUData.html#a3278b824ce09f53bc001074896077975" title="x265::CUData::getIntraDir\lLumaPredictor" alt="" coords="230,49,405,90"/>
+<area shape="rect" id="node7" href="$classx265_1_1Entropy.html#ad5bd127b6afa68ee4408890c75fdd4bd" title="x265::Entropy::encodeBin" alt="" coords="231,115,403,141"/>
+<area shape="rect" id="node10" href="$classx265_1_1Entropy.html#ac9e06099bfcb9f576565d6d5a0e3205f" title="x265::Entropy::encodeBinsEP" alt="" coords="219,165,416,192"/>
+<area shape="rect" id="node3" href="$classx265_1_1CUData.html#a790220d1a24b35b6be3f205334c961b9" title="x265::CUData::getPULeft" alt="" coords="472,5,645,32"/>
+<area shape="rect" id="node5" href="$classx265_1_1CUData.html#a4de1cda97a0a06196c9f6ac92d6829a2" title="x265::CUData::isIntra" alt="" coords="483,56,634,83"/>
+<area shape="rect" id="node6" href="$classx265_1_1CUData.html#a1776d2850dab48b37a6ffac109e02fdb" title="x265::CUData::getPUAbove" alt="" coords="465,107,653,133"/>
+<area shape="rect" id="node4" href="$classx265_1_1FrameData.html#a83d98df913873a07c3ce59bd5c16b2e4" title="x265::FrameData::getPicCTU" alt="" coords="702,55,898,81"/>
+<area shape="rect" id="node8" href="$classx265_1_1Entropy.html#a38c906d03fe47f10456a3d5bc0cd2080" title="x265::Entropy::writeOut" alt="" coords="479,161,639,188"/>
+<area shape="rect" id="node9" href="$classx265_1_1BitInterface.html#a0ab2614d14b086091eefc0ed19f3be6d" title="x265::BitInterface\l::writeByte" alt="" coords="737,154,863,195"/>
+</map>

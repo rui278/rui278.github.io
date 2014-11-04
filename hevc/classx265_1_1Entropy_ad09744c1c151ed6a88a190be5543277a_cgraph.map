@@ -1,0 +1,6 @@
+<map id="x265::Entropy::estBit" name="x265::Entropy::estBit">
+<area shape="rect" id="node2" href="$classx265_1_1Entropy.html#ab892ff6aba6789f126ae903021810b7c" title="x265::Entropy::estCBFBit" alt="" coords="210,5,382,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1Entropy.html#a3fd7dcaf7357a390759e68d25f27d13c" title="x265::Entropy::estSignificant\lCoeffGroupMapBit" alt="" coords="201,57,391,98"/>
+<area shape="rect" id="node4" href="$classx265_1_1Entropy.html#a35dce86decd29a4257441ed2dbad17e4" title="x265::Entropy::estSignificant\lMapBit" alt="" coords="201,122,391,163"/>
+<area shape="rect" id="node5" href="$classx265_1_1Entropy.html#a59a4d361785a1656df693e1249154578" title="x265::Entropy::estSignificant\lCoefficientsBit" alt="" coords="201,187,391,229"/>
+</map>

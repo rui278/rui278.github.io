@@ -1,0 +1,9 @@
+<map id="x265::DPB::~DPB" name="x265::DPB::~DPB">
+<area shape="rect" id="node2" href="$classx265_1_1PicList.html#ab487a0040f2e0c152c538eb55c5cfdc3" title="x265::PicList::empty" alt="" coords="191,5,334,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1PicList.html#af044edb915f7de4762689c9813c37ce1" title="x265::PicList::popFront" alt="" coords="184,56,341,83"/>
+<area shape="rect" id="node4" href="$classx265_1_1Frame.html#a538e2e03787c196818d3d8e3c3e42609" title="x265::Frame::destroy" alt="" coords="189,157,336,184"/>
+<area shape="rect" id="node5" href="$classx265_1_1FrameData.html#a05f212335b8eb11dc60f5a7f182c5b8c" title="x265::FrameData::destroy" alt="" coords="390,107,565,133"/>
+<area shape="rect" id="node7" href="$classx265_1_1PicYuv.html#a574fbee3c2fb38ac7fe208de2a8cc1e6" title="x265::PicYuv::destroy" alt="" coords="402,208,553,235"/>
+<area shape="rect" id="node8" href="$structx265_1_1Lowres.html#a7f50aa7e8db9478a48db05575bf734fd" title="x265::Lowres::destroy" alt="" coords="402,157,553,184"/>
+<area shape="rect" id="node6" href="$structx265_1_1CUDataMemPool.html#ad4f050d939dc2afad098b28ed44e977a" title="x265::CUDataMemPool\l::destroy" alt="" coords="614,99,775,141"/>
+</map>

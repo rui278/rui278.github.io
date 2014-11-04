@@ -1,0 +1,12 @@
+<map id="x265::Entropy::codeSaoMaxUvlc" name="x265::Entropy::codeSaoMaxUvlc">
+<area shape="rect" id="node2" href="$classx265_1_1Entropy.html#abb01f9aee051276ed9c7891f0e3c50d0" title="x265::Entropy::codeSaoOffset" alt="" coords="270,96,469,123"/>
+<area shape="rect" id="node3" href="$classx265_1_1FrameEncoder.html#a6d4045d35bfe6b10c8d0dc39353be360" title="x265::FrameEncoder\l::encodeSlice" alt="" coords="569,5,711,46"/>
+<area shape="rect" id="node6" href="$classx265_1_1SAO.html#a06d0839d18ce2c3fad5438d917467130" title="x265::SAO::rdoSaoUnitRow" alt="" coords="811,121,997,148"/>
+<area shape="rect" id="node10" href="$classx265_1_1SAO.html#a53c829d9f4083d4fec9df488222a8d9e" title="x265::SAO::saoComponentParamDist" alt="" coords="518,121,762,148"/>
+<area shape="rect" id="node11" href="$classx265_1_1SAO.html#a78639ed647d95ab7582ae39abe3e0524" title="x265::SAO::sao2ChromaParamDist" alt="" coords="525,172,755,199"/>
+<area shape="rect" id="node4" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="833,5,975,46"/>
+<area shape="rect" id="node5" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="1046,5,1189,46"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameFilter.html#a75d13efc3b8c164f9c1615bffda89891" title="x265::FrameFilter::\lprocessRow" alt="" coords="1051,114,1183,155"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#a764697a109059858166d1c017b81d233" title="x265::FrameEncoder\l::processRowFilter" alt="" coords="1238,114,1381,155"/>
+<area shape="rect" id="node9" href="$classx265_1_1FrameEncoder.html#acad645a8ece97d884895f8f7366b7d70" title="x265::FrameEncoder\l::processRow" alt="" coords="1430,114,1573,155"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="x265::Lookahead::destroy" name="x265::Lookahead::destroy">
+<area shape="rect" id="node2" href="$classx265_1_1JobProvider.html#ad004107327dde958624d0db7a55c57f7" title="x265::JobProvider::\lflush" alt="" coords="238,47,373,89"/>
+<area shape="rect" id="node6" href="$classx265_1_1PicList.html#ab487a0040f2e0c152c538eb55c5cfdc3" title="x265::PicList::empty" alt="" coords="234,113,377,140"/>
+<area shape="rect" id="node7" href="$classx265_1_1PicList.html#af044edb915f7de4762689c9813c37ce1" title="x265::PicList::popFront" alt="" coords="227,164,384,191"/>
+<area shape="rect" id="node8" href="$classx265_1_1Frame.html#a538e2e03787c196818d3d8e3c3e42609" title="x265::Frame::destroy" alt="" coords="232,215,379,241"/>
+<area shape="rect" id="node13" href="$common_8cpp.html#ada077beb0004dce6800e35fda36b51d5" title="x265_free" alt="" coords="266,265,345,292"/>
+<area shape="rect" id="node3" href="$classx265_1_1JobProvider.html#aad43fe7bf62d5d3656046fcf0888e7b8" title="x265::JobProvider::\ldequeue" alt="" coords="453,47,587,89"/>
+<area shape="rect" id="node4" href="$classx265_1_1ThreadPool.html#a360b412a2c2a49143e4611ff790d9462" title="x265::ThreadPool::dequeue\lJobProvider" alt="" coords="656,5,837,46"/>
+<area shape="rect" id="node5" href="$classx265_1_1ThreadPool.html#a47277b980acec1c3114d1374ba304b85" title="x265::ThreadPool::pokeIdle\lThread" alt="" coords="656,70,837,111"/>
+<area shape="rect" id="node9" href="$classx265_1_1FrameData.html#a05f212335b8eb11dc60f5a7f182c5b8c" title="x265::FrameData::destroy" alt="" coords="433,164,607,191"/>
+<area shape="rect" id="node11" href="$classx265_1_1PicYuv.html#a574fbee3c2fb38ac7fe208de2a8cc1e6" title="x265::PicYuv::destroy" alt="" coords="445,215,595,241"/>
+<area shape="rect" id="node12" href="$structx265_1_1Lowres.html#a7f50aa7e8db9478a48db05575bf734fd" title="x265::Lowres::destroy" alt="" coords="445,265,595,292"/>
+<area shape="rect" id="node10" href="$structx265_1_1CUDataMemPool.html#ad4f050d939dc2afad098b28ed44e977a" title="x265::CUDataMemPool\l::destroy" alt="" coords="666,157,827,198"/>
+</map>

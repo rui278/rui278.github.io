@@ -1,0 +1,7 @@
+<map id="x265::FrameData::reinit" name="x265::FrameData::reinit">
+<area shape="rect" id="node2" href="$classx265_1_1FrameData.html#a3fcb789c0b86ea768288b338a3ba9840" title="x265::FrameData::create" alt="" coords="214,5,381,32"/>
+<area shape="rect" id="node4" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="681,31,837,57"/>
+<area shape="rect" id="node3" href="$classx265_1_1Frame.html#a0dfc4b58313eafb7f69b0f03a119ab50" title="x265::Frame::allocEncodeData" alt="" coords="429,5,632,32"/>
+<area shape="rect" id="node5" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="885,31,1037,57"/>
+<area shape="rect" id="node6" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1085,31,1136,57"/>
+</map>

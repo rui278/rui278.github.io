@@ -1,0 +1,14 @@
+<map id="x265::ThreadSafeInteger::get" name="x265::ThreadSafeInteger::get">
+<area shape="rect" id="node2" href="$classx265_1_1FrameEncoder.html#ac4e9ce2e876c0cdb25c992c872fe4302" title="x265::FrameEncoder\l::compressCTURows" alt="" coords="245,5,395,46"/>
+<area shape="rect" id="node5" href="$classx265_1_1RateControl.html#a6453a04a36d66b87ed8a23df88e75326" title="x265::RateControl::\lrateControlStart" alt="" coords="252,70,388,111"/>
+<area shape="rect" id="node6" href="$classx265_1_1RateControl.html#a26331c267938f5e6e49ad5b07e4ff013" title="x265::RateControl::\lrateControlEnd" alt="" coords="252,135,388,177"/>
+<area shape="rect" id="node7" href="$classx265_1_1RateControl.html#a67d7d2e2426e0124d0315e335c078f41" title="x265::RateControl::\lsetFinalFrameCount" alt="" coords="250,201,390,242"/>
+<area shape="rect" id="node11" href="$classx265_1_1RateControl.html#a5dbd123c88c911c753134ff73c2e27bb" title="x265::RateControl::\lterminate" alt="" coords="252,266,388,307"/>
+<area shape="rect" id="node3" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="450,70,593,111"/>
+<area shape="rect" id="node4" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="653,70,795,111"/>
+<area shape="rect" id="node8" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="443,215,599,241"/>
+<area shape="rect" id="node9" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="648,216,800,243"/>
+<area shape="rect" id="node10" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="848,243,899,269"/>
+<area shape="rect" id="node12" href="$classx265_1_1Encoder.html#ac689b087686eca38579aad7426e34fc6" title="x265::Encoder::destroy" alt="" coords="443,269,600,296"/>
+<area shape="rect" id="node13" href="$x265_8h.html#ac370491d505086b2eb41e10d89f271ad" title="x265_encoder_close" alt="" coords="653,268,795,295"/>
+</map>

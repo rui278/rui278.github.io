@@ -1,0 +1,6 @@
+<map id="x265::Lowres::create" name="x265::Lowres::create">
+<area shape="rect" id="node2" href="$classx265_1_1Frame.html#ab17cffef5d43a9dc038c55a9d8932521" title="x265::Frame::create" alt="" coords="197,5,336,32"/>
+<area shape="rect" id="node3" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="385,5,541,32"/>
+<area shape="rect" id="node4" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="589,5,741,32"/>
+<area shape="rect" id="node5" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="789,5,840,32"/>
+</map>

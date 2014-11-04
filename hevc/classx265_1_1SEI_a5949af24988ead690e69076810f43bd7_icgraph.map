@@ -1,0 +1,6 @@
+<map id="x265::SEI::writeByteAlign" name="x265::SEI::writeByteAlign">
+<area shape="rect" id="node2" href="$classx265_1_1SEIActiveParameterSets.html#ae4e6f13edeabe2136cef0b6fe80e82a2" title="x265::SEIActiveParameter\lSets::writeSEI" alt="" coords="227,5,405,46"/>
+<area shape="rect" id="node3" href="$classx265_1_1SEIBufferingPeriod.html#a6152a9bb8906206d562a8b4935d02274" title="x265::SEIBufferingPeriod\l::writeSEI" alt="" coords="231,70,401,111"/>
+<area shape="rect" id="node4" href="$classx265_1_1SEIPictureTiming.html#a453562cf724db6ae5803875052dc61be" title="x265::SEIPictureTiming\l::writeSEI" alt="" coords="236,135,396,177"/>
+<area shape="rect" id="node5" href="$classx265_1_1SEIRecoveryPoint.html#a1305df775c7e64b8d68cfc1a3c4c40e8" title="x265::SEIRecoveryPoint\l::writeSEI" alt="" coords="233,201,399,242"/>
+</map>
