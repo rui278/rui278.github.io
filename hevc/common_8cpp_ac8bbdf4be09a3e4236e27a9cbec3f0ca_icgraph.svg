@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 808;
+var viewWidth = 952;
 var viewHeight = 124;
 var sectionId = 'dynsection-10';
 </script>
@@ -54,7 +54,7 @@ var sectionId = 'dynsection-10';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>x265_slurp_file</title>
-<polygon fill="white" stroke="none" points="-4,4 -4,-120 804,-120 804,4 -4,4"/>
+<polygon fill="white" stroke="none" points="-4,4 -4,-120 948,-120 948,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
 <polygon fill="#bfbfbf" stroke="black" points="0,-74.5 0,-93.5 82,-93.5 82,-74.5 0,-74.5"/>
@@ -127,17 +127,17 @@ var sectionId = 'dynsection-10';
 <path fill="none" stroke="midnightblue" d="M387.593,-62C396.597,-62 405.767,-62 414.497,-62"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="387.529,-58.5001 377.529,-62 387.529,-65.5001 387.529,-58.5001"/>
 </g>
-<!-- Node9 -->
-<g id="node9" class="node"><title>Node9</title>
-<g id="a_node9"><a xlink:href="classx265_1_1RateControl.html#a26331c267938f5e6e49ad5b07e4ff013" target="_top" xlink:title="x265::RateControl::\lrateControlEnd">
+<!-- Node10 -->
+<g id="node10" class="node"><title>Node10</title>
+<g id="a_node10"><a xlink:href="classx265_1_1RateControl.html#a26331c267938f5e6e49ad5b07e4ff013" target="_top" xlink:title="x265::RateControl::\lrateControlEnd">
 <polygon fill="white" stroke="black" points="554,-0 554,-30 656,-30 656,-0 554,-0"/>
 <text text-anchor="start" x="562" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">x265::RateControl::</text>
 <text text-anchor="middle" x="605" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">rateControlEnd</text>
 </a>
 </g>
 </g>
-<!-- Node5&#45;&gt;Node9 -->
-<g id="edge8" class="edge"><title>Node5&#45;&gt;Node9</title>
+<!-- Node5&#45;&gt;Node10 -->
+<g id="edge9" class="edge"><title>Node5&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M382.889,-44.3101C393.184,-41.5744 403.857,-38.9987 414,-37 460.915,-27.7553 515.168,-21.9499 553.659,-18.6398"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="381.887,-40.9554 373.164,-46.9685 383.733,-47.7076 381.887,-40.9554"/>
 </g>
@@ -158,7 +158,7 @@ var sectionId = 'dynsection-10';
 <!-- Node8 -->
 <g id="node8" class="node"><title>Node8</title>
 <g id="a_node8"><a xlink:href="classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" target="_top" xlink:title="x265::FrameEncoder\l::compressFrame">
-<polygon fill="white" stroke="red" points="692.5,-24 692.5,-54 799.5,-54 799.5,-24 692.5,-24"/>
+<polygon fill="white" stroke="black" points="692.5,-24 692.5,-54 799.5,-54 799.5,-24 692.5,-24"/>
 <text text-anchor="start" x="700.5" y="-42" font-family="Helvetica,sans-Serif" font-size="10.00">x265::FrameEncoder</text>
 <text text-anchor="middle" x="746" y="-31" font-family="Helvetica,sans-Serif" font-size="10.00">::compressFrame</text>
 </a>
@@ -169,8 +169,22 @@ var sectionId = 'dynsection-10';
 <path fill="none" stroke="midnightblue" d="M666.179,-53.1765C674.798,-51.6262 683.613,-50.0409 692.078,-48.5183"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="665.405,-49.7595 656.182,-54.9744 666.644,-56.6489 665.405,-49.7595"/>
 </g>
-<!-- Node9&#45;&gt;Node8 -->
-<g id="edge9" class="edge"><title>Node9&#45;&gt;Node8</title>
+<!-- Node9 -->
+<g id="node9" class="node"><title>Node9</title>
+<g id="a_node9"><a xlink:href="classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" target="_top" xlink:title="x265::FrameEncoder\l::threadMain">
+<polygon fill="white" stroke="black" points="836.5,-24 836.5,-54 943.5,-54 943.5,-24 836.5,-24"/>
+<text text-anchor="start" x="844.5" y="-42" font-family="Helvetica,sans-Serif" font-size="10.00">x265::FrameEncoder</text>
+<text text-anchor="middle" x="890" y="-31" font-family="Helvetica,sans-Serif" font-size="10.00">::threadMain</text>
+</a>
+</g>
+</g>
+<!-- Node8&#45;&gt;Node9 -->
+<g id="edge8" class="edge"><title>Node8&#45;&gt;Node9</title>
+<path fill="none" stroke="midnightblue" d="M809.994,-39C818.704,-39 827.578,-39 836.08,-39"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="809.876,-35.5001 799.876,-39 809.876,-42.5001 809.876,-35.5001"/>
+</g>
+<!-- Node10&#45;&gt;Node8 -->
+<g id="edge10" class="edge"><title>Node10&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M666.179,-25.3906C674.798,-26.8788 683.613,-28.4007 692.078,-29.8624"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="666.632,-21.9171 656.182,-23.6646 665.441,-28.815 666.632,-21.9171"/>
 </g>

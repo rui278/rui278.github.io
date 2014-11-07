@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 824;
+var viewWidth = 968;
 var viewHeight = 38;
 var sectionId = 'dynsection-11';
 </script>
@@ -54,7 +54,7 @@ var sectionId = 'dynsection-11';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>x265::FrameFilter::processSao</title>
-<polygon fill="white" stroke="none" points="-4,4 -4,-34 820,-34 820,4 -4,4"/>
+<polygon fill="white" stroke="none" points="-4,4 -4,-34 964,-34 964,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
 <polygon fill="#bfbfbf" stroke="black" points="0.5,-0 0.5,-30 99.5,-30 99.5,-0 0.5,-0"/>
@@ -120,7 +120,7 @@ var sectionId = 'dynsection-11';
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
 <g id="a_node6"><a xlink:href="classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" target="_top" xlink:title="x265::FrameEncoder\l::compressFrame">
-<polygon fill="white" stroke="red" points="708.5,-0 708.5,-30 815.5,-30 815.5,-0 708.5,-0"/>
+<polygon fill="white" stroke="black" points="708.5,-0 708.5,-30 815.5,-30 815.5,-0 708.5,-0"/>
 <text text-anchor="start" x="716.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">x265::FrameEncoder</text>
 <text text-anchor="middle" x="762" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">::compressFrame</text>
 </a>
@@ -130,6 +130,20 @@ var sectionId = 'dynsection-11';
 <g id="edge5" class="edge"><title>Node5&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M682.423,-15C691.155,-15 700.018,-15 708.491,-15"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="682.262,-11.5001 672.262,-15 682.262,-18.5001 682.262,-11.5001"/>
+</g>
+<!-- Node7 -->
+<g id="node7" class="node"><title>Node7</title>
+<g id="a_node7"><a xlink:href="classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" target="_top" xlink:title="x265::FrameEncoder\l::threadMain">
+<polygon fill="white" stroke="black" points="852.5,-0 852.5,-30 959.5,-30 959.5,-0 852.5,-0"/>
+<text text-anchor="start" x="860.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">x265::FrameEncoder</text>
+<text text-anchor="middle" x="906" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">::threadMain</text>
+</a>
+</g>
+</g>
+<!-- Node6&#45;&gt;Node7 -->
+<g id="edge6" class="edge"><title>Node6&#45;&gt;Node7</title>
+<path fill="none" stroke="midnightblue" d="M825.994,-15C834.704,-15 843.578,-15 852.08,-15"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="825.876,-11.5001 815.876,-15 825.876,-18.5001 825.876,-11.5001"/>
 </g>
 </g>
 </svg>

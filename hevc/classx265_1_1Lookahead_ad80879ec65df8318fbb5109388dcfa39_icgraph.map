@@ -2,8 +2,9 @@
 <area shape="rect" id="node2" href="$classx265_1_1Lookahead.html#a2f8c7057dd5c5086830b5f22b38105b0" title="x265::Lookahead::slicetype\lAnalyse" alt="" coords="267,49,448,90"/>
 <area shape="rect" id="node3" href="$classx265_1_1Lookahead.html#ad15172de7a432e47e8514fb157fafedd" title="x265::Lookahead::slicetype\lDecide" alt="" coords="496,49,677,90"/>
 <area shape="rect" id="node4" href="$classx265_1_1Lookahead.html#a878bca13580997ab9c01e72a8f8e81c3" title="x265::Lookahead::addPicture" alt="" coords="726,5,917,32"/>
-<area shape="rect" id="node7" href="$classx265_1_1Lookahead.html#a0294c952379ca6f328014f92aa51259c" title="x265::Lookahead::flush" alt="" coords="743,56,900,83"/>
-<area shape="rect" id="node8" href="$classx265_1_1Lookahead.html#a341d8c6a3a971583aa911cf8dedbe6a1" title="x265::Lookahead::findJob" alt="" coords="736,107,907,133"/>
+<area shape="rect" id="node8" href="$classx265_1_1Lookahead.html#a0294c952379ca6f328014f92aa51259c" title="x265::Lookahead::flush" alt="" coords="743,56,900,83"/>
+<area shape="rect" id="node9" href="$classx265_1_1Lookahead.html#a341d8c6a3a971583aa911cf8dedbe6a1" title="x265::Lookahead::findJob" alt="" coords="736,107,907,133"/>
 <area shape="rect" id="node5" href="$classx265_1_1Encoder.html#af5c80cef5fcafa00d1b3c105681bc784" title="x265::Encoder::encode" alt="" coords="966,31,1122,57"/>
 <area shape="rect" id="node6" href="$x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" title="x265_encoder_encode" alt="" coords="1171,31,1323,57"/>
+<area shape="rect" id="node7" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1371,31,1421,57"/>
 </map>

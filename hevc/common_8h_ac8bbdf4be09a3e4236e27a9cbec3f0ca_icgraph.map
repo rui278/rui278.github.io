@@ -4,7 +4,8 @@
 <area shape="rect" id="node5" href="$classx265_1_1RateControl.html#a707ab4308990444a40f1fb4c2d2f4f48" title="x265::RateControl::\lcheckAndResetABR" alt="" coords="366,57,509,98"/>
 <area shape="rect" id="node4" href="$x265_8h.html#add639f6af182534d265ef22d4bf91f90" title="x265_encoder_open" alt="" coords="557,5,696,32"/>
 <area shape="rect" id="node6" href="$classx265_1_1RateControl.html#a20bb1fccf54857b75ef70fcc61406bb7" title="x265::RateControl::\lrateEstimateQscale" alt="" coords="558,57,695,98"/>
-<area shape="rect" id="node9" href="$classx265_1_1RateControl.html#a26331c267938f5e6e49ad5b07e4ff013" title="x265::RateControl::\lrateControlEnd" alt="" coords="744,119,880,161"/>
+<area shape="rect" id="node10" href="$classx265_1_1RateControl.html#a26331c267938f5e6e49ad5b07e4ff013" title="x265::RateControl::\lrateControlEnd" alt="" coords="744,119,880,161"/>
 <area shape="rect" id="node7" href="$classx265_1_1RateControl.html#a6453a04a36d66b87ed8a23df88e75326" title="x265::RateControl::\lrateControlStart" alt="" coords="744,54,880,95"/>
 <area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="929,87,1071,129"/>
+<area shape="rect" id="node9" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="1121,87,1263,129"/>
 </map>

@@ -1,7 +1,7 @@
 <map id="x265::Lookahead::scenecut" name="x265::Lookahead::scenecut">
 <area shape="rect" id="node2" href="$classx265_1_1Lookahead.html#abe59d19601dc7f3cc76ba3dd315140ee" title="x265::Lookahead::scenecut\lInternal" alt="" coords="238,298,421,339"/>
 <area shape="rect" id="node3" href="$classx265_1_1CostEstimate.html#af33d06405527ebbb03d9c93d565e6e2a" title="x265::CostEstimate\l::estimateFrameCost" alt="" coords="470,269,615,310"/>
-<area shape="rect" id="node25" href="$common_8cpp.html#a746489f014374f963df715ddf9bd3986" title="x265_log" alt="" coords="505,335,580,361"/>
+<area shape="rect" id="node40" href="$common_8cpp.html#a746489f014374f963df715ddf9bd3986" title="x265_log" alt="" coords="505,335,580,361"/>
 <area shape="rect" id="node4" href="$classx265_1_1CostEstimate.html#a97a70c43a6dc0ede9d048a1dc8af59ed" title="x265::CostEstimate\l::weightsAnalyse" alt="" coords="681,57,820,98"/>
 <area shape="rect" id="node8" href="$classx265_1_1EstimateRow.html#abbf6cfd575ceb20105ae92c0ad2711e2" title="x265::EstimateRow::init" alt="" coords="669,123,832,149"/>
 <area shape="rect" id="node9" href="$classx265_1_1MotionEstimate.html#ac697505bf39a6a42796f76bcc971eba3" title="x265::MotionEstimate\l::setSourcePlane" alt="" coords="676,174,825,215"/>
@@ -19,8 +19,23 @@
 <area shape="rect" id="node17" href="$classx265_1_1ThreadPool.html#a360b412a2c2a49143e4611ff790d9462" title="x265::ThreadPool::dequeue\lJobProvider" alt="" coords="899,406,1080,447"/>
 <area shape="rect" id="node19" href="$classx265_1_1EstimateRow.html#ab4418a4e826e746d0b9cdce75a0736d9" title="x265::EstimateRow::\lestimateCUCost" alt="" coords="917,526,1062,567"/>
 <area shape="rect" id="node20" href="$classx265_1_1MotionEstimate.html#adb6e30a132d2c6216fbc68061f1ca488" title="x265::MotionEstimate\l::setSourcePU" alt="" coords="1161,462,1311,503"/>
-<area shape="rect" id="node21" href="$classx265_1_1MotionEstimate.html#a2fa2c8bf4129cf3352a828a0795bd139" title="x265::MotionEstimate\l::motionEstimate" alt="" coords="1161,527,1311,569"/>
-<area shape="rect" id="node22" href="$structx265_1_1ReferencePlanes.html#a194ef69a517d17a6f7b0741b084164ae" title="x265::ReferencePlanes\l::lowresMC" alt="" coords="1157,593,1315,634"/>
-<area shape="rect" id="node23" href="$namespacex265.html#ac6c8410818c1795fa1005c95bcba83a6" title="x265::partitionFromLog2Size" alt="" coords="1142,659,1330,685"/>
-<area shape="rect" id="node24" href="$search_8cpp.html#ae9b663e71d46be40d428dde255388fc0" title="ALIGN_VAR_32" alt="" coords="1177,411,1295,437"/>
+<area shape="rect" id="node22" href="$classx265_1_1MotionEstimate.html#a2fa2c8bf4129cf3352a828a0795bd139" title="x265::MotionEstimate\l::motionEstimate" alt="" coords="1161,527,1311,569"/>
+<area shape="rect" id="node31" href="$search_8cpp.html#ae9b663e71d46be40d428dde255388fc0" title="ALIGN_VAR_32" alt="" coords="1615,804,1734,831"/>
+<area shape="rect" id="node38" href="$structx265_1_1ReferencePlanes.html#a194ef69a517d17a6f7b0741b084164ae" title="x265::ReferencePlanes\l::lowresMC" alt="" coords="1157,885,1315,926"/>
+<area shape="rect" id="node39" href="$namespacex265.html#ac6c8410818c1795fa1005c95bcba83a6" title="x265::partitionFromLog2Size" alt="" coords="1142,411,1330,437"/>
+<area shape="rect" id="node21" href="$namespacex265.html#a93e053711da89baf3e987bf83cbd55a3" title="x265::partitionFromSizes" alt="" coords="1379,177,1546,204"/>
+<area shape="rect" id="node23" href="$classx265_1_1BitCost.html#af9e3546cdb4725839b70c8bc7d0f769f" title="x265::BitCost::setMVP" alt="" coords="1384,345,1541,372"/>
+<area shape="rect" id="node24" href="$structx265_1_1MV.html#a75cda809db25c298d3814d018ae48556" title="x265::MV::toQPel" alt="" coords="1399,396,1526,423"/>
+<area shape="rect" id="node25" href="$structx265_1_1MV.html#aab942064e803bea5dc44bd93c5049044" title="x265::MV::clipped" alt="" coords="1399,564,1526,591"/>
+<area shape="rect" id="node29" href="$structx265_1_1ReferencePlanes.html#ae68e9da3e5057a6525f319a01fd424dd" title="x265::ReferencePlanes\l::lowresQPelCost" alt="" coords="1383,498,1542,539"/>
+<area shape="rect" id="node30" href="$classx265_1_1MotionEstimate.html#a567395e03ad3eaf176bc2be0176b00de" title="x265::MotionEstimate\l::subpelCompare" alt="" coords="1388,767,1537,809"/>
+<area shape="rect" id="node32" href="$structx265_1_1MV.html#a86c0423fcfa253386479878911ba85df" title="x265::MV::roundToFPel" alt="" coords="1595,455,1755,481"/>
+<area shape="rect" id="node33" href="$structx265_1_1MV.html#af727b7e8ec45f84fb033435441cca8e2" title="x265::MV::isSubpel" alt="" coords="1395,615,1531,641"/>
+<area shape="rect" id="node34" href="$classx265_1_1BitCost.html#a1f6ec166b475924ab9879f671718fd18" title="x265::BitCost::mvcost" alt="" coords="1386,665,1539,692"/>
+<area shape="rect" id="node35" href="$structx265_1_1MV.html#ab8c700f2d598d52daeabba8950a4f100" title="x265::MV::notZero" alt="" coords="1397,716,1528,743"/>
+<area shape="rect" id="node36" href="$structx265_1_1MV.html#a01d2ebe3995b2b90306138965e342be0" title="x265::MV::checkRange" alt="" coords="1383,228,1542,255"/>
+<area shape="rect" id="node37" href="$classx265_1_1MotionEstimate.html#aa22e36e9370319fe452f886c94a68ba3" title="x265::MotionEstimate\l::StarPatternSearch" alt="" coords="1388,279,1537,321"/>
+<area shape="rect" id="node26" href="$structx265_1_1MV.html#ae2188abb6fce57e17c2b20d546eda720" title="x265::MV::mvmin" alt="" coords="1612,513,1737,540"/>
+<area shape="rect" id="node28" href="$structx265_1_1MV.html#a018ff75610ce4789aa617555d70384c3" title="x265::MV::mvmax" alt="" coords="1610,564,1739,591"/>
+<area shape="rect" id="node27" href="$structx265_1_1MV.html#ad6ea050b3dad242656dba0bf3f921d41" title="x265::MV::MV" alt="" coords="1803,513,1909,540"/>
 </map>

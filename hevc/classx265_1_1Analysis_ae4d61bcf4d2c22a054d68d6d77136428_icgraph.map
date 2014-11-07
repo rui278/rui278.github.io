@@ -1,8 +1,12 @@
 <map id="x265::Analysis::encodeIntraInInter" name="x265::Analysis::encodeIntraInInter">
 <area shape="rect" id="node2" href="$classx265_1_1Analysis.html#aa6122285d10bb1bd7584958b88b029d5" title="x265::Analysis::parallel\lModeAnalysis" alt="" coords="237,5,395,46"/>
 <area shape="rect" id="node4" href="$classx265_1_1Analysis.html#a87060ff27a37f56adc5f5b8a4c033ece" title="x265::Analysis::compress\lInterCU_dist" alt="" coords="664,63,837,105"/>
-<area shape="rect" id="node7" href="$classx265_1_1Analysis.html#a30d2ff7eca5addbb0a6b3dfe14f09650" title="x265::Analysis::compress\lInterCU_rd0_4" alt="" coords="443,122,616,163"/>
+<area shape="rect" id="node11" href="$classx265_1_1Analysis.html#a30d2ff7eca5addbb0a6b3dfe14f09650" title="x265::Analysis::compress\lInterCU_rd0_4" alt="" coords="443,122,616,163"/>
 <area shape="rect" id="node3" href="$classx265_1_1Analysis.html#a29a58dad4cc1c07d2f5e5717c6be7c25" title="x265::Analysis::findJob" alt="" coords="450,16,609,43"/>
 <area shape="rect" id="node5" href="$classx265_1_1Analysis.html#aaebc9de2ff98834c650244f3b58942c2" title="x265::Analysis::compressCTU" alt="" coords="886,100,1087,127"/>
 <area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="1137,93,1287,134"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#acad645a8ece97d884895f8f7366b7d70" title="x265::FrameEncoder\l::processRow" alt="" coords="1337,93,1479,134"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#ac4e9ce2e876c0cdb25c992c872fe4302" title="x265::FrameEncoder\l::compressCTURows" alt="" coords="1528,93,1677,134"/>
+<area shape="rect" id="node9" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="1726,93,1869,134"/>
+<area shape="rect" id="node10" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="1918,93,2061,134"/>
 </map>

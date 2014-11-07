@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 968;
+var viewWidth = 1042;
 var viewHeight = 104;
 var sectionId = 'dynsection-5';
 </script>
@@ -54,7 +54,7 @@ var sectionId = 'dynsection-5';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>x265::WaveFront::enableAllRows</title>
-<polygon fill="white" stroke="none" points="-4,4 -4,-100 964,-100 964,4 -4,4"/>
+<polygon fill="white" stroke="none" points="-4,4 -4,-100 1038,-100 1038,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
 <polygon fill="#bfbfbf" stroke="black" points="0.5,-38.5 0.5,-57.5 163.5,-57.5 163.5,-38.5 0.5,-38.5"/>
@@ -101,29 +101,29 @@ var sectionId = 'dynsection-5';
 <path fill="none" stroke="midnightblue" d="M486.279,-64.8771C504.434,-68.8419 523.16,-72.9315 539.243,-76.4438"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="486.789,-61.4061 476.273,-62.6918 485.296,-68.2449 486.789,-61.4061"/>
 </g>
-<!-- Node7 -->
-<g id="node7" class="node"><title>Node7</title>
-<g id="a_node7"><a xlink:href="classx265_1_1Lookahead.html#a0294c952379ca6f328014f92aa51259c" target="_top" xlink:title="x265::Lookahead::flush">
+<!-- Node8 -->
+<g id="node8" class="node"><title>Node8</title>
+<g id="a_node8"><a xlink:href="classx265_1_1Lookahead.html#a0294c952379ca6f328014f92aa51259c" target="_top" xlink:title="x265::Lookahead::flush">
 <polygon fill="white" stroke="black" points="525,-38.5 525,-57.5 643,-57.5 643,-38.5 525,-38.5"/>
 <text text-anchor="middle" x="584" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::Lookahead::flush</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node7 -->
-<g id="edge6" class="edge"><title>Node3&#45;&gt;Node7</title>
+<!-- Node3&#45;&gt;Node8 -->
+<g id="edge7" class="edge"><title>Node3&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M486.544,-48C499.454,-48 512.645,-48 524.962,-48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="486.273,-44.5001 476.273,-48 486.273,-51.5001 486.273,-44.5001"/>
 </g>
-<!-- Node8 -->
-<g id="node8" class="node"><title>Node8</title>
-<g id="a_node8"><a xlink:href="classx265_1_1Lookahead.html#a341d8c6a3a971583aa911cf8dedbe6a1" target="_top" xlink:title="x265::Lookahead::findJob">
+<!-- Node9 -->
+<g id="node9" class="node"><title>Node9</title>
+<g id="a_node9"><a xlink:href="classx265_1_1Lookahead.html#a341d8c6a3a971583aa911cf8dedbe6a1" target="_top" xlink:title="x265::Lookahead::findJob">
 <polygon fill="white" stroke="black" points="520,-0.5 520,-19.5 648,-19.5 648,-0.5 520,-0.5"/>
 <text text-anchor="middle" x="584" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::Lookahead::findJob</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node8 -->
-<g id="edge8" class="edge"><title>Node3&#45;&gt;Node8</title>
+<!-- Node3&#45;&gt;Node9 -->
+<g id="edge9" class="edge"><title>Node3&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M486.279,-31.1229C504.434,-27.1581 523.16,-23.0685 539.243,-19.5562"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="485.296,-27.7551 476.273,-33.3082 486.789,-34.5939 485.296,-27.7551"/>
 </g>
@@ -143,7 +143,7 @@ var sectionId = 'dynsection-5';
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
 <g id="a_node6"><a xlink:href="x265_8h.html#a7a45a920b9d86ed3fb3cb3794b14f5ea" target="_top" xlink:title="x265_encoder_encode">
-<polygon fill="white" stroke="red" points="846,-57.5 846,-76.5 960,-76.5 960,-57.5 846,-57.5"/>
+<polygon fill="white" stroke="black" points="846,-57.5 846,-76.5 960,-76.5 960,-57.5 846,-57.5"/>
 <text text-anchor="middle" x="903" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265_encoder_encode</text>
 </a>
 </g>
@@ -153,8 +153,21 @@ var sectionId = 'dynsection-5';
 <path fill="none" stroke="midnightblue" d="M819.721,-67C828.45,-67 837.311,-67 845.826,-67"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="819.565,-63.5001 809.565,-67 819.565,-70.5001 819.565,-63.5001"/>
 </g>
-<!-- Node7&#45;&gt;Node5 -->
-<g id="edge7" class="edge"><title>Node7&#45;&gt;Node5</title>
+<!-- Node7 -->
+<g id="node7" class="node"><title>Node7</title>
+<g id="a_node7"><a xlink:href="x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" target="_top" xlink:title="main">
+<polygon fill="white" stroke="black" points="996,-57.5 996,-76.5 1034,-76.5 1034,-57.5 996,-57.5"/>
+<text text-anchor="middle" x="1015" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00">main</text>
+</a>
+</g>
+</g>
+<!-- Node6&#45;&gt;Node7 -->
+<g id="edge6" class="edge"><title>Node6&#45;&gt;Node7</title>
+<path fill="none" stroke="midnightblue" d="M970.493,-67C979.781,-67 988.611,-67 995.859,-67"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="970.289,-63.5001 960.289,-67 970.289,-70.5001 970.289,-63.5001"/>
+</g>
+<!-- Node8&#45;&gt;Node5 -->
+<g id="edge8" class="edge"><title>Node8&#45;&gt;Node5</title>
 <path fill="none" stroke="midnightblue" d="M653.424,-55.8792C666.366,-57.3694 679.784,-58.9145 692.353,-60.3618"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="653.508,-52.3657 643.173,-54.6987 652.707,-59.3198 653.508,-52.3657"/>
 </g>

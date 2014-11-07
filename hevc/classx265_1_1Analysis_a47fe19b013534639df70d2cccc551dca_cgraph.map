@@ -6,9 +6,9 @@
 <area shape="rect" id="node22" href="$classx265_1_1CUData.html#a3278b824ce09f53bc001074896077975" title="x265::CUData::getIntraDir\lLumaPredictor" alt="" coords="998,370,1173,411"/>
 <area shape="rect" id="node23" href="$classx265_1_1Search.html#ad327d1f90617a0d272692bb98c660172" title="x265::Search::getIntraRem\lModeBits" alt="" coords="248,493,427,534"/>
 <area shape="rect" id="node24" href="$classx265_1_1Search.html#a74bb6c5a121190c14d380a7d26cf9271" title="x265::Search::getIntraModeBits" alt="" coords="491,517,698,544"/>
-<area shape="rect" id="node35" href="$classx265_1_1RDCost.html#ad745ab3367aaec7b344067bf4f1d7dfe" title="x265::RDCost::calcRdSADCost" alt="" coords="232,609,443,636"/>
-<area shape="rect" id="node36" href="$classx265_1_1CUData.html#a22d1792f540f7eafa31fdf1820055d9a" title="x265::CUData::setLumaIntra\lDirSubParts" alt="" coords="242,661,433,702"/>
-<area shape="rect" id="node37" href="$structx265_1_1Search_1_1Mode.html#a7b80e0a3f41988eae394f0ea50e13a75" title="x265::Search::Mode\l::initCosts" alt="" coords="268,726,407,767"/>
+<area shape="rect" id="node36" href="$classx265_1_1RDCost.html#ad745ab3367aaec7b344067bf4f1d7dfe" title="x265::RDCost::calcRdSADCost" alt="" coords="232,609,443,636"/>
+<area shape="rect" id="node37" href="$classx265_1_1CUData.html#a22d1792f540f7eafa31fdf1820055d9a" title="x265::CUData::setLumaIntra\lDirSubParts" alt="" coords="242,661,433,702"/>
+<area shape="rect" id="node38" href="$structx265_1_1Search_1_1Mode.html#a7b80e0a3f41988eae394f0ea50e13a75" title="x265::Search::Mode\l::initCosts" alt="" coords="268,726,407,767"/>
 <area shape="rect" id="node5" href="$classx265_1_1Predict.html#a5cde667623af60ade240748e9818575d" title="x265::Predict::initIntra\lNeighbors" alt="" coords="765,194,915,235"/>
 <area shape="rect" id="node19" href="$classx265_1_1PicYuv.html#a2dd14d73d6720c2eca7300308d510336" title="x265::PicYuv::getLumaAddr" alt="" coords="747,264,933,291"/>
 <area shape="rect" id="node20" href="$classx265_1_1Predict.html#acb0b2179911cb1b7fe928f15bf4009fb" title="x265::Predict::fillReference\lSamples" alt="" coords="750,315,930,357"/>
@@ -28,11 +28,12 @@
 <area shape="rect" id="node25" href="$classx265_1_1Entropy.html#a5cc0bb0a25fc10237124e2130dca5311" title="x265::Entropy::loadIntra\lDirModeLuma" alt="" coords="759,527,921,569"/>
 <area shape="rect" id="node28" href="$classx265_1_1Entropy.html#abfcde0e06b9eacfac4bfe0784eb7c967" title="x265::Entropy::resetBits" alt="" coords="759,593,921,620"/>
 <area shape="rect" id="node30" href="$classx265_1_1Entropy.html#ab66ece727fbc0d4d8afe02a42466dae2" title="x265::Entropy::codeIntra\lDirLumaAng" alt="" coords="757,459,923,501"/>
-<area shape="rect" id="node34" href="$classx265_1_1Entropy.html#a9078f8e04c0b7a1a2840299c30458e97" title="x265::Entropy::getNumber\lOfWrittenBits" alt="" coords="753,645,927,686"/>
+<area shape="rect" id="node35" href="$classx265_1_1Entropy.html#a9078f8e04c0b7a1a2840299c30458e97" title="x265::Entropy::getNumber\lOfWrittenBits" alt="" coords="753,645,927,686"/>
 <area shape="rect" id="node26" href="$classx265_1_1Entropy.html#aec97e584e9e0da270532ef3d29d13b3d" title="x265::Entropy::copyState" alt="" coords="1000,537,1171,564"/>
 <area shape="rect" id="node27" href="$classx265_1_1Entropy.html#a4a2ed9d9dc4b2a31aed493c4a8d8b58b" title="x265::Entropy::markValid" alt="" coords="1001,588,1170,615"/>
 <area shape="rect" id="node29" href="$classx265_1_1BitInterface.html#acce17e1c0f79b9ebb54423eafa1cc782" title="x265::BitInterface\l::resetBits" alt="" coords="1023,639,1148,681"/>
 <area shape="rect" id="node31" href="$classx265_1_1Entropy.html#ad5bd127b6afa68ee4408890c75fdd4bd" title="x265::Entropy::encodeBin" alt="" coords="999,436,1171,463"/>
-<area shape="rect" id="node33" href="$classx265_1_1Entropy.html#ac9e06099bfcb9f576565d6d5a0e3205f" title="x265::Entropy::encodeBinsEP" alt="" coords="987,487,1184,513"/>
+<area shape="rect" id="node34" href="$classx265_1_1Entropy.html#ac9e06099bfcb9f576565d6d5a0e3205f" title="x265::Entropy::encodeBinsEP" alt="" coords="987,487,1184,513"/>
 <area shape="rect" id="node32" href="$classx265_1_1Entropy.html#a38c906d03fe47f10456a3d5bc0cd2080" title="x265::Entropy::writeOut" alt="" coords="1263,461,1423,488"/>
+<area shape="rect" id="node33" href="$classx265_1_1BitInterface.html#a0ab2614d14b086091eefc0ed19f3be6d" title="x265::BitInterface\l::writeByte" alt="" coords="1532,454,1657,495"/>
 </map>

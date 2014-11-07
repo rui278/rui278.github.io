@@ -1,18 +1,19 @@
 <map id="source/encoder/sao.h" name="source/encoder/sao.h">
-<area shape="rect" id="node2" href="$common_8h.html" title="common.h" alt="" coords="765,528,847,555"/>
+<area shape="rect" id="node2" href="$common_8h.html" title="common.h" alt="" coords="791,603,872,629"/>
 <area shape="rect" id="node21" href="$frame_8h.html" title="frame.h" alt="" coords="695,155,761,181"/>
-<area shape="rect" id="node33" href="$entropy_8h.html" title="entropy.h" alt="" coords="531,80,607,107"/>
-<area shape="rect" id="node13" href="$stdint_8h.html" title="stdint.h" alt="" coords="602,677,667,704"/>
-<area shape="rect" id="node18" href="$x265_8h.html" title="x265.h" alt="" coords="177,603,239,629"/>
-<area shape="rect" id="node20" href="$constants_8h.html" title="constants.h" alt="" coords="1189,603,1280,629"/>
-<area shape="rect" id="node19" href="$x265__config_8h.html" title="x265_config.h" alt="" coords="157,677,259,704"/>
+<area shape="rect" id="node34" href="$entropy_8h.html" title="entropy.h" alt="" coords="531,80,607,107"/>
+<area shape="rect" id="node13" href="$stdint_8h.html" title="stdint.h" alt="" coords="627,752,692,779"/>
+<area shape="rect" id="node18" href="$x265_8h.html" title="x265.h" alt="" coords="203,677,264,704"/>
+<area shape="rect" id="node20" href="$constants_8h.html" title="constants.h" alt="" coords="1215,677,1305,704"/>
+<area shape="rect" id="node19" href="$x265__config_8h.html" title="x265_config.h" alt="" coords="182,752,284,779"/>
 <area shape="rect" id="node22" href="$framedata_8h.html" title="framedata.h" alt="" coords="683,229,773,256"/>
-<area shape="rect" id="node27" href="$lowres_8h.html" title="lowres.h" alt="" coords="911,304,981,331"/>
-<area shape="rect" id="node28" href="$threading_8h.html" title="threading.h" alt="" coords="257,453,343,480"/>
+<area shape="rect" id="node28" href="$lowres_8h.html" title="lowres.h" alt="" coords="911,304,981,331"/>
+<area shape="rect" id="node29" href="$threading_8h.html" title="threading.h" alt="" coords="257,528,343,555"/>
 <area shape="rect" id="node23" href="$slice_8h.html" title="slice.h" alt="" coords="683,379,743,405"/>
 <area shape="rect" id="node24" href="$cudata_8h.html" title="cudata.h" alt="" coords="733,304,805,331"/>
 <area shape="rect" id="node25" href="$mv_8h.html" title="mv.h" alt="" coords="875,379,925,405"/>
 <area shape="rect" id="node26" href="$primitives_8h.html" title="primitives.h" alt="" coords="921,453,1009,480"/>
-<area shape="rect" id="node34" href="$bitstream_8h.html" title="bitstream.h" alt="" coords="419,155,505,181"/>
-<area shape="rect" id="node35" href="$contexts_8h.html" title="contexts.h" alt="" coords="464,229,545,256"/>
+<area shape="rect" id="node27" href="$cpu_8h.html" title="cpu.h" alt="" coords="971,528,1025,555"/>
+<area shape="rect" id="node35" href="$bitstream_8h.html" title="bitstream.h" alt="" coords="419,155,505,181"/>
+<area shape="rect" id="node36" href="$contexts_8h.html" title="contexts.h" alt="" coords="464,229,545,256"/>
 </map>

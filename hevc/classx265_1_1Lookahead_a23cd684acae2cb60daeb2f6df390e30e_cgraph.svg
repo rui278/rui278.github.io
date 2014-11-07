@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 1114;
+var viewWidth = 1260;
 var viewHeight = 698;
 var sectionId = 'dynsection-33';
 </script>
@@ -54,7 +54,7 @@ var sectionId = 'dynsection-33';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>x265::Lookahead::slicetypePathCost</title>
-<polygon fill="white" stroke="none" points="-4,4 -4,-694 1110,-694 1110,4 -4,4"/>
+<polygon fill="white" stroke="none" points="-4,4 -4,-694 1256,-694 1256,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
 <polygon fill="#bfbfbf" stroke="black" points="0,-462 0,-492 136,-492 136,-462 0,-462"/>
@@ -291,7 +291,7 @@ var sectionId = 'dynsection-33';
 <polygon fill="midnightblue" stroke="midnightblue" points="484.694,-393.527 493.766,-388.054 483.262,-386.675 484.694,-393.527"/>
 </g>
 <!-- Node17&#45;&gt;Node12 -->
-<g id="edge38" class="edge"><title>Node17&#45;&gt;Node12</title>
+<g id="edge43" class="edge"><title>Node17&#45;&gt;Node12</title>
 <path fill="none" stroke="midnightblue" d="M435.196,-325.025C447.4,-325.507 460.762,-326.036 474.077,-326.562"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="474.099,-330.066 484.23,-326.964 474.376,-323.071 474.099,-330.066"/>
 </g>
@@ -337,43 +337,43 @@ var sectionId = 'dynsection-33';
 <path fill="none" stroke="midnightblue" d="M616.916,-283.705C636.94,-283.596 659.87,-283.471 680.795,-283.356"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="680.904,-286.856 690.885,-283.301 680.866,-279.856 680.904,-286.856"/>
 </g>
-<!-- Node27 -->
-<g id="node27" class="node"><title>Node27</title>
-<g id="a_node27"><a xlink:href="search_8cpp.html#ae9b663e71d46be40d428dde255388fc0" target="_top" xlink:title="ALIGN_VAR_32">
-<polygon fill="white" stroke="black" points="1016.5,-71.5 1016.5,-90.5 1105.5,-90.5 1105.5,-71.5 1016.5,-71.5"/>
-<text text-anchor="middle" x="1061" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">ALIGN_VAR_32</text>
+<!-- Node30 -->
+<g id="node30" class="node"><title>Node30</title>
+<g id="a_node30"><a xlink:href="search_8cpp.html#ae9b663e71d46be40d428dde255388fc0" target="_top" xlink:title="ALIGN_VAR_32">
+<polygon fill="white" stroke="black" points="1031.5,-71.5 1031.5,-90.5 1120.5,-90.5 1120.5,-71.5 1031.5,-71.5"/>
+<text text-anchor="middle" x="1076" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">ALIGN_VAR_32</text>
 </a>
 </g>
 </g>
-<!-- Node18&#45;&gt;Node27 -->
-<g id="edge37" class="edge"><title>Node18&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M577.197,-268.813C616.441,-228.093 731.605,-116.937 854,-78 903.751,-62.1726 963.739,-65.3693 1006.12,-71.0414"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1005.83,-74.5359 1016.22,-72.4857 1006.82,-67.6063 1005.83,-74.5359"/>
+<!-- Node18&#45;&gt;Node30 -->
+<g id="edge42" class="edge"><title>Node18&#45;&gt;Node30</title>
+<path fill="none" stroke="midnightblue" d="M577.197,-268.813C616.441,-228.093 731.605,-116.937 854,-78 909.072,-60.4801 975.836,-64.6131 1021.47,-70.9854"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1021.05,-74.4603 1031.45,-72.4612 1022.07,-67.5356 1021.05,-74.4603"/>
 </g>
-<!-- Node34 -->
-<g id="node34" class="node"><title>Node34</title>
-<g id="a_node34"><a xlink:href="structx265_1_1ReferencePlanes.html#a194ef69a517d17a6f7b0741b084164ae" target="_top" xlink:title="x265::ReferencePlanes\l::lowresMC">
+<!-- Node37 -->
+<g id="node37" class="node"><title>Node37</title>
+<g id="a_node37"><a xlink:href="structx265_1_1ReferencePlanes.html#a194ef69a517d17a6f7b0741b084164ae" target="_top" xlink:title="x265::ReferencePlanes\l::lowresMC">
 <polygon fill="white" stroke="black" points="687.5,-0 687.5,-30 806.5,-30 806.5,-0 687.5,-0"/>
 <text text-anchor="start" x="695.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">x265::ReferencePlanes</text>
 <text text-anchor="middle" x="747" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">::lowresMC</text>
 </a>
 </g>
 </g>
-<!-- Node18&#45;&gt;Node34 -->
-<g id="edge35" class="edge"><title>Node18&#45;&gt;Node34</title>
+<!-- Node18&#45;&gt;Node37 -->
+<g id="edge40" class="edge"><title>Node18&#45;&gt;Node37</title>
 <path fill="none" stroke="midnightblue" d="M566.179,-268.931C575.627,-227.622 607.266,-111.252 676,-45 679.927,-41.215 684.406,-37.8708 689.157,-34.9237"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="690.903,-37.9573 697.942,-30.0383 687.501,-31.8396 690.903,-37.9573"/>
 </g>
-<!-- Node35 -->
-<g id="node35" class="node"><title>Node35</title>
-<g id="a_node35"><a xlink:href="namespacex265.html#ac6c8410818c1795fa1005c95bcba83a6" target="_top" xlink:title="x265::partitionFromLog2Size">
+<!-- Node38 -->
+<g id="node38" class="node"><title>Node38</title>
+<g id="a_node38"><a xlink:href="namespacex265.html#ac6c8410818c1795fa1005c95bcba83a6" target="_top" xlink:title="x265::partitionFromLog2Size">
 <polygon fill="white" stroke="black" points="676.5,-366.5 676.5,-385.5 817.5,-385.5 817.5,-366.5 676.5,-366.5"/>
 <text text-anchor="middle" x="747" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::partitionFromLog2Size</text>
 </a>
 </g>
 </g>
-<!-- Node18&#45;&gt;Node35 -->
-<g id="edge36" class="edge"><title>Node18&#45;&gt;Node35</title>
+<!-- Node18&#45;&gt;Node38 -->
+<g id="edge41" class="edge"><title>Node18&#45;&gt;Node38</title>
 <path fill="none" stroke="midnightblue" d="M616.697,-298.433C624.888,-301.854 632.95,-306.003 640,-311 660.895,-325.812 654.677,-341.81 676,-356 679.772,-358.51 683.859,-360.709 688.101,-362.635"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="686.984,-365.958 697.568,-366.431 689.589,-359.461 686.984,-365.958"/>
 </g>
@@ -413,133 +413,182 @@ var sectionId = 'dynsection-33';
 </g>
 <!-- Node21&#45;&gt;Node23 -->
 <g id="edge24" class="edge"><title>Node21&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M803.14,-297.591C808.451,-300.237 813.519,-303.347 818,-307 842.4,-326.892 829.276,-348.513 854,-368 856.321,-369.829 858.818,-371.483 861.43,-372.979"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="860.145,-376.246 870.669,-377.476 863.209,-369.952 860.145,-376.246"/>
+<path fill="none" stroke="midnightblue" d="M803.355,-297.942C808.564,-300.515 813.551,-303.512 818,-307 841.286,-325.255 831.075,-344.294 854,-363 858.988,-367.07 864.747,-370.506 870.702,-373.391"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="869.574,-376.717 880.141,-377.483 872.358,-370.294 869.574,-376.717"/>
 </g>
 <!-- Node24 -->
 <g id="node24" class="node"><title>Node24</title>
 <g id="a_node24"><a xlink:href="structx265_1_1MV.html#aab942064e803bea5dc44bd93c5049044" target="_top" xlink:title="x265::MV::clipped">
-<polygon fill="white" stroke="red" points="869.5,-339.5 869.5,-358.5 964.5,-358.5 964.5,-339.5 869.5,-339.5"/>
-<text text-anchor="middle" x="917" y="-346.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MV::clipped</text>
+<polygon fill="white" stroke="black" points="869.5,-251.5 869.5,-270.5 964.5,-270.5 964.5,-251.5 869.5,-251.5"/>
+<text text-anchor="middle" x="917" y="-258.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MV::clipped</text>
 </a>
 </g>
 </g>
 <!-- Node21&#45;&gt;Node24 -->
 <g id="edge25" class="edge"><title>Node21&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M796.373,-298.035C803.724,-300.762 811.14,-303.775 818,-307 834.97,-314.977 836.958,-321.178 854,-329 859.666,-331.601 865.767,-334.009 871.853,-336.187"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="870.744,-339.506 881.338,-339.414 872.999,-332.879 870.744,-339.506"/>
+<path fill="none" stroke="midnightblue" d="M803.009,-275.796C821.012,-273.439 841.04,-270.816 859.174,-268.442"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="859.853,-271.883 869.314,-267.114 858.944,-264.942 859.853,-271.883"/>
 </g>
-<!-- Node25 -->
-<g id="node25" class="node"><title>Node25</title>
-<g id="a_node25"><a xlink:href="structx265_1_1ReferencePlanes.html#ae68e9da3e5057a6525f319a01fd424dd" target="_top" xlink:title="x265::ReferencePlanes\l::lowresQPelCost">
+<!-- Node28 -->
+<g id="node28" class="node"><title>Node28</title>
+<g id="a_node28"><a xlink:href="structx265_1_1ReferencePlanes.html#ae68e9da3e5057a6525f319a01fd424dd" target="_top" xlink:title="x265::ReferencePlanes\l::lowresQPelCost">
 <polygon fill="white" stroke="black" points="857.5,-290 857.5,-320 976.5,-320 976.5,-290 857.5,-290"/>
 <text text-anchor="start" x="865.5" y="-308" font-family="Helvetica,sans-Serif" font-size="10.00">x265::ReferencePlanes</text>
 <text text-anchor="middle" x="917" y="-297" font-family="Helvetica,sans-Serif" font-size="10.00">::lowresQPelCost</text>
 </a>
 </g>
 </g>
-<!-- Node21&#45;&gt;Node25 -->
-<g id="edge26" class="edge"><title>Node21&#45;&gt;Node25</title>
+<!-- Node21&#45;&gt;Node28 -->
+<g id="edge30" class="edge"><title>Node21&#45;&gt;Node28</title>
 <path fill="none" stroke="midnightblue" d="M803.009,-290.204C817.16,-292.057 832.562,-294.074 847.313,-296.005"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="847.027,-299.498 857.397,-297.326 847.936,-292.557 847.027,-299.498"/>
 </g>
-<!-- Node26 -->
-<g id="node26" class="node"><title>Node26</title>
-<g id="a_node26"><a xlink:href="classx265_1_1MotionEstimate.html#a567395e03ad3eaf176bc2be0176b00de" target="_top" xlink:title="x265::MotionEstimate\l::subpelCompare">
+<!-- Node29 -->
+<g id="node29" class="node"><title>Node29</title>
+<g id="a_node29"><a xlink:href="classx265_1_1MotionEstimate.html#a567395e03ad3eaf176bc2be0176b00de" target="_top" xlink:title="x265::MotionEstimate\l::subpelCompare">
 <polygon fill="white" stroke="black" points="861,-88 861,-118 973,-118 973,-88 861,-88"/>
 <text text-anchor="start" x="869" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MotionEstimate</text>
 <text text-anchor="middle" x="917" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">::subpelCompare</text>
 </a>
 </g>
 </g>
-<!-- Node21&#45;&gt;Node26 -->
-<g id="edge27" class="edge"><title>Node21&#45;&gt;Node26</title>
+<!-- Node21&#45;&gt;Node29 -->
+<g id="edge31" class="edge"><title>Node21&#45;&gt;Node29</title>
 <path fill="none" stroke="midnightblue" d="M754.748,-267.577C768.886,-236.915 804.454,-167.831 854,-128 856.058,-126.346 858.24,-124.788 860.507,-123.323"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="862.655,-126.126 869.596,-118.121 859.178,-120.051 862.655,-126.126"/>
 </g>
-<!-- Node28 -->
-<g id="node28" class="node"><title>Node28</title>
-<g id="a_node28"><a xlink:href="structx265_1_1MV.html#a86c0423fcfa253386479878911ba85df" target="_top" xlink:title="x265::MV::roundToFPel">
-<polygon fill="white" stroke="red" points="857,-251.5 857,-270.5 977,-270.5 977,-251.5 857,-251.5"/>
-<text text-anchor="middle" x="917" y="-258.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MV::roundToFPel</text>
+<!-- Node31 -->
+<g id="node31" class="node"><title>Node31</title>
+<g id="a_node31"><a xlink:href="structx265_1_1MV.html#a86c0423fcfa253386479878911ba85df" target="_top" xlink:title="x265::MV::roundToFPel">
+<polygon fill="white" stroke="black" points="1016,-333.5 1016,-352.5 1136,-352.5 1136,-333.5 1016,-333.5"/>
+<text text-anchor="middle" x="1076" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MV::roundToFPel</text>
 </a>
 </g>
 </g>
-<!-- Node21&#45;&gt;Node28 -->
-<g id="edge29" class="edge"><title>Node21&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M803.009,-275.796C817.005,-273.964 832.224,-271.971 846.826,-270.058"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="847.353,-273.519 856.814,-268.751 846.444,-266.579 847.353,-273.519"/>
+<!-- Node21&#45;&gt;Node31 -->
+<g id="edge33" class="edge"><title>Node21&#45;&gt;Node31</title>
+<path fill="none" stroke="midnightblue" d="M796.373,-298.035C803.724,-300.762 811.14,-303.775 818,-307 834.97,-314.977 836.119,-323.353 854,-329 903.146,-344.521 961.423,-347.626 1005.79,-347.062"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1005.96,-350.559 1015.9,-346.867 1005.83,-343.56 1005.96,-350.559"/>
 </g>
-<!-- Node29 -->
-<g id="node29" class="node"><title>Node29</title>
-<g id="a_node29"><a xlink:href="structx265_1_1MV.html#af727b7e8ec45f84fb033435441cca8e2" target="_top" xlink:title="x265::MV::isSubpel">
+<!-- Node32 -->
+<g id="node32" class="node"><title>Node32</title>
+<g id="a_node32"><a xlink:href="structx265_1_1MV.html#af727b7e8ec45f84fb033435441cca8e2" target="_top" xlink:title="x265::MV::isSubpel">
 <polygon fill="white" stroke="black" points="866,-213.5 866,-232.5 968,-232.5 968,-213.5 866,-213.5"/>
 <text text-anchor="middle" x="917" y="-220.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MV::isSubpel</text>
 </a>
 </g>
 </g>
-<!-- Node21&#45;&gt;Node29 -->
-<g id="edge30" class="edge"><title>Node21&#45;&gt;Node29</title>
+<!-- Node21&#45;&gt;Node32 -->
+<g id="edge35" class="edge"><title>Node21&#45;&gt;Node32</title>
 <path fill="none" stroke="midnightblue" d="M785.042,-267.922C805.287,-259.872 830.879,-250.003 854,-242 860.362,-239.798 867.134,-237.588 873.778,-235.494"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="874.844,-238.828 883.358,-232.524 872.77,-232.142 874.844,-238.828"/>
 </g>
-<!-- Node30 -->
-<g id="node30" class="node"><title>Node30</title>
-<g id="a_node30"><a xlink:href="classx265_1_1BitCost.html#a1f6ec166b475924ab9879f671718fd18" target="_top" xlink:title="x265::BitCost::mvcost">
+<!-- Node33 -->
+<g id="node33" class="node"><title>Node33</title>
+<g id="a_node33"><a xlink:href="classx265_1_1BitCost.html#a1f6ec166b475924ab9879f671718fd18" target="_top" xlink:title="x265::BitCost::mvcost">
 <polygon fill="white" stroke="black" points="859.5,-175.5 859.5,-194.5 974.5,-194.5 974.5,-175.5 859.5,-175.5"/>
 <text text-anchor="middle" x="917" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::BitCost::mvcost</text>
 </a>
 </g>
 </g>
-<!-- Node21&#45;&gt;Node30 -->
-<g id="edge31" class="edge"><title>Node21&#45;&gt;Node30</title>
+<!-- Node21&#45;&gt;Node33 -->
+<g id="edge36" class="edge"><title>Node21&#45;&gt;Node33</title>
 <path fill="none" stroke="midnightblue" d="M764.417,-267.903C784.287,-250.343 819.399,-221.529 854,-204 858.353,-201.795 863.009,-199.792 867.741,-197.985"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="869.219,-201.176 877.488,-194.553 866.893,-194.573 869.219,-201.176"/>
 </g>
-<!-- Node31 -->
-<g id="node31" class="node"><title>Node31</title>
-<g id="a_node31"><a xlink:href="structx265_1_1MV.html#ab8c700f2d598d52daeabba8950a4f100" target="_top" xlink:title="x265::MV::notZero">
+<!-- Node34 -->
+<g id="node34" class="node"><title>Node34</title>
+<g id="a_node34"><a xlink:href="structx265_1_1MV.html#ab8c700f2d598d52daeabba8950a4f100" target="_top" xlink:title="x265::MV::notZero">
 <polygon fill="white" stroke="black" points="868,-137.5 868,-156.5 966,-156.5 966,-137.5 868,-137.5"/>
 <text text-anchor="middle" x="917" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MV::notZero</text>
 </a>
 </g>
 </g>
-<!-- Node21&#45;&gt;Node31 -->
-<g id="edge32" class="edge"><title>Node21&#45;&gt;Node31</title>
+<!-- Node21&#45;&gt;Node34 -->
+<g id="edge37" class="edge"><title>Node21&#45;&gt;Node34</title>
 <path fill="none" stroke="midnightblue" d="M757.79,-267.673C774.511,-242.715 810.97,-193.34 854,-166 857.326,-163.887 860.901,-161.996 864.595,-160.307"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="866,-163.515 873.95,-156.511 863.368,-157.028 866,-163.515"/>
 </g>
-<!-- Node32 -->
-<g id="node32" class="node"><title>Node32</title>
-<g id="a_node32"><a xlink:href="structx265_1_1MV.html#a01d2ebe3995b2b90306138965e342be0" target="_top" xlink:title="x265::MV::checkRange">
+<!-- Node35 -->
+<g id="node35" class="node"><title>Node35</title>
+<g id="a_node35"><a xlink:href="structx265_1_1MV.html#a01d2ebe3995b2b90306138965e342be0" target="_top" xlink:title="x265::MV::checkRange">
 <polygon fill="white" stroke="black" points="857.5,-503.5 857.5,-522.5 976.5,-522.5 976.5,-503.5 857.5,-503.5"/>
 <text text-anchor="middle" x="917" y="-510.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MV::checkRange</text>
 </a>
 </g>
 </g>
-<!-- Node21&#45;&gt;Node32 -->
-<g id="edge33" class="edge"><title>Node21&#45;&gt;Node32</title>
+<!-- Node21&#45;&gt;Node35 -->
+<g id="edge38" class="edge"><title>Node21&#45;&gt;Node35</title>
 <path fill="none" stroke="midnightblue" d="M803.185,-295.382C808.755,-298.439 813.869,-302.25 818,-307 873.257,-370.533 798.165,-429.974 854,-493 855.554,-494.754 857.262,-496.355 859.09,-497.817"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="857.452,-500.923 867.76,-503.371 861.228,-495.029 857.452,-500.923"/>
 </g>
-<!-- Node33 -->
-<g id="node33" class="node"><title>Node33</title>
-<g id="a_node33"><a xlink:href="classx265_1_1MotionEstimate.html#aa22e36e9370319fe452f886c94a68ba3" target="_top" xlink:title="x265::MotionEstimate\l::StarPatternSearch">
+<!-- Node36 -->
+<g id="node36" class="node"><title>Node36</title>
+<g id="a_node36"><a xlink:href="classx265_1_1MotionEstimate.html#aa22e36e9370319fe452f886c94a68ba3" target="_top" xlink:title="x265::MotionEstimate\l::StarPatternSearch">
 <polygon fill="white" stroke="black" points="861,-454 861,-484 973,-484 973,-454 861,-454"/>
 <text text-anchor="start" x="869" y="-472" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MotionEstimate</text>
 <text text-anchor="middle" x="917" y="-461" font-family="Helvetica,sans-Serif" font-size="10.00">::StarPatternSearch</text>
 </a>
 </g>
 </g>
-<!-- Node21&#45;&gt;Node33 -->
-<g id="edge34" class="edge"><title>Node21&#45;&gt;Node33</title>
+<!-- Node21&#45;&gt;Node36 -->
+<g id="edge39" class="edge"><title>Node21&#45;&gt;Node36</title>
 <path fill="none" stroke="midnightblue" d="M803.227,-295.839C808.718,-298.815 813.802,-302.483 818,-307 860.855,-353.119 812.382,-396.762 854,-444 855.16,-445.317 856.4,-446.566 857.706,-447.75"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="855.715,-450.632 865.81,-453.845 859.922,-445.037 855.715,-450.632"/>
 </g>
-<!-- Node26&#45;&gt;Node27 -->
-<g id="edge28" class="edge"><title>Node26&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M973.308,-94.4312C984.166,-92.7489 995.54,-90.9868 1006.34,-89.313"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1007.14,-92.7307 1016.49,-87.7409 1006.07,-85.8132 1007.14,-92.7307"/>
+<!-- Node25 -->
+<g id="node25" class="node"><title>Node25</title>
+<g id="a_node25"><a xlink:href="structx265_1_1MV.html#ae2188abb6fce57e17c2b20d546eda720" target="_top" xlink:title="x265::MV::mvmin">
+<polygon fill="white" stroke="black" points="1029,-289.5 1029,-308.5 1123,-308.5 1123,-289.5 1029,-289.5"/>
+<text text-anchor="middle" x="1076" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MV::mvmin</text>
+</a>
+</g>
+</g>
+<!-- Node24&#45;&gt;Node25 -->
+<g id="edge26" class="edge"><title>Node24&#45;&gt;Node25</title>
+<path fill="none" stroke="midnightblue" d="M957.618,-270.589C978.336,-275.604 1003.89,-281.788 1025.86,-287.105"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1025.12,-290.529 1035.67,-289.48 1026.77,-283.726 1025.12,-290.529"/>
+</g>
+<!-- Node27 -->
+<g id="node27" class="node"><title>Node27</title>
+<g id="a_node27"><a xlink:href="structx265_1_1MV.html#a018ff75610ce4789aa617555d70384c3" target="_top" xlink:title="x265::MV::mvmax">
+<polygon fill="white" stroke="black" points="1027.5,-251.5 1027.5,-270.5 1124.5,-270.5 1124.5,-251.5 1027.5,-251.5"/>
+<text text-anchor="middle" x="1076" y="-258.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MV::mvmax</text>
+</a>
+</g>
+</g>
+<!-- Node24&#45;&gt;Node27 -->
+<g id="edge28" class="edge"><title>Node24&#45;&gt;Node27</title>
+<path fill="none" stroke="midnightblue" d="M964.68,-261C981.228,-261 1000.05,-261 1017.4,-261"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1017.41,-264.5 1027.41,-261 1017.41,-257.5 1017.41,-264.5"/>
+</g>
+<!-- Node26 -->
+<g id="node26" class="node"><title>Node26</title>
+<g id="a_node26"><a xlink:href="structx265_1_1MV.html#ad6ea050b3dad242656dba0bf3f921d41" target="_top" xlink:title="x265::MV::MV">
+<polygon fill="white" stroke="black" points="1172,-289.5 1172,-308.5 1252,-308.5 1252,-289.5 1172,-289.5"/>
+<text text-anchor="middle" x="1212" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">x265::MV::MV</text>
+</a>
+</g>
+</g>
+<!-- Node25&#45;&gt;Node26 -->
+<g id="edge27" class="edge"><title>Node25&#45;&gt;Node26</title>
+<path fill="none" stroke="midnightblue" d="M1123.12,-299C1135.54,-299 1149.02,-299 1161.61,-299"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1161.93,-302.5 1171.93,-299 1161.93,-295.5 1161.93,-302.5"/>
+</g>
+<!-- Node27&#45;&gt;Node26 -->
+<g id="edge29" class="edge"><title>Node27&#45;&gt;Node26</title>
+<path fill="none" stroke="midnightblue" d="M1110.81,-270.589C1128.03,-275.472 1149.16,-281.464 1167.57,-286.685"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1166.62,-290.053 1177.2,-289.414 1168.53,-283.319 1166.62,-290.053"/>
+</g>
+<!-- Node29&#45;&gt;Node30 -->
+<g id="edge32" class="edge"><title>Node29&#45;&gt;Node30</title>
+<path fill="none" stroke="midnightblue" d="M973.352,-95.2436C988.995,-93.0516 1005.98,-90.6709 1021.52,-88.4947"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1022.06,-91.952 1031.48,-87.0981 1021.09,-85.0198 1022.06,-91.952"/>
+</g>
+<!-- Node31&#45;&gt;Node26 -->
+<g id="edge34" class="edge"><title>Node31&#45;&gt;Node26</title>
+<path fill="none" stroke="midnightblue" d="M1106.08,-333.453C1125.48,-327.081 1151.21,-318.633 1172.33,-311.696"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1173.57,-314.974 1181.98,-308.529 1171.39,-308.323 1173.57,-314.974"/>
 </g>
 </g>
 </svg>

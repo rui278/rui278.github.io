@@ -2,8 +2,12 @@
 <area shape="rect" id="node2" href="$classx265_1_1RDCost.html#a40fd90b70985adbf29a0227fccd1c04a" title="x265::RDCost::setQP" alt="" coords="233,64,383,91"/>
 <area shape="rect" id="node3" href="$classx265_1_1Search.html#a2012f15cfb3bd341903328441413ff4a" title="x265::Search::setQP" alt="" coords="432,64,576,91"/>
 <area shape="rect" id="node4" href="$classx265_1_1Analysis.html#abd49473ae6e5e1f7e555b447b04398e6" title="x265::Analysis::parallelME" alt="" coords="625,5,802,32"/>
-<area shape="rect" id="node7" href="$classx265_1_1Analysis.html#aa6122285d10bb1bd7584958b88b029d5" title="x265::Analysis::parallel\lModeAnalysis" alt="" coords="635,57,792,98"/>
-<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="638,122,789,163"/>
-<area shape="rect" id="node5" href="$classx265_1_1Analysis.html#a29a58dad4cc1c07d2f5e5717c6be7c25" title="x265::Analysis::findJob" alt="" coords="851,35,1010,61"/>
-<area shape="rect" id="node6" href="$classx265_1_1Analysis.html#a87060ff27a37f56adc5f5b8a4c033ece" title="x265::Analysis::compress\lInterCU_dist" alt="" coords="1059,27,1232,69"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="1531,89,1682,130"/>
+<area shape="rect" id="node12" href="$classx265_1_1Analysis.html#aa6122285d10bb1bd7584958b88b029d5" title="x265::Analysis::parallel\lModeAnalysis" alt="" coords="635,57,792,98"/>
+<area shape="rect" id="node5" href="$classx265_1_1Analysis.html#a29a58dad4cc1c07d2f5e5717c6be7c25" title="x265::Analysis::findJob" alt="" coords="851,64,1010,91"/>
+<area shape="rect" id="node6" href="$classx265_1_1Analysis.html#a87060ff27a37f56adc5f5b8a4c033ece" title="x265::Analysis::compress\lInterCU_dist" alt="" coords="1059,57,1232,98"/>
+<area shape="rect" id="node7" href="$classx265_1_1Analysis.html#aaebc9de2ff98834c650244f3b58942c2" title="x265::Analysis::compressCTU" alt="" coords="1281,68,1482,95"/>
+<area shape="rect" id="node9" href="$classx265_1_1FrameEncoder.html#acad645a8ece97d884895f8f7366b7d70" title="x265::FrameEncoder\l::processRow" alt="" coords="1731,89,1874,130"/>
+<area shape="rect" id="node10" href="$classx265_1_1FrameEncoder.html#ac4e9ce2e876c0cdb25c992c872fe4302" title="x265::FrameEncoder\l::compressCTURows" alt="" coords="1923,89,2072,130"/>
+<area shape="rect" id="node11" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="2121,89,2263,130"/>
 </map>

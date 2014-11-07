@@ -1,9 +1,12 @@
 <map id="x265::Deblock::setEdgefilterMultiple" name="x265::Deblock::setEdgefilterMultiple">
 <area shape="rect" id="node2" href="$classx265_1_1Deblock.html#a2314896538bde018e8f4134f3f766df9" title="x265::Deblock::deblockCU" alt="" coords="496,24,675,50"/>
-<area shape="rect" id="node7" href="$classx265_1_1Deblock.html#a256fe829a95ac12fa76180b5efe79f98" title="x265::Deblock::setEdgefilterTU" alt="" coords="241,24,447,50"/>
-<area shape="rect" id="node8" href="$classx265_1_1Deblock.html#a131b33f8cd65ed758316db41fbf2e273" title="x265::Deblock::setEdgefilterPU" alt="" coords="241,74,447,101"/>
+<area shape="rect" id="node10" href="$classx265_1_1Deblock.html#a256fe829a95ac12fa76180b5efe79f98" title="x265::Deblock::setEdgefilterTU" alt="" coords="241,24,447,50"/>
+<area shape="rect" id="node11" href="$classx265_1_1Deblock.html#a131b33f8cd65ed758316db41fbf2e273" title="x265::Deblock::setEdgefilterPU" alt="" coords="241,74,447,101"/>
 <area shape="rect" id="node3" href="$classx265_1_1Deblock.html#a166deb5f5a020fff72ffae14556e4d95" title="x265::Deblock::deblockCTU" alt="" coords="723,24,909,50"/>
 <area shape="rect" id="node4" href="$classx265_1_1FrameFilter.html#a75d13efc3b8c164f9c1615bffda89891" title="x265::FrameFilter::\lprocessRow" alt="" coords="958,16,1090,58"/>
 <area shape="rect" id="node5" href="$classx265_1_1FrameEncoder.html#a764697a109059858166d1c017b81d233" title="x265::FrameEncoder\l::processRowFilter" alt="" coords="1139,16,1282,58"/>
 <area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#acad645a8ece97d884895f8f7366b7d70" title="x265::FrameEncoder\l::processRow" alt="" coords="1331,16,1474,58"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#ac4e9ce2e876c0cdb25c992c872fe4302" title="x265::FrameEncoder\l::compressCTURows" alt="" coords="1523,16,1672,58"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="1721,16,1863,58"/>
+<area shape="rect" id="node9" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="1913,16,2055,58"/>
 </map>

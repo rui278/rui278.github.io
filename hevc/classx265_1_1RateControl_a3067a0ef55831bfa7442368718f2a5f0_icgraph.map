@@ -1,9 +1,10 @@
 <map id="x265::RateControl::updatePredictor" name="x265::RateControl::updatePredictor">
 <area shape="rect" id="node2" href="$classx265_1_1RateControl.html#a9048fff1bfee4305bff8a77ec45b813f" title="x265::RateControl::\lrowDiagonalVbvRateControl" alt="" coords="189,5,376,46"/>
-<area shape="rect" id="node7" href="$classx265_1_1RateControl.html#ab7fe3380cc234b450909f871e9d0bd0a" title="x265::RateControl::\lupdateVbv" alt="" coords="215,70,351,111"/>
-<area shape="rect" id="node8" href="$classx265_1_1RateControl.html#a26331c267938f5e6e49ad5b07e4ff013" title="x265::RateControl::\lrateControlEnd" alt="" coords="432,70,568,111"/>
+<area shape="rect" id="node8" href="$classx265_1_1RateControl.html#ab7fe3380cc234b450909f871e9d0bd0a" title="x265::RateControl::\lupdateVbv" alt="" coords="215,70,351,111"/>
+<area shape="rect" id="node9" href="$classx265_1_1RateControl.html#a26331c267938f5e6e49ad5b07e4ff013" title="x265::RateControl::\lrateControlEnd" alt="" coords="432,70,568,111"/>
 <area shape="rect" id="node3" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="425,5,575,46"/>
 <area shape="rect" id="node4" href="$classx265_1_1FrameEncoder.html#acad645a8ece97d884895f8f7366b7d70" title="x265::FrameEncoder\l::processRow" alt="" coords="625,6,767,47"/>
 <area shape="rect" id="node5" href="$classx265_1_1FrameEncoder.html#ac4e9ce2e876c0cdb25c992c872fe4302" title="x265::FrameEncoder\l::compressCTURows" alt="" coords="816,7,965,49"/>
 <area shape="rect" id="node6" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="1014,38,1157,79"/>
+<area shape="rect" id="node7" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="1206,38,1349,79"/>
 </map>

@@ -5,8 +5,10 @@
 <area shape="rect" id="node4" href="$x265_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="737,5,788,32"/>
 <area shape="rect" id="node6" href="$classx265_1_1Entropy.html#adeb50a7c9a5df6643407d01158d93799" title="x265::Entropy::encodeCU" alt="" coords="451,56,624,83"/>
 <area shape="rect" id="node7" href="$classx265_1_1Entropy.html#abb101b71f310e90eb504a8204babc180" title="x265::Entropy::encodeCTU" alt="" coords="672,56,853,83"/>
-<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#a6d4045d35bfe6b10c8d0dc39353be360" title="x265::FrameEncoder\l::encodeSlice" alt="" coords="906,15,1049,57"/>
-<area shape="rect" id="node10" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="902,81,1053,122"/>
-<area shape="rect" id="node9" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="1102,15,1245,57"/>
-<area shape="rect" id="node11" href="$classx265_1_1FrameEncoder.html#acad645a8ece97d884895f8f7366b7d70" title="x265::FrameEncoder\l::processRow" alt="" coords="1102,81,1245,122"/>
+<area shape="rect" id="node8" href="$classx265_1_1FrameEncoder.html#a6d4045d35bfe6b10c8d0dc39353be360" title="x265::FrameEncoder\l::encodeSlice" alt="" coords="1102,15,1245,57"/>
+<area shape="rect" id="node11" href="$classx265_1_1FrameEncoder.html#a0ae85001572afd28238476542523ac5f" title="x265::FrameEncoder\l::processRowEncoder" alt="" coords="902,78,1053,119"/>
+<area shape="rect" id="node9" href="$classx265_1_1FrameEncoder.html#a2f5c4c0f1a4e36fce4c9b87eb7ec4973" title="x265::FrameEncoder\l::compressFrame" alt="" coords="1491,49,1634,90"/>
+<area shape="rect" id="node10" href="$classx265_1_1FrameEncoder.html#aef61f29b9e93b3af9255d96236bc90a7" title="x265::FrameEncoder\l::threadMain" alt="" coords="1683,49,1826,90"/>
+<area shape="rect" id="node12" href="$classx265_1_1FrameEncoder.html#acad645a8ece97d884895f8f7366b7d70" title="x265::FrameEncoder\l::processRow" alt="" coords="1102,81,1245,122"/>
+<area shape="rect" id="node13" href="$classx265_1_1FrameEncoder.html#ac4e9ce2e876c0cdb25c992c872fe4302" title="x265::FrameEncoder\l::compressCTURows" alt="" coords="1293,78,1443,119"/>
 </map>
