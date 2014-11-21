@@ -30,7 +30,9 @@ github:
 # This is the list of pages to incldue in the header of the website.
 pages_list:       {'About':'/about',
                    'Projects':'/projects','Archive':'/archive',
-                   'Twitter':'https://twitter.com/rui278','GitHub':'https://github.com/rui278',
+                   #'Twitter':'https://twitter.com/rui278','GitHub':'https://github.com/rui278',
+                   '![Twitter](/assets/twitter.svg)':'https://twitter.com/rui278',
+                   '![GitHub](/assets/git.svg)':'https://github.com/rui278',
                    'Feed':'/atom.xml'
                    }
 
