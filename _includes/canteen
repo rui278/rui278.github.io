@@ -1,0 +1,22 @@
+<script>
+var headers=$.getJSON('https://fenix.tecnico.ulisboa.pt/api/fenix/v1/canteen'[, data ] [, success ])
+  $.each(data.jsondata,function(clientIdx,item){
+      headers.push(item.label );
+      $.each( item.data,function(i,arr){
+        if( !rows[arr[0]]){
+         rows[arr[0]]=[];
+        }
+        rows[arr[0]][clientIdx]=arr[1];
+      })
+  })
+
+
+  var rowHtml='<tr><th>'+headers.join('</th><th>')+'</th></tr>';
+  $.each(rows,function(key, arr){
+    rowHtml+='<tr><td>'+key+'</td>';
+    rowHtml +='<td>'+arr.join('</td><td>')+'</td></tr>';
+
+  })
+
+  $('#table').html(rowHtml);
+</script>
