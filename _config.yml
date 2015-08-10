@@ -11,7 +11,7 @@ tagline:          #The Jekyll Butler
 # url:              http://getpoole.com
 url:              ruialbuquerque.pt
 paginate:         1
-baseurl:          /
+baseurl:          /about
 author:
   #name:           Mark Otto
   name:           Rui Albuquerque
