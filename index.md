@@ -19,10 +19,10 @@ On my free time I love traveling, and have already met a good (but never enough!
 If you want to contact me, feel free to hit me up on 
 <a href = "twitter.com/rui278">twitter</a>!
 
-## "blog.ruialbuquerque.pt">The Blog</a>
+## <a href ="blog.ruialbuquerque.pt">The Blog</a>
 
-So, what I’m trying to do "blog.ruialbuquerque.pt">there</a> is create a place where it about school, projects, technology in general, engineering, food. Well, just about anything that attracts my attention.
-Mostly this will be kind of an experiment for me, to see if I’m actually capable of maintaining this blog up with some regularity. I hope so. We'll see. :P So go visit it! <a href = "blog.ruialbuquerque.pt">blog.ruialbuquerque.pt</a>
+So, what I’m trying to do <a href ="blog.ruialbuquerque.pt">there</a> is create a place where it about school, projects, technology in general, engineering, food. Well, just about anything that attracts my attention.
+Mostly this will be kind of an experiment for me, to see if I’m actually capable of maintaining this blog up with some regularity. I hope so. We'll see. :P So go there and check it out! <a href = "blog.ruialbuquerque.pt">blog.ruialbuquerque.pt</a>
 
 
 Thanks for reading! And I hope you enjoy this new experiment!
