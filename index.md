@@ -27,6 +27,8 @@ If you want to contact me, feel free to hit me up on
 Thanks for reading! And I hope you enjoy this new experiment!
 (p.s. thanks to Ricardo for the about pic Photoshop and Artur for the favicon :D )
 
+
+
 <!--
 #---
 #layout: default
