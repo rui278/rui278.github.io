@@ -28,12 +28,17 @@ github:
 
 #added by me
 # This is the list of pages to incldue in the header of the website.
-pages_list:       {'About':'/about',
+#pages_list:       {'About':'/about',
+#                   'Projects':'/projects','Archive':'/archive',
+#                   'Twitter':'https://twitter.com/rui278','GitHub':'https://github.com/rui278',
+#                   'Feed':'/atom.xml'
+#                   }
+pages_list:       {'Blog':'htts://blog.ruialbuquerque.pt',
                    'Projects':'/projects','Archive':'/archive',
                    'Twitter':'https://twitter.com/rui278','GitHub':'https://github.com/rui278',
                    'Feed':'/atom.xml'
                    }
-
+                   
 
 
 projects_list:    {'CipherChat':'https://github.com/rui278/CipherChat',
