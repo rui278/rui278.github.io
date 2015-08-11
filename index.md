@@ -15,7 +15,7 @@ Hi! I'm Rui, and this is my blog/personal page!
 
 So, about me.
 I'm currently a Grad student in Electrical and Computer Engineering at Instituto Superior Técnico, in Lisbon. My main interests lie in computer architectures, hardware acceleration, algorithms, computer networks, optimization and more recently Artificial Intelligence and machine learning (I'll be expanding on those this year!). I also have an interest in systems and network security, parallel programing. You know, the usual Computer Engineering stuff...
-On my free time I love traveling, and have already met a good (but never enough!) share of European countries, and some of the Americas. I'll even be spending next semester abroad in Belgium's KUL, so that's going to be cool! I also recently began running, and have already completed my first Half-Marathon. I love reading (mostly Sci-Fi and Fantasy) and catching up on my favorite shows. And obviously, the obligatory spending time with my friends :)
+On my free time I love traveling, and have already met a good (but never enough!) share of European countries, and some of the Americas. I'll even be spending next semester abroad in Belgium's KUL, so that's going to be cool! I also recently began running, and have already completed my first Half-Marathon. I love reading (mostly Sci-Fi and Fantasy) and catching up on my favorite shows. And obviously, spending time with my friends :)
 If you want to contact me, feel free to hit me up on 
 <a href = "twitter.com/rui278">twitter</a>!
 
