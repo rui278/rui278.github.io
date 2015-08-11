@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Rui Albuquerque
 tagline:          #The Jekyll Butler
 # url:              http://getpoole.com
-url:              ruialbuquerque.pt
+url:              ruialbuquerque.pt/about.md
 paginate:         1
 baseurl:          /
 author:
