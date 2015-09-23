@@ -33,9 +33,9 @@ github:
 #                   'Twitter':'https://twitter.com/rui278','GitHub':'https://github.com/rui278',
 #                   'Feed':'/atom.xml'
 #                   }
-pages_list:       {'Blog':'htts://blog.ruialbuquerque.pt',
+pages_list:       {'Blog':'https://www.blog.ruialbuquerque.pt',
                    'Projects':'/projects','Archive':'/archive',
-                   'Twitter':'https://twitter.com/rui278','GitHub':'https://github.com/rui278',
+                   'Twitter':'https://www.twitter.com/rui278','GitHub':'https://www.github.com/rui278',
                    'Feed':'/atom.xml'
                    }
                    
